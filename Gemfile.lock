@@ -1,0 +1,24 @@
+GEM
+  remote: https://www.rubygems.org/
+  specs:
+    crack (0.4.3)
+      safe_yaml (~> 1.0.0)
+    curb (0.9.3)
+    gracenote (1.2.1)
+      crack
+      curb
+      rack
+    rack (2.0.1)
+    safe_yaml (1.0.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  gracenote
+
+RUBY VERSION
+   ruby 2.3.0p0
+
+BUNDLED WITH
+   1.12.5
