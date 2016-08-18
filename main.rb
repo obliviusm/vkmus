@@ -8,4 +8,13 @@ spec = {
 }
 obj = Gracenote.new(spec)
 # obj.registerUser # to get userID
-p obj.findTrack("Kings Of Convenience", "Riot On An Empty Street", "Homesick", '0').inspect
+p "---------------------------------"
+p "---------------------------------"
+p "---------------------------------"
+p "---------------------------------"
+p "---------------------------------"
+p "---------------------------------"
+
+# print obj.findTrack("Kings Of Convenience", "", "Home", '0').to_yaml
+
+print obj.findTrack("Whitey", "", "", '0').to_yaml

@@ -1,0 +1,7 @@
+:album_artist_name: Kings Of Convenience
+:album_title: Riot On An Empty Street
+:album_year: '2004'
+:genre: Alternative & Punk, Alternative, Alternative Singer-Songwriter
+artist_type Male, Male Duo, Scandinavia, Norway
+track_title Homesick
+mood Melancholy, Light Melancholy, Medium Tempo, Medium Slow, 60s
