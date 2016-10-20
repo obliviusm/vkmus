@@ -8,3 +8,6 @@ artist_type Male, Male Duo, Scandinavia, Norway
 track_title Homesick
 mood Melancholy, Light Melancholy, Medium Tempo, Medium Slow, 60s
 tempo "Medium Tempo", "Medium Fast", "90s"
+
+=> \".*\".*\"
+\s([a-zA-Z_]+):
