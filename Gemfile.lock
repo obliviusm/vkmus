@@ -51,6 +51,7 @@ GEM
       method_source (~> 0.8.1)
       slop (~> 3.4)
     rack (2.0.1)
+    require_all (1.3.3)
     safe_yaml (1.0.4)
     slop (3.6.0)
     unf (0.1.4)
@@ -73,6 +74,7 @@ DEPENDENCIES
   httparty
   json
   pry
+  require_all
   vk-ruby
 
 RUBY VERSION
