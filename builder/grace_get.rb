@@ -7,7 +7,7 @@ reader = Adapter::CsvReader.new(SOURCE_NAME)
 songs = reader.get_lines
 
 grace = Adapter::GracenoteReader.new()
-grace_songs = grace.get_songs(songs[0..100])
+grace_songs = grace.get_songs(songs)
 
 writer = Adapter::CsvWriter.new({
   name: "grace/" + NAME,

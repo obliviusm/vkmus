@@ -36,7 +36,7 @@ module Coercion
       when "str"
         val.to_s
       when "arr"
-        var.split(ARRAY_SEP)
+        val.split(ARRAY_SEP)
       else
         val
       end

@@ -20,6 +20,14 @@ module Adapter
       Coercion.coerce lines, meta_hash["columns"]
     end
 
+    def columns
+      meta_hash["columns"]
+    end
+
+    def column_names
+      meta_hash["column_names"]
+    end
+
     def meta_hash
       return @meta_hash if @meta_hash
 
