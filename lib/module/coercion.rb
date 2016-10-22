@@ -1,21 +1,37 @@
 module Coercion
-  def self.coerce list, types_hash
-    list.map do |item|
-      types_hash.each do |name, type|
-        item[name] = coerce_item item[name], type
+  class << self
+    def coerce_for_csv list, types_hash
+      list.map do |item|
+        types_hash.each do |name, type|
+          item[name] = coerce_item_for_csv item[name], type
+        end
+        item
       end
-      item
     end
-  end
 
-  def self.coerce_item val, type
-    case type
-    when "int"
-      val.to_i
-    when "str"
-      val.to_s
-    else
-      val
+    def coerce_item_for_csv val, type
+      # HTMLEntities.new.decode(val.to_s)
+      val.to_s.tr(';','').tr(',','').tr('&', 'and')
+    end
+
+    def coerce list, types_hash
+      list.map do |item|
+        types_hash.each do |name, type|
+          item[name] = coerce_item item[name], type
+        end
+        item
+      end
+    end
+
+    def coerce_item val, type
+      case type
+      when "int"
+        val.to_i
+      when "str"
+        val.to_s
+      else
+        val
+      end
     end
   end
 end

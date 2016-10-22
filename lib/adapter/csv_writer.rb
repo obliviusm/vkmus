@@ -18,9 +18,11 @@ module Adapter
     end
 
     def write lines
+      lines = Coercion.coerce_for_csv lines, @columns
       CSV.open(@filename, "wb") do |csv|
         csv.add_row @columns.keys
         lines.each do |line|
+          # p line.values_at(*@columns.keys)
           csv.add_row line.values_at(*@columns.keys)
         end
       end

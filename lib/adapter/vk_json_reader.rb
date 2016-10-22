@@ -30,7 +30,11 @@ module Adapter
       file = File.read @filename
       songs = JSON.parse(file)["response"]["items"]
       songs.delete_at(0)
-      Coercion.coerce songs, columns
+      songs = songs.map do |song|
+        song.map {|k, v| [k, HTMLEntities.new.decode(v)] }.to_h
+      end
+      # binding.pry
+      songs = Coercion.coerce songs, columns
     end
   end
 end

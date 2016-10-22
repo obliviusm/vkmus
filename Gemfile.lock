@@ -17,6 +17,7 @@ GEM
       curb
       rack
     highline (1.7.8)
+    htmlentities (4.3.4)
     http-cookie (1.0.2)
       domain_name (~> 0.5)
     httparty (0.14.0)
@@ -71,6 +72,7 @@ PLATFORMS
 
 DEPENDENCIES
   gracenote
+  htmlentities
   httparty
   json
   pry
