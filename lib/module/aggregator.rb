@@ -3,7 +3,15 @@ module Aggregator
     def aggragate_by lines, column_name
       lines_counter = Hash.new { 0 }
       lines.each do |line|
-        lines_counter[line[column_name]] += 1
+        val = line[column_name]
+        if val.is_a? Array
+          val.each do |v|
+            lines_counter[v] += 1
+          end
+          val = Coercion.coerce_item_for_csv val, "arr"
+        end
+
+        lines_counter[val] += 1
       end
       lines_counter = lines_counter.map do |k, v|
         {column_name => k, "count" => v }

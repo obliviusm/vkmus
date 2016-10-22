@@ -1,0 +1,4 @@
+description,Aggragate by artist_type
+source,output/grace/music.csv
+column_names,artist_type,count
+column_types,str,int

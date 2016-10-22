@@ -1,0 +1,22 @@
+artist_type,count
+Male,878
+"[""Male"" ""Male Group""]",409
+Male Group,409
+Female,317
+Mixed,240
+"[""Male"" ""Male""]",213
+"[""Mixed"" ""Mixed Group""]",207
+Mixed Group,207
+[],167
+"[""Female"" ""Female""]",150
+"[""Male"" ""Male Duo""]",43
+Male Duo,43
+"[""Mixed"" ""Mixed Duo""]",33
+Mixed Duo,33
+"[""Female"" ""Female Group""]",9
+Female Group,9
+"[""Female"" ""Female Duo""]",8
+Female Duo,8
+"[""Unknown"" ""Other""]",4
+Other,4
+Unknown,4

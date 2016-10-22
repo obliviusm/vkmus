@@ -1,0 +1,4 @@
+description,Aggragate by mood
+source,output/grace/music.csv
+column_names,mood,count
+column_types,str,int
