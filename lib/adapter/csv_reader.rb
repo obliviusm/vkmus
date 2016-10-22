@@ -1,5 +1,7 @@
 module Adapter
   class CsvReader
+    attr_reader :filename
+
     def initialize filename
       @filename = filename + ".csv"
       @filename_meta  = filename + "_meta.csv"

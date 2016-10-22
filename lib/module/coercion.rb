@@ -1,4 +1,5 @@
 module Coercion
+  ARRAY_SEP = '/';
   class << self
     def coerce_for_csv list, types_hash
       list.map do |item|
@@ -10,8 +11,13 @@ module Coercion
     end
 
     def coerce_item_for_csv val, type
-      # HTMLEntities.new.decode(val.to_s)
-      val.to_s.tr(';','').tr(',','').tr('&', 'and')
+      val = if type == "arr"
+        # p val
+        val.join(ARRAY_SEP)
+      else
+        val.to_s
+      end
+      val.tr(';','').tr(',','').tr('&', 'and')
     end
 
     def coerce list, types_hash
@@ -29,6 +35,8 @@ module Coercion
         val.to_i
       when "str"
         val.to_s
+      when "arr"
+        var.split(ARRAY_SEP)
       else
         val
       end
