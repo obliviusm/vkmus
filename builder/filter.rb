@@ -15,6 +15,7 @@ all_values.each do |column_value|
   # p songs.last
   songs_copy = Marshal.load( Marshal.dump(songs) )
   sub_songs = Filterer.by songs_copy, column_name, column_value
+  next if sub_songs.size < 4
   # p sub_songs
 
   writer = Adapter::CsvWriter.new({
