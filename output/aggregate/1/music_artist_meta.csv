@@ -1,4 +1,0 @@
-description,Aggragate by artist
-source,output/grace/music.csv
-column_names,artist,count
-column_types,str,int

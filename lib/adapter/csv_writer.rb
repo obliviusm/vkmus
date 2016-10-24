@@ -6,6 +6,15 @@ module Adapter
       @source = params[:source]
       @columns = params[:columns]
       @description = params[:description]
+
+      make_dir_if_needed @filename
+    end
+
+    def make_dir_if_needed filepath
+      dirname = filepath.split("/").tap{ |p| p.pop }.join("/")
+      unless File.directory?(dirname)
+        FileUtils.mkdir_p(dirname)
+      end
     end
 
     def write_meta

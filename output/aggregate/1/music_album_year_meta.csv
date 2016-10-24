@@ -1,4 +1,0 @@
-description,Aggragate by album_year
-source,output/grace/music.csv
-column_names,album_year,count
-column_types,str,int

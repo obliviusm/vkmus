@@ -1,4 +1,0 @@
-description,Aggragate by genre
-source,output/grace/music.csv
-column_names,genre,count
-column_types,str,int

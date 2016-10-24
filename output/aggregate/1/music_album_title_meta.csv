@@ -1,4 +1,0 @@
-description,Aggragate by album_title
-source,output/grace/music.csv
-column_names,album_title,count
-column_types,str,int

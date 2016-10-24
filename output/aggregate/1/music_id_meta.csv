@@ -1,4 +1,0 @@
-description,Aggragate by id
-source,output/grace/music.csv
-column_names,id,count
-column_types,str,int
