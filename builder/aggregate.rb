@@ -11,7 +11,7 @@ reader.columns.each do |column_name, column_type|
   writer = Adapter::CsvWriter.new({
     name: "aggregate/" + column_name,
     source: reader.filename,
-    columns: {column_name => "str", "count" => "int"},
+    columns: {column_name => "arr", "count" => "int"},
     description: "Aggragate by #{column_name}"
   })
   writer.write_meta

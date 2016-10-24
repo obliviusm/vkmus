@@ -11,7 +11,7 @@ module Coercion
     end
 
     def coerce_item_for_csv val, type
-      val = if type == "arr"
+      val = if val.is_a? Array
         # p val
         val.join(ARRAY_SEP)
       else

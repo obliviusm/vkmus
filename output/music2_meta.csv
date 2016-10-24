@@ -1,4 +1,0 @@
-description,Parsed json file with vk music data
-source,input/music.json
-column_names,id,artist,title,duration,date,url,lyrics_id,genre_id
-column_types,int,str,str,int,int,str,int,int

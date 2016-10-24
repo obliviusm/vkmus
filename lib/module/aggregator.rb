@@ -8,7 +8,7 @@ module Aggregator
           val.each do |v|
             lines_counter[v] += 1
           end
-          val = Coercion.coerce_item_for_csv val, "arr"
+          # val = Coercion.coerce_item_for_csv val, "arr"
         end
 
         lines_counter[val] += 1

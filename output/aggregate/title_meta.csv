@@ -1,4 +1,4 @@
 description,Aggragate by title
 source,output/grace/music.csv
 column_names,title,count
-column_types,str,int
+column_types,arr,int
