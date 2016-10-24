@@ -1,4 +1,0 @@
-description,Filter genre by {column_value}
-source,output/aggregate/genre.csv
-column_names,genre,count
-column_types,arr,int

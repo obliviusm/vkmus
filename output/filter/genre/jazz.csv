@@ -1,1 +1,9 @@
-genre,count
+id,artist,title,album_title,artist_type,album_year,genre,mood,tempo
+456239133,KRUT,I Wanna Fly,Arche,"",2016,Jazz/Bebop a Modern Jazz/Modern Jazz,"",""
+456239111,The Puppini Sisters,Wuthering Heights,Betcha Bottom Dollar,Female/Female Group,2006,Jazz/Jazz Vocals/Jazz Vocals,Sophisticated/Suave / Sultry,Medium Tempo/Medium Slow/60s
+456239033,Caro Emerald,The Wonderful In You,The Shocking Miss Emerald,Female/Female,2013,Jazz/Jazz Vocals/Jazz Vocals,Easygoing/Friendly,Medium Tempo/Medium/70s
+431369393,Vince Giordano's Nighthawks,Sweet Man,Quality Shout,Male/Male Group,1993,Jazz/Big Band a Swing/Big Band,Lively/Playful / Swingin',Medium Tempo/Medium Fast/110s
+430933182,Caro Emerald,Pack Up The Louie (Caravan Palace Remix),The Shocking Miss Emerald,Female/Female,2016,Jazz/Jazz Vocals/Jazz Vocals,Energizing/Edgy / Sexy,Medium Tempo/Medium Fast/110s
+328269078,Dmitry Ilugdin,"В Память О Холокосте / Тема Из К/Ф ""Список Шиндлера"" / Увертюра К Опере ""Тангейзер""",Rethought the Classic,"",0,Jazz/Bebop a Modern Jazz/Modern Jazz,"",""
+185649734,Nina Simone,Feeling Good (Joe Claussell Remix),Feeling Good (Joe Claussell Remix),Female/Female,0,Jazz/Jazz Vocals/Jazz Vocals,Sensual/Dreamy Pulse,Medium Tempo/Medium/70s
+61796140,Grant Geissman,Theme From Two And A Half Men,Say That!,Male/Male,2006,Jazz/Smooth Jazz/Smooth Jazz Instrumental,Easygoing/Friendly,Medium Tempo/Medium/70s

@@ -1,1 +1,120 @@
-genre,count
+id,artist,title,album_title,artist_type,album_year,genre,mood,tempo
+456239171,Flunk,Cigarette Burns,This Is What You Get,Mixed/Mixed Group,2009,Electronica/Downtempo Lounge a Ambient/Trip Hop,Yearning/Energetic Yearning,Medium Tempo/Medium Fast/110s
+456239155,Ellie Goulding,Still Falling For You,Still Falling For You [Single],Female/Female,2016,Electronica/Electronica Mainstream/Pop Electronica,Empowering/Dramatic Emotion,Slow Tempo/Slow/40s
+456239104,KC a The Sunshine Band,Get Down Tonight,The Best Of KC a The Sunshine Band,Male/Male Group,1990,Electronica/Disco/Disco,Cool/Dark Groovy,Medium Tempo/Medium Fast/110s
+456239099,Various Artists,Is It Too Late Featuring Lena Belgart [Classic Piano Mix],Airport Lounge Vol. 2,"",2014,Electronica/Downtempo Lounge a Ambient/Ambient Electronica,Romantic/Dramatic / Romantic,Medium Tempo/Medium Slow/50s
+456239094,Halsey,Control,Badlands [Deluxe],Female/Female,2015,Electronica/Electronica Mainstream/Pop Electronica,Melancholy/Sad / Soulful,Medium Tempo/Medium Slow/60s
+456239087,Duke Dumont,Ocean Drive,Ocean Drive,Male/Male,2015,Electronica/House/Deep House,Energizing/Edgy / Sexy,Medium Tempo/Medium Fast/110s
+456239071,Sneaker Pimps,Low Place Like Home,Becoming X,Mixed/Mixed Group,1997,Electronica/Downtempo Lounge a Ambient/Trip Hop,Energizing/Edgy / Sexy,Medium Tempo/Medium/80s
+456239068,8mm,Angel,Songs To Love And Die By...,Mixed/Mixed Group,2006,Electronica/Downtempo Lounge a Ambient/Neo-Lounge,Urgent/Dark Pop Intensity,Fast Tempo/Fast/160s
+456239067,Rob Dougan,There's Only Me,Furious Angels,Male/Male,2002,Electronica/Dance a Club/Club Dance,Brooding/Alienated / Brooding,Medium Tempo/Medium Fast/100s
+456239055,Julie Thompson With Dragon a Jontron,Loved (Radio Edit),Loved,"",2014,Electronica/Dance a Club/Club Dance,Excited/Euphoric Energy,Medium Tempo/Medium Fast/120s
+456239039,Hooverphonic,Amalfi,Reflection,Mixed/Mixed Group,2013,Electronica/Downtempo Lounge a Ambient/General Downtempo,Empowering/Dramatic Emotion,Medium Tempo/Medium/60s
+456239035,Caravan Palace,Violente Valse,Caravan Palace,Mixed/Mixed Group,2008,Electronica/Electronica Fusion/Ethno-Lounge Electronica,Brooding/Dreamy Brooding,Medium Tempo/Medium Slow/60s
+456239034,Caravan Palace,Dragons,Caravan Palace,Mixed/Mixed Group,2008,Electronica/Electronica Fusion/Ethno-Lounge Electronica,Excited/Upbeat Pop Groove,Medium Tempo/Medium Fast/120s
+456239032,Caravan Palace,Aftermath,<I°_°I>,Mixed/Mixed Group,2015,Electronica/Electronica Fusion/Ethno-Lounge Electronica,Energizing/Abstract Beat,Fast Tempo/Fast/140s
+438963366,Various Artists,Гарри Поттер,XXXL 16: Танцевальный,"",2006,Electronica/Dance a Club/Club Dance,Urgent/Dark Pop Intensity,Fast Tempo/Fast/130s
+435569630,Monarchy,Living Without You,Abnocto,Male/Male Duo,2015,Electronica/House/General House,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/120s
+432650002,Parov Stelar,Booty Swing,The Princess: The Vinyl Collection 2010 - 2012,Male/Male,2012,Electronica/Electronica Fusion/Ethno-Lounge Electronica,Urgent/Dark Pop Intensity,Medium Tempo/Medium Fast/110s
+432602349,Parov Stelar,Catgroove,Coco Pt. 2,Male/Male,2009,Electronica/Electronica Fusion/Ethno-Lounge Electronica,Energizing/Arousing Groove,Medium Tempo/Medium Fast/120s
+432517617,Caravan Palace,Lone Digger,<I°_°I>,Mixed/Mixed Group,2015,Electronica/Electronica Fusion/Ethno-Lounge Electronica,Energizing/Arousing Groove,Medium Tempo/Medium Fast/120s
+431724224,Alice Francis,Shoot Him Down (Parov Stelar Radio Version),Shoot Him Down (The Parov Stelar Versions),Female/Female,2012,Electronica/Electronica Fusion/Ethno-Lounge Electronica,Energizing/Edgy / Sexy,Medium Tempo/Medium Fast/120s
+431719462,Caravan Palace,Jolie Coquine,Caravan Palace,Mixed/Mixed Group,2008,Electronica/Electronica Fusion/Ethno-Lounge Electronica,Energizing/Edgy / Sexy,Medium Tempo/Medium Fast/120s
+430939293,Swingrowers,That's Right!,Remote,Mixed/Mixed Group,2014,Electronica/Electronica Fusion/Ethno-Lounge Electronica,Cool/Wary / Defiant,Slow Tempo/Slow/40s
+428750491,Flagrant Fowl,"Feist's ""Gatekeeper"" (Pocketknife's Faded Beach Towel Remix)",Tambourine Dream,"",2007,Electronica/Trance/Trance,Urgent/Dark Pop,Medium Tempo/Medium Fast/120s
+426321858,The Prodigy,The Day Is My Enemy,The Day Is My Enemy,Male/Male Group,2015,Electronica/Electronica Mainstream/Big Beat,Aggressive/Aggressive Power,Medium Tempo/Medium Fast/100s
+424458901,Kaleida,Think,Think,Female/Female Duo,2015,Electronica/Electronica Mainstream/Pop Electronica,Sensual/Dreamy Pulse,Medium Tempo/Medium/60s
+424444859,Archive,Bullets,Controlling Crowds,Mixed/Mixed Group,2009,Electronica/Downtempo Lounge a Ambient/Trip Hop,Brooding/Evocative / Intriguing,Medium Tempo/Medium/80s
+420190821,Parov Stelar,Hurt,Coco Pt. 1,Male/Male,2009,Electronica/Electronica Fusion/Ethno-Lounge Electronica,Urgent/Dark Pop,Medium Tempo/Medium Fast/100s
+414946310,UNKLE,When Things Explode (Featuring Ian Astbury),War Stories,Male/Male Group,2007,Electronica/Downtempo Lounge a Ambient/Trip Hop,Brooding/Dreamy Brooding,Medium Tempo/Medium/70s
+414580268,Zella Day,High,Kicker,Female/Female,2015,Electronica/Electronica Mainstream/Pop Electronica,"",""
+412574665,Raydar,Full Moon,Evil Squad - EP,"",2015,Electronica/Electronica Mainstream/Pop Electronica,"",""
+393851786,DJ Vadim,Beyond Thought,U.S.S.R. Reconstruction,Male/Male,2005,Electronica/Downtempo Lounge a Ambient/Ambient Electronica,Sensual/Dreamy Pulse,Medium Tempo/Medium/70s
+393698569,Mydy Rabycad,Drowning,Let Your Body Move,Mixed/Mixed Group,2013,Electronica/Electronica Fusion/Ethno-Lounge Electronica,Excited/Euphoric Energy,Medium Tempo/Medium Fast/120s
+391828382,Portishead,Elysium,Portishead,Mixed/Mixed Group,1997,Electronica/Downtempo Lounge a Ambient/Trip Hop,Urgent/Energetic Anxious,Medium Tempo/Medium/80s
+390404112,ATB,Made Of Glass,Trilogy,Male/Male,2007,Electronica/Trance/Trance,Urgent/Dark Pop Intensity,Fast Tempo/Fast/130s
+390389299,ATB,Missing,Future Memories,Male/Male,2009,Electronica/Trance/Trance,Sensual/Dreamy Pulse,Medium Tempo/Medium Slow/60s
+386547845,The Chemical Brothers,Escape Velocity,Further,Male/Male Duo,2010,Electronica/Electronica Mainstream/Big Beat,Excited/Euphoric Energy,Fast Tempo/Fast/140s
+380288884,Zella Day,Hypnotic,Kicker,Female/Female,2015,Electronica/Electronica Mainstream/Pop Electronica,"",""
+379720027,Hybrid,Formula Of Fear,Disappear Here,Mixed/Mixed Group,2010,Electronica/Techno/Classic Techno,Urgent/Dark Pop,Fast Tempo/Fast/130s
+379594105,Hybrid,Disappear Here,Disappear Here,Mixed/Mixed Group,2010,Electronica/Techno/Classic Techno,Sensual/Dreamy Pulse,Medium Tempo/Medium Slow/60s
+375840402,iamamiwhoami,Shadowshow,Blue,Female/Female,2014,Electronica/Electronica Mainstream/Pop Electronica,Sensual/Dreamy Pulse,Slow Tempo/Slow/40s
+372574980,I Monster,Daydream In Blue,neveroddoreven,Male/Male Duo,2004,Electronica/Downtempo Lounge a Ambient/General Downtempo,Sensual/Dreamy Pulse,Medium Tempo/Medium/70s
+347540406,Justice,D.A.N.C.E.,Cross,Male/Male Duo,2007,Electronica/House/General House,Energizing/Edgy / Sexy,Medium Tempo/Medium Fast/110s
+340629278,Ellie Goulding,Burn,Halcyon Days,Female/Female,2013,Electronica/Electronica Mainstream/Pop Electronica,Energizing/Edgy / Sexy,Medium Tempo/Medium/80s
+340110553,Ellie Goulding,Stay Awake,Halcyon Days,Female/Female,2013,Electronica/Electronica Mainstream/Pop Electronica,Urgent/Dark Pop,Medium Tempo/Medium/80s
+333409382,ProleteR,April Showers,Curses from Past Times EP,Male/Male Duo,2011,Electronica/Electronica Fusion/Ethno-Lounge Electronica,Cool/Dark Groovy,Medium Tempo/Medium Fast/90s
+329383182,The Hardkiss,In Love,Stones and Honey,Mixed/Mixed Group,2014,Electronica/Electronica Mainstream/Pop Electronica,Urgent/Energetic Anxious,Fast Tempo/Fast/130s
+329382612,The Hardkiss,Stones,Stones and Honey,Mixed/Mixed Group,2014,Electronica/Electronica Mainstream/Pop Electronica,Sophisticated/Smoky / Romantic,Medium Tempo/Medium/70s
+329381325,The Hardkiss,October,Stones and Honey,Mixed/Mixed Group,2014,Electronica/Electronica Mainstream/Pop Electronica,Somber/Enigmatic / Mysterious,Slow Tempo/Very Slow/30s
+326600809,The Cinematic Orchestra,To Build A Home -Feat. Patrick Watson-,Ma Fleur,Mixed/Mixed Group,0,Electronica/Downtempo Lounge a Ambient/General Downtempo,"",""
+326595725,The Cinematic Orchestra,Arrival Of The Birds,The Crimson Wing: Mystery Of The Flamingos,Mixed/Mixed Group,2009,Electronica/Downtempo Lounge a Ambient/General Downtempo,Romantic/Dramatic / Romantic,Medium Tempo/Medium/60s
+315499373,Twenty 4 Seven Feat. Stay-C a Nance,Leave Them Alone,Slave To The Music,Male/Male Group,1993,Electronica/Dance a Club/Club Dance,Excited/Euphoric Energy,Fast Tempo/Fast/130s
+310206935,Rob Dougan,Born Yesterday,Furious Angels,Male/Male,2002,Electronica/Dance a Club/Club Dance,Brooding/Alienated / Brooding,Fast Tempo/Fast/140s
+309959637,The Prodigy,Invaders Must Die,Invaders Must Die,Male/Male Group,2009,Electronica/Electronica Mainstream/Big Beat,Urgent/Energetic Anxious,Fast Tempo/Fast/140s
+306217379,Portishead,Roads,Dummy,Mixed/Mixed Group,1994,Electronica/Downtempo Lounge a Ambient/Trip Hop,Sensual/Dreamy Pulse,Medium Tempo/Medium Slow/50s
+300194070,Glenn Morrison Feat. Islove,Goodbye [Radio Edit],Goodbye [Single],Male/Male Duo,2013,Electronica/Electronica Mainstream/Pop Electronica,Excited/Upbeat Pop Groove,Medium Tempo/Medium Fast/120s
+294511809,White Sea,Flash,In Cold Blood,Female/Female,2014,Electronica/Electronica Mainstream/Pop Electronica,Excited/Euphoric Energy,Fast Tempo/Fast/140s
+294502257,Koven.,Another Home,Another Home [Single],Male/Male,2014,Electronica/Jungle/Drum 'n' Bass/Drum 'n' Bass,"",""
+294492255,Miike Snow,Paddling Out,Happy To You,Male/Male Group,2012,Electronica/Electronica Mainstream/Pop Electronica,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/120s
+294491908,Ta-Ku,Why,Beat Sketches Vol. 1 (Japan Version),Male/Male,2010,Electronica/House/U.K. Garage,Sensual/Dreamy Pulse,Slow Tempo/Slow/40s
+291811380,The Glitch Mob,Animus Vox,Drink The Sea,Male/Male Group,2010,Electronica/Dubstep/Dubstep,Cool/Wary / Defiant,Medium Tempo/Medium/60s
+287340554,SomethingALaMode,Losing Game,Endless Stairs,Male/Male Duo,2014,Electronica/House/General House,Urgent/Dark Pop Intensity,Medium Tempo/Medium Fast/110s
+276476137,Hooverphonic,Eden,Blue Wonder Power Milk,Mixed/Mixed Group,1998,Electronica/Downtempo Lounge a Ambient/General Downtempo,Brooding/Dreamy Brooding,Medium Tempo/Medium/80s
+276110686,Hooverphonic,Norwegian Stars,The Night Before,Mixed/Mixed Group,2012,Electronica/Downtempo Lounge a Ambient/General Downtempo,Yearning/Energetic Yearning,Medium Tempo/Medium Fast/110s
+276109128,Hooverphonic,Devil Kind of Girl,Reflection,Mixed/Mixed Group,2013,Electronica/Downtempo Lounge a Ambient/General Downtempo,Rowdy/Ramshackle / Rollicking,Medium Tempo/Medium/70s
+265335739,Pnau,Embrace,Pnau,Male/Male Duo,2011,Electronica/Electronica Mainstream/Pop Electronica,Excited/Euphoric Energy,Medium Tempo/Medium Fast/120s
+265335520,Pnau,Solid Ground,Soft Universe,Male/Male Duo,2011,Electronica/Electronica Mainstream/Pop Electronica,Urgent/Dark Pop,Medium Tempo/Medium Fast/120s
+263536410,Hooverphonic,No More Sweet Music,More Sweet Music [Disc 2],Mixed/Mixed Group,2005,Electronica/Downtempo Lounge a Ambient/General Downtempo,Urgent/Dark Pop Intensity,Medium Tempo/Medium Fast/100s
+263525366,Hooverphonic,Vinegar a Salt,The Magnificent Tree,Mixed/Mixed Group,2000,Electronica/Downtempo Lounge a Ambient/General Downtempo,Yearning/Energetic Yearning,Medium Tempo/Medium Slow/60s
+263500527,Hooverphonic,Mad About You,The Magnificent Tree,Mixed/Mixed Group,2000,Electronica/Downtempo Lounge a Ambient/General Downtempo,Urgent/Dark Pop Intensity,Fast Tempo/Fast/160s
+263220913,Hooverphonic,Radio Silence,Reflection,Mixed/Mixed Group,2013,Electronica/Downtempo Lounge a Ambient/General Downtempo,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/100s
+251977914,The Hardkiss,Tell Me Brother,Stones and Honey,Mixed/Mixed Group,2014,Electronica/Electronica Mainstream/Pop Electronica,Defiant/Heavy Brooding,Medium Tempo/Medium/70s
+250338780,The Cinematic Orchestra,Arrival Of The Birds,The Crimson Wing: Mystery Of The Flamingos,Mixed/Mixed Group,2009,Electronica/Downtempo Lounge a Ambient/General Downtempo,Romantic/Dramatic / Romantic,Medium Tempo/Medium/60s
+244643013,Rob Dougan,Born Yesterday,Furious Angels,Male/Male,2002,Electronica/Dance a Club/Club Dance,Brooding/Alienated / Brooding,Fast Tempo/Fast/140s
+244523304,Avicii,Liar Liar,True,Male/Male,2013,Electronica/Dance a Club/Club Dance,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/120s
+239997851,Empire Of The Sun,Old Flavours,Ice On The Dune,Male/Male Duo,2013,Electronica/Electronica Mainstream/Pop Electronica,Urgent/Dark Pop,Medium Tempo/Medium Fast/120s
+239997184,Empire Of The Sun,Celebrate,Ice On The Dune,Male/Male Duo,2013,Electronica/Electronica Mainstream/Pop Electronica,Urgent/Dark Pop,Medium Tempo/Medium Fast/110s
+228103905,Groove Armada,Easy,Lovebox,Male/Male Duo,2002,Electronica/Electronica Mainstream/Big Beat,Excited/Euphoric Energy,Medium Tempo/Medium Fast/120s
+226808404,Icona Pop,All Night,This Is... Icona Pop,Female/Female Duo,2013,Electronica/Electronica Mainstream/Pop Electronica,Excited/Euphoric Energy,Medium Tempo/Medium Fast/120s
+215311469,Armin Van Buuren Feat. Lauren Evans,Alone,Alone,Mixed/Mixed Duo,2010,Electronica/House/Progressive House,Excited/Euphoric Energy,Medium Tempo/Medium Fast/120s
+213236062,Portishead,Roads,Dummy,Mixed/Mixed Group,1994,Electronica/Downtempo Lounge a Ambient/Trip Hop,Sensual/Dreamy Pulse,Medium Tempo/Medium Slow/50s
+211079404,Something A La Mode,Gstring  ,Something A La Mode,"",2011,Electronica/Electronica Mainstream/Pop Electronica,Yearning/Energetic Yearning,Medium Tempo/Medium Fast/110s
+208574972,FMLYBND,Electricity (Rush),Back to Life EP,Mixed/Mixed Group,2014,Electronica/Electronica Mainstream/Pop Electronica,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+207258319,Swedish House Mafia,Save The World / Punk (Arty Rock-N-Rolla Mix),Until Now,Male/Male Group,2012,Electronica/House/Progressive House,Brooding/Dreamy Brooding,Medium Tempo/Medium Slow/60s
+201883498,Various Artists,BACH IS BACK,JULIANA'S TOKYO VOL.3,"",1992,Electronica/Trance/Trance,Excited/Euphoric Energy,Medium Tempo/Medium Fast/120s
+193200591,Various Artists,Serious Problems (Mirco Niemeier Remix),About: Berlin Vol: 4,"",2013,Electronica/Electronica Mainstream/Pop Electronica,"",""
+184541854,Swedish House Mafia Feat. John Martin,Don't You Worry Child (Radio Edit),Don't You Worry Child (UK Promo),Male/Male Group,2012,Electronica/House/Progressive House,"",""
+184541484,Bobina a Betsie Larkin,You Belong To Me (Radio Edit),You Belong To Me,"",2011,Electronica/Dance a Club/Club Dance,Excited/Euphoric Energy,Fast Tempo/Fast/130s
+184540629,Sebastian Ingrosso Steve Angello Tiesto Marcel Woods John Dahlback Jean Elan Cosmo Klein B/B Noferini,Feel Alive (Arnaud Andrieu a Matt Venice Remix),St Tropez Fever [Disc 1],"",2011,Electronica/Electronica Mainstream/Pop Electronica,Energizing/Heavy Beat,Medium Tempo/Medium Fast/120s
+183483080,Calvin Harris Feat. Example,We'll Be Coming Back,Live At The Rogue Folk Club,Male/Male Duo,2012,Electronica/House/Progressive House,"",""
+180190331,Bob Sinclar Feat. Sophie Ellis-Bextor a Gilbere Forte,Fuck With You (Fuzzy Hair Remix),F*** With You [Fuzzy Hair Remix],Mixed/Mixed Group,2012,Electronica/House/Euro House,"",""
+177157539,Calvin Harris,Sweet Nothing (Featuring Florence Welch),Calvin,Mixed/Mixed Duo,2012,Electronica/House/Progressive House,"",""
+177156757,Armin Van Buuren Vs. Sophie Ellis Bextor,Not Giving Up On Love [Radio Version],Not Giving Up On Love [Single],Mixed/Mixed Duo,2010,Electronica/Trance/Trance,Excited/Upbeat Pop Groove,Fast Tempo/Fast/130s
+176107379,Various Artists,Haifa (Club Star Remix),The Annual Ibiza 2002,"",2002,Electronica/Techno/Minimalist Techno,Excited/Euphoric Energy,Fast Tempo/Fast/130s
+166750668,Modjo,Lady (Hear Me Tonight),Modjo (UK CD Set),Male/Male Duo,2001,Electronica/House/Euro House,Stirring/Jubilant / Soulful,Medium Tempo/Medium Fast/120s
+166674860,Various Artists,Be Your Sound (Orjan Nilsen Remix),The Annual Compilation 2012 [Disc 5],"",2012,Electronica/Trance/Trance,Excited/Euphoric Energy,Fast Tempo/Fast/130s
+166655091,Emma Hewitt,These Days Are Ours,Burn The Sky Down,Female/Female,2012,Electronica/Trance/Trance,Yearning/Energetic Yearning,Medium Tempo/Medium/80s
+163984653,La Roux,Tigerlily,La Roux,Mixed/Mixed Duo,2009,Electronica/Electronica Mainstream/Pop Electronica,Energizing/Arousing Groove,Fast Tempo/Fast/140s
+163574992,Emma Hewitt,Colours,Burn The Sky Down,Female/Female,2012,Electronica/Trance/Trance,Romantic/Dramatic / Romantic,Slow Tempo/Very Slow/30s
+147182423,ATB,My Everything,Future Memories [Disc 1],Male/Male,2009,Electronica/Trance/Trance,Yearning/Energetic Dreamy,Medium Tempo/Medium/80s
+133323086,The Hardkiss,Babylon,Stones and Honey,Mixed/Mixed Group,2014,Electronica/Electronica Mainstream/Pop Electronica,Sophisticated/Smoky / Romantic,Medium Tempo/Medium/60s
+133320940,The Hardkiss,Dance with Me,Stones and Honey,Mixed/Mixed Group,2014,Electronica/Electronica Mainstream/Pop Electronica,Urgent/Dark Pop Intensity,Medium Tempo/Medium Fast/120s
+128615988,Freemasons Feat. Sophie Ellis-Bextor,Heartbreak (Make Me A Dancer),Heartbreak 'Make Me A Dancer',Mixed/Mixed Group,2009,Electronica/House/General House,"",""
+121135638,009 Sound System,Trinity,009 Sound System,Male/Male,2009,Electronica/Trance/Trance,Excited/Euphoric Energy,Medium Tempo/Medium Fast/120s
+118104013,Audio Bullys,Only Man,Higher Than The Eiffel,Male/Male Duo,2011,Electronica/Electronica Mainstream/Big Beat,Energizing/Edgy / Sexy,Medium Tempo/Medium Fast/100s
+98933139,Различные Исполнители,Тимати и банда - Плачут небеса,Песня года 2004,"",2004,Electronica/Dance a Club/Club Dance,"",""
+96795714,Flagrant Fowl,"Feist's ""Gatekeeper"" (Pocketknife's Faded Beach Towel Remix)",Tambourine Dream,"",2007,Electronica/Trance/Trance,Urgent/Dark Pop,Medium Tempo/Medium Fast/120s
+92292259,Top Of The Charts,Higher Place (Bassjackers Remix) - Dimitri Vegas a Like Mike VS Neyo,TOP Chart 8 [Disc 1],"",2015,Electronica/Electronica Mainstream/Pop Electronica,"",""
+91516560,Archive,You make me feel [Live Zénith Paris],Live At The Zenith,Mixed/Mixed Group,2007,Electronica/Downtempo Lounge a Ambient/Trip Hop,Urgent/Energetic Anxious,Medium Tempo/Medium/80s
+91143848,Armin Van Buuren,Mirage,Mirage,Male/Male,2010,Electronica/Trance/Trance,Excited/Euphoric Energy,Fast Tempo/Fast/130s
+91070154,Armin Van Buuren Feat. Christian Burns,This Light Between Us,This Light Between Us (Deluxe Edition),Male/Male Duo,2011,Electronica/Trance/Trance,"",""
+89447963,Kelly Holiday,Dogma,Essential Music (Album),"",2014,Electronica/Dance a Club/Club Dance,Sensual/Dreamy Pulse,Medium Tempo/Medium Slow/60s
+78095737,Armin Van Buuren,Serenity (ft. Jan Vayne)(Sensation White Theme 2005) (Original Mix),Shivers EP,Male/Male,2005,Electronica/Trance/Trance,Energizing/Heavy Beat,Fast Tempo/Fast/130s
+78094846,Armin Van Buuren,Serenity (ft. Jan Vayne)(Sensation White Theme 2005) (Original Mix),Shivers EP,Male/Male,2005,Electronica/Trance/Trance,Energizing/Heavy Beat,Fast Tempo/Fast/130s
+77081973,Shaun Baker Feat. Maloy,Give! (Sebastian Wolter Original Radio Version),Give! [Single],"",2009,Electronica/House/General House,Excited/Euphoric Energy,Medium Tempo/Medium Fast/120s
+73687615,Morandi,Save Me,N3xt,Male/Male Duo,2008,Electronica/Dance a Club/Club Dance,Sensual/Dreamy Pulse,Slow Tempo/Very Slow/30s
+72810311,Daft Punk,Harder Better Faster Stronger,Discovery,Male/Male Duo,2001,Electronica/House/Euro House,Urgent/Dark Pop,Medium Tempo/Medium Fast/120s
+72757723,Moby,Why Does My Heart Feel So Bad?,Play,Male/Male,1999,Electronica/Electronica Mainstream/Pop Electronica,Brooding/Dreamy Brooding,Slow Tempo/Slow/40s
+72477572,Massive Attack,Splitting The Atom,Heligoland,Male/Male Group,2010,Electronica/Downtempo Lounge a Ambient/Trip Hop,Brooding/Dreamy Brooding,Medium Tempo/Medium Slow/50s
+68284513,Dash Berlin Feat. Emma Hewitt,Waiting (Dabruck a Klein Remix Edit),Dash Berlin Top 15 - September 2011 (Including Classic Bonus Track),Mixed/Mixed Group,2011,Electronica/Trance/Trance,Excited/Euphoric Energy,Medium Tempo/Medium Fast/120s

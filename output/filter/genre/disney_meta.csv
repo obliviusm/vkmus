@@ -1,4 +1,4 @@
 description,Filter genre by {column_value}
-source,output/aggregate/genre.csv
-column_names,genre,count
-column_types,arr,int
+source,output/grace/music.csv
+column_names,id,artist,title,album_title,artist_type,album_year,genre,mood,tempo
+column_types,int,str,str,str,arr,int,arr,arr,arr

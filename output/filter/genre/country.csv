@@ -1,1 +1,7 @@
-genre,count
+id,artist,title,album_title,artist_type,album_year,genre,mood,tempo
+427085610,Corde Oblique,Cantastorie,Volonta d'Arte,"",2008,Traditional/Country/General Country,Melancholy/Wistful / Forlorn,Medium Tempo/Medium Slow/50s
+367199722,Carrie Underwood,Before He Cheats,Some Hearts,Female/Female,2005,Traditional/Country/Contemporary Country,Sophisticated/Smoky / Romantic,Slow Tempo/Very Slow/30s
+242650171,Dierks Bentley,Trying To Stop Your Leaving,Long Trip Alone,Male/Male,2006,Traditional/Country/Contemporary Country,Upbeat/Happy / Soulful,Medium Tempo/Medium Fast/110s
+184693665,Mark Knopfler a Emmylou Harris,Beyond My Wildest Dreams,All The Roadrunning,Mixed/Mixed Duo,2006,Traditional/Country/Alternative Country,Brooding/Dreamy Brooding,Medium Tempo/Medium Slow/50s
+170784270,Various Artists,Радуйтеся люди всі,Колядки та щедрівки,"",2014,Traditional/Country/General Country,Romantic/Heartfelt Passion,Slow Tempo/Slow/40s
+104900529,Carrie Underwood,Cowboy Casanova,Play On,Female/Female,2009,Traditional/Country/Contemporary Country,Urgent/Dark Pop Intensity,Medium Tempo/Medium Fast/120s

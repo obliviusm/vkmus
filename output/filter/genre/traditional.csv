@@ -1,1 +1,15 @@
-genre,count
+id,artist,title,album_title,artist_type,album_year,genre,mood,tempo
+429447048,Rushnychok (Рушничок),Moon and the Stars - Місяць і зіроньки,Rushnychok Vol. 5,"",2012,Traditional/Other Traditions/General World,Romantic/Heartfelt Passion,Medium Tempo/Medium/70s
+427085610,Corde Oblique,Cantastorie,Volonta d'Arte,"",2008,Traditional/Country/General Country,Melancholy/Wistful / Forlorn,Medium Tempo/Medium Slow/50s
+419631257,Kila,Dusty Wine Bottle,The Best Of Kila,"",2009,Traditional/Other Traditions/General World,Romantic/Dramatic / Romantic,Medium Tempo/Medium/70s
+367199722,Carrie Underwood,Before He Cheats,Some Hearts,Female/Female,2005,Traditional/Country/Contemporary Country,Sophisticated/Smoky / Romantic,Slow Tempo/Very Slow/30s
+347349407,Various Artists,In And Out Of Love,Hitzone 47 [Disc 2],"",2008,Traditional/Other Traditions/General World,Excited/Euphoric Energy,Fast Tempo/Fast/130s
+314766443,Scott Dunbar,Tinfoil Hat,Philosophies Of A Moth Vol.2: Get Angry About It,Male/Male,2010,Traditional/Acoustic Blues/Country Blues,"",""
+312711606,Johnny Cash,Hurt,American IV: The Man Comes Around,Male/Male,2002,Traditional/Classic Country/Outlaw Country,Gritty/Sober / Determined,Medium Tempo/Medium Fast/90s
+272691585,Various Artists,Firefly Main Title - The Ballad Of Serenity,Done The Impossible - The Fans' Tale Of Firefly a Serenity,"",2006,Traditional/Celtic/Celtic,Sentimental/Tender / Sincere,Slow Tempo/Slow/40s
+242650171,Dierks Bentley,Trying To Stop Your Leaving,Long Trip Alone,Male/Male,2006,Traditional/Country/Contemporary Country,Upbeat/Happy / Soulful,Medium Tempo/Medium Fast/110s
+238097939,Johnny Cash,One,American III: Solitary Man,Male/Male,2000,Traditional/Classic Country/Outlaw Country,Gritty/Strumming Yearning,Medium Tempo/Medium Fast/90s
+184693665,Mark Knopfler a Emmylou Harris,Beyond My Wildest Dreams,All The Roadrunning,Mixed/Mixed Duo,2006,Traditional/Country/Alternative Country,Brooding/Dreamy Brooding,Medium Tempo/Medium Slow/50s
+170784270,Various Artists,Радуйтеся люди всі,Колядки та щедрівки,"",2014,Traditional/Country/General Country,Romantic/Heartfelt Passion,Slow Tempo/Slow/40s
+169737377,Various Artists,NO bambino,Fresh Hits Summer 2007,"",2007,Traditional/Folk/Old Timey,Energizing/Heavy Beat,Medium Tempo/Medium Fast/90s
+104900529,Carrie Underwood,Cowboy Casanova,Play On,Female/Female,2009,Traditional/Country/Contemporary Country,Urgent/Dark Pop Intensity,Medium Tempo/Medium Fast/120s

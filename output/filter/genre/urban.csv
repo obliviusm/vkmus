@@ -1,1 +1,31 @@
-genre,count
+id,artist,title,album_title,artist_type,album_year,genre,mood,tempo
+456239150,Kanye West,Breathe In Breathe Out,The College Dropout,Male/Male Duo,2004,Urban/Western Hip-Hop/Rap/Conscious Hip-Hop/Rap,Cool/Wary / Defiant,Slow Tempo/Slow/40s
+456239102,1st BLOOD',Live Like Legends,Live Like Legends,"",2014,Urban/Western Hip-Hop/Rap/General Hip-Hop/Rap,Cool/Wary / Defiant,Slow Tempo/Slow/40s
+456239074,Rihanna,Towards The Sun,"Towards The Sun (From The ""Home"" Soundtrack)",Female/Female,2015,Urban/Contemporary RaB/Soul/Urban Crossover,Brooding/Dreamy Brooding,Medium Tempo/Medium/80s
+456239057,Тартак,Дрг і врг,Ввічність,Male/Male Group,2015,Urban/Western Hip-Hop/Rap/European Hip-Hop/Rap,"",""
+456239056,Тартак,Мене вже немає,Ввічність,Male/Male Group,2015,Urban/Western Hip-Hop/Rap/European Hip-Hop/Rap,"",""
+456239025,Die Antwoord,Gucci Coochie,Mount Ninji And Da Nice Time Kid,Mixed/Mixed Group,2016,Urban/Western Hip-Hop/Rap/Conscious Hip-Hop/Rap,Defiant/Attitude / Defiant,Medium Tempo/Medium/60s
+456239023,Iyeoka,Simply Falling,Say Yes Evolved,Female/Female,2014,Urban/Contemporary RaB/Soul/Urban AC,Yearning/Energetic Yearning,Medium Tempo/Medium Fast/110s
+456239021,Мария Чайковская,Не уходи,Не уходи - Single,"",2014,Urban/Western Hip-Hop/Rap/General Hip-Hop/Rap,"",""
+438001522,KUNTEYNIR,Сперма на губах (ft Сухарь ПРИЮТ),Вес,"",2006,Urban/Western Hip-Hop/Rap/Underground Hip-Hop/Rap,"",""
+431789887,Macklemore a Ryan Lewis,Thrift Shop,The Heist,Male/Male Group,2012,Urban/Western Hip-Hop/Rap/Conscious Hip-Hop/Rap,Cool/Wary / Defiant,Slow Tempo/Slow/40s
+323971461,Wu-Tang Clan,One Blood Under W,The W,Male/Male Group,2000,Urban/Western Hip-Hop/Rap/East Coast Rap,Cool/Wary / Defiant,Medium Tempo/Medium/80s
+295889395,Blackstreet,I'm Sorry,Finally,Male/Male Group,1999,Urban/Contemporary RaB/Soul/Urban Crossover,Sensual/Intimate,Medium Tempo/Medium/70s
+287324253,Raleigh Ritchie,Stronger Than Ever,You're a Man Now Boy (Deluxe),Male/Male,2016,Urban/Contemporary RaB/Soul/Contemporary RaB,Sensual/Dreamy Pulse,Medium Tempo/Medium Slow/60s
+274529367,Sarah Connor,From Sarah With Love,Green Eyed Soul,Female/Female,2001,Urban/Contemporary RaB/Soul/Urban AC,Sophisticated/Smoky / Romantic,Medium Tempo/Medium Slow/60s
+268965814,Action Bronson,Cirque Du Soleil,Well Done,Male/Male,2011,Urban/Western Hip-Hop/Rap/East Coast Rap,Defiant/Attitude / Defiant,Medium Tempo/Medium Fast/90s
+262021772,Rihanna,A Girl Like Me,A Girl Like Me,Female/Female,2006,Urban/Contemporary RaB/Soul/Urban Crossover,Sensual/Intimate,Slow Tempo/Slow/40s
+235896576,Dr. John a The Lower 9-11,Change of Heart,Tribal,Male/Male Group,2010,Urban/Classic RaB/Soul/New Orleans RaB,Gritty/Strumming Yearning,Medium Tempo/Medium Fast/100s
+209289530,DMX,Here Comes Da Boom,DMX,Male/Male,2002,Urban/Western Hip-Hop/Rap/East Coast Rap,"",""
+198122280,Far East Movement,Like A G6,Free Wired,Male/Male Group,2010,Urban/Western Hip-Hop/Rap/General Hip-Hop/Rap,Defiant/Attitude / Defiant,Medium Tempo/Medium/80s
+184540155,Gin Wigmore,Kill Of The Night,Gravel a Wine,Female/Female,2011,Urban/Classic RaB/Soul/RaB/Soul,Rowdy/Confident / Tough,Medium Tempo/Medium Slow/60s
+178777865,Kid Cudi,Erase Me,Man On The Moon II: The Legend Of Mr. Rager,Male/Male Duo,2010,Urban/Western Hip-Hop/Rap/Conscious Hip-Hop/Rap,Cool/Cool Confidence,Medium Tempo/Medium Fast/90s
+162394193,西野カナ,You are the one,to LOVE,Female/Female,2010,Urban/Contemporary RaB/Soul/Urban Crossover,Empowering/Dramatic Emotion,Medium Tempo/Medium Slow/60s
+140060299,Plan B,She Said,The Defamation Of Strickland Banks,Male/Male,2010,Urban/Western Hip-Hop/Rap/European Hip-Hop/Rap,Urgent/Dark Pop Intensity,Fast Tempo/Fast/140s
+132694595,Eminem,Drips,The Eminem Show,Male/Male Duo,2002,Urban/Western Hip-Hop/Rap/Midwestern Rap,Cool/Wary / Defiant,Medium Tempo/Medium/80s
+119593092,Diddy-Dirty Money,Coming Home (Ft. Skylar Grey),Last Train To Paris,Mixed/Mixed Group,2010,Urban/Western Hip-Hop/Rap/General Hip-Hop/Rap,"",""
+104683218,Dr. Dre Feat. Eminem a Skylar Grey,I Need A Doctor (Edited Version),I Need A Doctor,Mixed/Mixed Group,2010,Urban/Western Hip-Hop/Rap/General Hip-Hop/Rap,Brooding/Dreamy Brooding,Medium Tempo/Medium/70s
+96784096,Method Man,Mr. Sandman,Tical,Mixed/Mixed Group,1994,Urban/Western Hip-Hop/Rap/East Coast Rap,Defiant/Attitude / Defiant,Medium Tempo/Medium Fast/100s
+77326564,Noize MC,Это Был Дождь,Розыгрыш,Male/Male,2009,Urban/Western Hip-Hop/Rap/European Hip-Hop/Rap,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/100s
+72590353,Jay-Z Feat. Alicia Keys,Empire State of New York,Empire State of New York,Mixed/Mixed Duo,2009,Urban/Western Hip-Hop/Rap/General Hip-Hop/Rap,"",""
+67717755,Бумбокс,Поліна,III,Male/Male Group,2008,Urban/Western Hip-Hop/Rap/European Hip-Hop/Rap,Cool/Wary / Defiant,Medium Tempo/Medium Slow/50s

@@ -1,1 +1,26 @@
-genre,count
+id,artist,title,album_title,artist_type,album_year,genre,mood,tempo
+414966677,Nerf Herder,Buffy The Vampire Slayer Theme,Nerf Herder Meets Weird Al,Male/Male Group,0,Alternative a Punk/Punk/Pop Punk,"",""
+371170069,Sid Vicious,C'mon Everybody,Too Fast To Live...,Male/Male Group,2004,Alternative a Punk/Punk/Old School Punk,Brooding/Evocative / Intriguing,Medium Tempo/Medium/80s
+316870170,Iggy Pop,In The Death Car,Nude a Rude,Male/Male,1996,Alternative a Punk/Punk/Pre-Punk,Energizing/Arousing Groove,Medium Tempo/Medium Fast/120s
+310056310,Rise Against,Hero Of War,Appeal To Reason,Male/Male Group,2008,Alternative a Punk/Punk/Hardcore Punk,Empowering/Strong / Stable,Medium Tempo/Medium/70s
+304732638,Iggy Pop,The Passanger,Best Of... Live,Male/Male,0,Alternative a Punk/Punk/Pre-Punk,"",""
+301504456,Iggy Pop,Private Hell,Skull Ring,Male/Male,2003,Alternative a Punk/Punk/Pre-Punk,Defiant/Hard Dark Excitement,Fast Tempo/Fast/160s
+301796383,Green Day,Holiday,American Idiot,Male/Male Group,2004,Alternative a Punk/Punk/Pop Punk,Defiant/Heavy Brooding,Medium Tempo/Medium/70s
+280497182,Vanilla Sky,Too Late,Fragile,Male/Male Group,2010,Alternative a Punk/Punk/Pop Punk,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/90s
+278101713,Sum 41,Blood In My Eyes,Screaming Bloody Murder,Male/Male Group,2011,Alternative a Punk/Punk/Pop Punk,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+254178749,Panic! At The Disco,Nicotine,Too Weird To Live Too Rare To Die!,Male/Male Group,2013,Alternative a Punk/Punk/Pop Punk,Excited/Euphoric Energy,Medium Tempo/Medium Fast/120s
+211077964,The BossHoss,Don't Gimme That,Liberty Of Action,Male/Male Group,2011,Alternative a Punk/Punk/General Punk,Cool/Dark Groovy,Medium Tempo/Medium Fast/90s
+204983978,Simple Plan,Astronaut,Get Your Heart On!,Male/Male Group,2011,Alternative a Punk/Punk/Pop Punk,Yearning/Energetic Yearning,Medium Tempo/Medium/70s
+204981443,Simple Plan,Your Love Is A Lie,Simple Plan,Male/Male Group,2008,Alternative a Punk/Punk/Pop Punk,Urgent/Energetic Anxious,Medium Tempo/Medium/80s
+201021981,Simple Plan,Welcome To My Life,Still Not Getting Any...,Male/Male Group,2004,Alternative a Punk/Punk/Pop Punk,Empowering/Powerful / Heroic,Medium Tempo/Medium/80s
+196434420,Good Charlotte,I Just Wanna Live,The Chronicles Of Life And Death (Life Version),Male/Male Group,2004,Alternative a Punk/Punk/Pop Punk,Urgent/Dark Pop,Medium Tempo/Medium Fast/110s
+186309373,Sum 41,With Me,Underclass Hero,Male/Male Group,2007,Alternative a Punk/Punk/Pop Punk,Empowering/Powerful / Heroic,Medium Tempo/Medium Fast/110s
+186309371,Sum 41,Pieces,Chuck,Male/Male Group,2004,Alternative a Punk/Punk/Pop Punk,Empowering/Powerful / Heroic,Medium Tempo/Medium Fast/90s
+182588866,Green Day,Stray Heart,¡Dos!,Male/Male Group,2012,Alternative a Punk/Punk/Pop Punk,Defiant/Hard Dark Excitement,Medium Tempo/Medium Fast/100s
+171890002,Rise Against,Dirt And Roses,Long Forgotten Songs: B-Sides a Covers 2000-2013,Male/Male Group,2013,Alternative a Punk/Punk/Hardcore Punk,Defiant/Hard Dark Excitement,Fast Tempo/Very Fast/180s
+161426900,McFly,Five Colours In Her Hair,Room On The 3rd Floor,Male/Male Group,2004,Alternative a Punk/Punk/Pop Punk,Defiant/Hard Positive Excitement,Medium Tempo/Medium Fast/90s
+149268278,Vanilla Sky,Just Dance,Fragile,Male/Male Group,2010,Alternative a Punk/Punk/Pop Punk,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/120s
+109049057,Panic! At The Disco,I Write Sins Not Tragedies,A Fever You Can't Sweat Out,Male/Male Group,2005,Alternative a Punk/Punk/Pop Punk,Brooding/Energetic Melancholy,Medium Tempo/Medium/80s
+106125128,Panic! At The Disco,Build God Then We'll Talk,A Fever You Can't Sweat Out,Male/Male Group,2005,Alternative a Punk/Punk/Pop Punk,Urgent/Dark Pop Intensity,Medium Tempo/Medium Fast/120s
+105901657,Panic! At The Disco,Let's Kill Tonight,Vices a Virtues,Male/Male Group,2011,Alternative a Punk/Punk/Pop Punk,Aggressive/Heavy Triumphant,Fast Tempo/Very Fast/180s
+87065012,The Offspring,Come Out And Play,Smash,Male/Male Group,1994,Alternative a Punk/Punk/General Punk,Rowdy/Driving Dark Groove,Medium Tempo/Medium/80s

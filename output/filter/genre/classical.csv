@@ -1,1 +1,32 @@
-genre,count
+id,artist,title,album_title,artist_type,album_year,genre,mood,tempo
+456239189,Max Richter,Organum,The Blue Notebooks,Male/Male,2014,Classical/Contemporary Era/Contemporary Era Instrumental,"",""
+456239159,Max Richter Daniel Hope Konzerthaus Kammerorchester Berlin André De Ridder,Spring 0,Recomposed By Max Richter: Vivaldi The Four Seasons,"",2014,Classical/Other Classical/General Classical,Somber/Dark Cosmic,Slow Tempo/Very Slow/20s
+456239138,Egor Grushin,Essential,Once,"",2016,Classical/Other Classical/General Classical,Brooding/Dreamy Brooding,Medium Tempo/Medium/60s
+456239072,Wolfgang Amadeus Mozart,Lacrimosa,1000 Años De Musica Sacra - Vol 4,Male/Male,2003,Classical/Classical Era/Classical Era Instrumental,Somber/Solemn / Spiritual,Slow Tempo/Very Slow/20s
+456239042,Камиль Сен-Санс,Пляска Смерти Соч. 40,Золотая Коллекция Мировой Классики,"",0,Classical/Other Classical/General Classical,"",""
+435425140,Various Artists,Водопад (Allegro),Малыш у реки,"",1999,Classical/Other Classical/General Classical,Other,Slow Tempo/Slow/40s
+419625466,2CELLOS,The Trooper (Overture),Celloverse,Male/Male Duo,2015,Classical/Classical Crossover/Classical Crossover Instrumental,Rowdy/Ramshackle / Rollicking,Medium Tempo/Medium Fast/90s
+369427667,Lorraine Hunt Drew Minter Etc. Nicholas McGegan: Philharmonia Baroque Orchestra UC Berkeley Chamber Chorus,Handel: Theodora HWV 68 - Act 1: Racks Gibbets Sword a Fire,Handel: Theodora [Disc 1],"",2006,Classical/Other Classical/General Classical,Stirring/Invigorating / Joyous,Medium Tempo/Medium Fast/120s
+369200673,Giuseppe Verdi,Dies Irae (Liber Scriptus - ab Takt 162),Verdi Requiem - Chorsingen - leicht gemacht,Male/Male,2000,Classical/Romantic Era/Romantic Era Instrumental,Tender/Romantic / Lyrical,Slow Tempo/Slow/40s
+323049421,Max Richter,On The Nature Of Daylight,The Blue Notebooks,Male/Male,2014,Classical/Contemporary Era/Contemporary Era Instrumental,"",""
+308902933,Ludovico Einaudi,Experience,In A Time Lapse,Male/Male,2013,Classical/Classical Crossover/Classical Crossover Instrumental,Romantic/Dramatic / Romantic,Slow Tempo/Slow/40s
+305738524,Lindsey Stirling,Roundtable Rival,Shatter Me,Female/Female,2014,Classical/Classical Crossover/Classical Crossover Instrumental,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/120s
+304735817,Wolfgang Amadeus Mozart,Mozart: Requiem In D Minor K 626 - Lacrymosa,Requiem Ave Verum Choral Works,Male/Male,0,Classical/Classical Era/Classical Era Instrumental,Stirring/Invigorating / Joyous,Medium Tempo/Medium Fast/90s
+303184913,The Piano Guys,All Of Me,The Piano Guys 2,Male/Male Duo,2015,Classical/Classical Crossover/Classical Crossover Instrumental,"",""
+295898610,Edvard Grieg,Grieg: Peer Gynt Suite #1 Op. 46 - 4. In The Hall Of The Mountain King,Grieg: Peer Gynt Suites #1 a 2 Piano Concerto,Male/Male,0,Classical/Romantic Era/Romantic Era Instrumental,Somber/Creepy / Ominous,Medium Tempo/Medium Slow/50s
+290865683,David Garrett,Who Wants To Live Forever?,Encore,Male/Male,2008,Classical/Classical Crossover/Classical Crossover Instrumental,Romantic/Dramatic / Romantic,Medium Tempo/Medium/70s
+278013146,Lindsey Stirling,Shatter Me- Ft. Lzzy Hale,Shatter Me-The Complete Experience,Female/Female,2014,Classical/Classical Crossover/Classical Crossover Instrumental,"",""
+244169869,Joshua Bell John Williams: London Symphony Orchestra,Gershwin: Our Love Is Here To Stay,Gershwin Fantasy,Mixed/Mixed Group,1998,Classical/Other Classical/General Classical,Tender/Refined / Mannered,Medium Tempo/Medium/70s
+229141849,Karl Jenkins,Cantus - Song Of Tears,Adiemus II: Cantata Mundi,Mixed/Mixed Group,1997,Classical/Classical Crossover/Classical Crossover Vocal,Serious/Thrilling,Medium Tempo/Medium/70s
+229136996,Karl Jenkins: Adiemus Singers,Cantus - Song Of The Spirit,Adiemus a Karl Jenkins Complete Best,Mixed/Mixed Group,2006,Classical/Classical Crossover/Classical Crossover Vocal,Serious/Thrilling,Medium Tempo/Medium Fast/110s
+192040297,Ludovico Einaudi,Divenire,The Royal Albert Hall Concert,Male/Male,2010,Classical/Classical Crossover/Classical Crossover Instrumental,Romantic/Dramatic / Romantic,Slow Tempo/Very Slow/30s
+192034858,Ludovico Einaudi,Primavera,The Royal Albert Hall Concert,Male/Male,2010,Classical/Classical Crossover/Classical Crossover Instrumental,Romantic/Dramatic / Romantic,Medium Tempo/Medium/60s
+191995959,Ludovico Einaudi,Time Lapse,In A Time Lapse,Male/Male,2013,Classical/Classical Crossover/Classical Crossover Instrumental,Somber/Creepy / Ominous,Medium Tempo/Medium Slow/60s
+191995682,Ludovico Einaudi,Life,In A Time Lapse,Male/Male,2013,Classical/Classical Crossover/Classical Crossover Instrumental,Romantic/Dramatic / Romantic,Slow Tempo/Slow/40s
+149668916,Антонио Вивальди,Зима. Времена Года Соч.8 I Allegro Non Molto,Золотая Коллекция Мировой Классики,Male/Male,0,Classical/Baroque Era/Baroque Instrumental,"",""
+93205233,Daniel Hope André De Ridder: Konzerthaus Kammerorchester Berlin,Richter: Vivaldi The Four Seasons - Autumn 1,Recomposed By Max Richter - Vivaldi: The Four Seasons,Mixed/Mixed Group,2012,Classical/Other Classical/General Classical,Tender/Awakening / Stately,Medium Tempo/Medium Fast/110s
+78386302,Miloš Karadaglić,The Motorcycle Diaries OST - De Ushuaia ala Quiaca,Latino Gold,Male/Male,2014,Classical/Other Classical/Classical Solo Instrumental,Somber/Enigmatic / Mysterious,Medium Tempo/Medium/80s
+76547758,Jon Vickers Josephine Veasy Etc. Colin Davis: Royal Opera House Orchestra a Chorus,Berlioz: Les Troyens - Act 4: Marche Pour L'Entrée De La Reine Sur Le Theème Du Chant National,Berlioz: Les Troyens [Disc 3],Mixed/Mixed Group,1969,Classical/Other Classical/Opera,Melancholy/Mysterious / Dreamy,Slow Tempo/Slow/40s
+74970214,Vanessa-Mae,Toccata a Fugue In D Minor,The Violin Player,Female/Female,1995,Classical/Classical Crossover/Classical Crossover Instrumental,Somber/Enigmatic / Mysterious,Medium Tempo/Medium/60s
+74969433,Vanessa-Mae,Storm,Storm,Female/Female,1998,Classical/Classical Crossover/Classical Crossover Instrumental,Excited/Euphoric Energy,Fast Tempo/Fast/140s
+74910515,Vanessa-Mae,Toccata a Fugue In D Minor,The Violin Player,Female/Female,1995,Classical/Classical Crossover/Classical Crossover Instrumental,Somber/Enigmatic / Mysterious,Medium Tempo/Medium/60s
