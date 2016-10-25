@@ -1,0 +1,390 @@
+id,artist,title,album_title,artist_type,album_year,genre,mood,tempo
+456239190,Leighton Meester,Heartstrings,Heartstrings,Female/Female,2014,Pop/Western Pop/Dance Pop,Yearning/Energetic Yearning,Medium Tempo/Medium Fast/100s
+456239188,The Rasmus,First Day Of My Life,Dead Letters,Male/Male Group,2003,Alternative a Punk/Alternative/Alternative Rock,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/100s
+456239184,The Rasmus,Night After Night (Out Of The Shadows),Hide From The Sun,Male/Male Group,2005,Alternative a Punk/Alternative/Alternative Rock,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/100s
+456239179,R.E.M.,Bittersweet Me,New Adventures In Hi-Fi,Male/Male Group,1996,Rock/Adult Alternative Rock/Adult Alternative Rock,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/120s
+456239178,Linkin Park,Given Up,Minutes To Midnight,Male/Male Group,2007,Rock/Metal/Rap Metal,Aggressive/Aggressive Power,Medium Tempo/Medium Fast/100s
+456239171,Flunk,Cigarette Burns,This Is What You Get,Mixed/Mixed Group,2009,Electronica/Downtempo Lounge a Ambient/Trip Hop,Yearning/Energetic Yearning,Medium Tempo/Medium Fast/110s
+456239169,New Young Pony Club,Architect of Love,The Optimist,Mixed/Mixed Group,2010,Alternative a Punk/Indie Rock/Indie Pop,Urgent/Dark Pop Intensity,Medium Tempo/Medium Fast/120s
+456239162,a-ha,Don't Do Me Any Favours,Analogue,Male/Male Group,2005,Alternative a Punk/New Wave Pop/New Wave Pop,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/90s
+456239157,London Grammar,Hey Now,If You Wait,Mixed/Mixed Group,2013,Alternative a Punk/Indie Rock/Dream Pop,Excited/Euphoric Energy,Medium Tempo/Medium Fast/120s
+456239149,M83,Do It Try It,Junk,Mixed/Mixed Group,2016,Alternative a Punk/Indie Rock/Dream Pop,Yearning/Energetic Yearning,Medium Tempo/Medium Fast/110s
+456239147,Ingrid Michaelson,Die Alone,Girls And Boys,Female/Female,2006,Pop/Western Pop/Adult Alternative Pop,Yearning/Sensitive / Exploring,Medium Tempo/Medium Fast/110s
+456239145,Whitey,People,Saturday Night Ate Our Lives,Male/Male,2012,Alternative a Punk/Indie Rock/Post-Punk Revival,Cool/Dark Groovy,Medium Tempo/Medium Fast/110s
+456239143,The Kinks,Sunny Afternoon [Stereo],Face To Face [Disc 2],Male/Male Group,1966,Rock/60's Rock/British Invasion,Urgent/Dark Urgent,Medium Tempo/Medium Fast/120s
+456239142,Panivalkova,Крейзі Нікіта,Панівалькова,"",0,Alternative a Punk/Alternative/Alternative Rock,Energizing/Edgy / Sexy,Medium Tempo/Medium Fast/100s
+456239136,Esthetic Education,Crucify,Werewolf,"",2007,Rock/Mainstream Rock/General Mainstream Rock,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/90s
+456239131,Red Hot Chili Peppers,The Getaway,The Getaway,Male/Male Group,2016,Alternative a Punk/Alternative/Alternative Rock,Yearning/Sensitive / Exploring,Medium Tempo/Medium Fast/110s
+456239124,Red Hot Chili Peppers,Johnny Kick A Hole In The Sky,Mother's Milk,Male/Male Group,1989,Alternative a Punk/Alternative/Funk Metal,Excited/Loud Celebratory,Medium Tempo/Medium Fast/120s
+456239119,Snow Patrol,The Weight Of Love,Fallen Empires,Male/Male Group,2011,Alternative a Punk/Brit Rock/Brit Rock,Brooding/Alienated / Brooding,Medium Tempo/Medium Fast/120s
+456239117,Rich Aucoin,Brian Wilson Is A.L.i.V.E. (All Living Instantly Vanquish Everything),We're All Dying To Live (Public Publication EP/Over The Top LP),Male/Male,2011,Alternative a Punk/Indie Rock/Indie Pop,Urgent/Dark Pop,Medium Tempo/Medium Fast/120s
+456239116,f(x),좋아해도 되나요 (...Is It OK?),Hot Summer,Female/Female Group,2011,Pop/Korean Pop/K-Pop,Yearning/Energetic Yearning,Medium Tempo/Medium Fast/120s
+456239106,Florence + The Machine,You've Got The Love,Lungs,Mixed/Mixed Group,2009,Alternative a Punk/Alternative/Alternative Singer-Songwriter,Empowering/Powerful / Heroic,Medium Tempo/Medium Fast/110s
+456239104,KC a The Sunshine Band,Get Down Tonight,The Best Of KC a The Sunshine Band,Male/Male Group,1990,Electronica/Disco/Disco,Cool/Dark Groovy,Medium Tempo/Medium Fast/110s
+456239087,Duke Dumont,Ocean Drive,Ocean Drive,Male/Male,2015,Electronica/House/Deep House,Energizing/Edgy / Sexy,Medium Tempo/Medium Fast/110s
+456239086,Rafferty,Apple Pie,Apple Pie [Single],"",2016,Pop/Western Pop/Pop Vocal,Aggressive/Dark Hard Beat,Medium Tempo/Medium Fast/110s
+456239075,Woodkid,The Deer,I Love You [Single],Male/Male,2013,Alternative a Punk/Indie Rock/Indie Pop,Serious/Thrilling,Medium Tempo/Medium Fast/120s
+456239067,Rob Dougan,There's Only Me,Furious Angels,Male/Male,2002,Electronica/Dance a Club/Club Dance,Brooding/Alienated / Brooding,Medium Tempo/Medium Fast/100s
+456239059,Alizée,Moi... Lolita,Gourmandises,Female/Female,2000,Pop/European Pop/French Pop,Urgent/Dark Pop Intensity,Medium Tempo/Medium Fast/100s
+456239058,Puggy,When You Know,Something You Might Like,Male/Male Group,2009,Pop/Western Pop/Adult Alternative Pop,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/120s
+456239055,Julie Thompson With Dragon a Jontron,Loved (Radio Edit),Loved,"",2014,Electronica/Dance a Club/Club Dance,Excited/Euphoric Energy,Medium Tempo/Medium Fast/120s
+456239052,Astor Piazzolla,Libertango,Libertango,Male/Male,1974,Other/Latin Traditional/Tango,Brooding/Evocative / Intriguing,Medium Tempo/Medium Fast/90s
+456239048,Carpenter Brut,Le Perv,EP I,Male/Male,2014,Alternative a Punk/Synth Pop/Synth Pop,Energizing/Heavy Beat,Medium Tempo/Medium Fast/120s
+456239047,Carpenter Brut,Escape From Midwich Valley,EP I,Male/Male,2014,Alternative a Punk/Synth Pop/Synth Pop,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+456239037,Pete Doherty,Arcady,Grace/Wastelands,Male/Male,2009,Alternative a Punk/Indie Rock/General Indie Rock,Gritty/Sober / Determined,Medium Tempo/Medium Fast/90s
+456239034,Caravan Palace,Dragons,Caravan Palace,Mixed/Mixed Group,2008,Electronica/Electronica Fusion/Ethno-Lounge Electronica,Excited/Upbeat Pop Groove,Medium Tempo/Medium Fast/120s
+456239031,The Hoosiers,Goodbye Mr A,The Trick To Life,Male/Male Group,2007,Alternative a Punk/Indie Rock/Indie Pop,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/90s
+456239029,The Hoosiers,Cops And Robbers,The Trick To Life,Male/Male Group,2007,Alternative a Punk/Indie Rock/Indie Pop,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/90s
+456239026,She a Him,Why Do You Let Me Stay Here?,Volume One,Mixed/Mixed Duo,2008,Alternative a Punk/Indie Rock/Indie Pop,Upbeat/Soulful / Easygoing,Medium Tempo/Medium Fast/110s
+456239024,The Velvet Underground,Louise,Squeeze,Mixed/Mixed Group,1972,Alternative a Punk/New Wave Rock/New Wave Rock,Cool/Dark Groovy,Medium Tempo/Medium Fast/100s
+456239023,Iyeoka,Simply Falling,Say Yes Evolved,Female/Female,2014,Urban/Contemporary RaB/Soul/Urban AC,Yearning/Energetic Yearning,Medium Tempo/Medium Fast/110s
+456239022,Palast Orchester Mit Seinem Sänger Max Raabe,Original Charleston,TanzGala,"",1997,Other/Data a Other/Data a Other,Easygoing/Charming / Easygoing,Medium Tempo/Medium Fast/90s
+456239019,Крихітка,Без імені,Без імені,"",2015,Rock/Mainstream Rock/General Mainstream Rock,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/120s
+443980448,Amanda Palmer,Astronaut,Who Killed Amanda Palmer,Female/Female,2008,Alternative a Punk/Indie Rock/Indie Pop,Brooding/Alienated / Brooding,Medium Tempo/Medium Fast/100s
+435569630,Monarchy,Living Without You,Abnocto,Male/Male Duo,2015,Electronica/House/General House,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/120s
+432650002,Parov Stelar,Booty Swing,The Princess: The Vinyl Collection 2010 - 2012,Male/Male,2012,Electronica/Electronica Fusion/Ethno-Lounge Electronica,Urgent/Dark Pop Intensity,Medium Tempo/Medium Fast/110s
+432602349,Parov Stelar,Catgroove,Coco Pt. 2,Male/Male,2009,Electronica/Electronica Fusion/Ethno-Lounge Electronica,Energizing/Arousing Groove,Medium Tempo/Medium Fast/120s
+432517617,Caravan Palace,Lone Digger,<I°_°I>,Mixed/Mixed Group,2015,Electronica/Electronica Fusion/Ethno-Lounge Electronica,Energizing/Arousing Groove,Medium Tempo/Medium Fast/120s
+431790277,Tarja Turunen,In For A Kill,What Lies Beneath [Disc 1],Female/Female,2010,Rock/Metal/Progressive Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+431724224,Alice Francis,Shoot Him Down (Parov Stelar Radio Version),Shoot Him Down (The Parov Stelar Versions),Female/Female,2012,Electronica/Electronica Fusion/Ethno-Lounge Electronica,Energizing/Edgy / Sexy,Medium Tempo/Medium Fast/120s
+431719462,Caravan Palace,Jolie Coquine,Caravan Palace,Mixed/Mixed Group,2008,Electronica/Electronica Fusion/Ethno-Lounge Electronica,Energizing/Edgy / Sexy,Medium Tempo/Medium Fast/120s
+431369393,Vince Giordano's Nighthawks,Sweet Man,Quality Shout,Male/Male Group,1993,Jazz/Big Band a Swing/Big Band,Lively/Playful / Swingin',Medium Tempo/Medium Fast/110s
+430933182,Caro Emerald,Pack Up The Louie (Caravan Palace Remix),The Shocking Miss Emerald,Female/Female,2016,Jazz/Jazz Vocals/Jazz Vocals,Energizing/Edgy / Sexy,Medium Tempo/Medium Fast/110s
+430306806,Dirty Youth,The One,Gold Dust,"",2015,Rock/Mainstream Rock/General Mainstream Rock,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/120s
+428750491,Flagrant Fowl,"Feist's ""Gatekeeper"" (Pocketknife's Faded Beach Towel Remix)",Tambourine Dream,"",2007,Electronica/Trance/Trance,Urgent/Dark Pop,Medium Tempo/Medium Fast/120s
+428693587,Tarja Turunen,Never Enough,Colours In The Dark,Female/Female,2013,Rock/Metal/Progressive Metal,Rowdy/Confident / Tough,Medium Tempo/Medium Fast/120s
+428510526,Radiohead,Let Down,OK Computer,Male/Male Group,1997,Alternative a Punk/Brit Rock/Brit Rock,Yearning/Energetic Dreamy,Medium Tempo/Medium Fast/100s
+426321858,The Prodigy,The Day Is My Enemy,The Day Is My Enemy,Male/Male Group,2015,Electronica/Electronica Mainstream/Big Beat,Aggressive/Aggressive Power,Medium Tempo/Medium Fast/100s
+425243254,O. Children,Ruins,Ruins [Single],"",2010,Alternative a Punk/Indie Rock/General Indie Rock,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/120s
+423646791,The Mamas a The Papas,Words Of Love,16 Greatest Hits,Mixed/Mixed Group,1970,Pop/Western Pop/Folk Pop,Upbeat/Soulful / Easygoing,Medium Tempo/Medium Fast/110s
+423494427,Low,Step,The Great Destroyer,Mixed/Mixed Group,2005,Alternative a Punk/Indie Rock/Slowcore,Brooding/Alienated / Brooding,Medium Tempo/Medium Fast/110s
+421344736,The Poppy Family,There's No Blood in Bone,A Good Thing Lost: 1968-1973,Mixed/Mixed Group,1996,Rock/60's Rock/Psychedelic Pop,Fiery/Dark Sparkling Lyrical,Medium Tempo/Medium Fast/100s
+420190821,Parov Stelar,Hurt,Coco Pt. 1,Male/Male,2009,Electronica/Electronica Fusion/Ethno-Lounge Electronica,Urgent/Dark Pop,Medium Tempo/Medium Fast/100s
+419625466,2CELLOS,The Trooper (Overture),Celloverse,Male/Male Duo,2015,Classical/Classical Crossover/Classical Crossover Instrumental,Rowdy/Ramshackle / Rollicking,Medium Tempo/Medium Fast/90s
+419622461,Tiamat,Love In Chains,Prey,Male/Male Group,2003,Rock/Metal/Gothic Metal,Brooding/Alienated / Brooding,Medium Tempo/Medium Fast/90s
+419619487,The Mamas a The Papas,Dancing In The Street,16 Greatest Hits,Mixed/Mixed Group,1970,Pop/Western Pop/Folk Pop,Excited/Loud Celebratory,Medium Tempo/Medium Fast/120s
+416259986,Demi Lovato,Cool For The Summer,Confident [Deluxe Edition],Female/Female,2015,Pop/Western Pop/Dance Pop,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/110s
+416484045,Flёur,Тёплые Коты,Эйфория,Female/Female Group,2008,Rock/Metal/Gothic Metal,Fiery/Passionate Rhythm,Medium Tempo/Medium Fast/90s
+410286555,Mylène Farmer,Pourvu Qu'elles Soient Douces,Les Mots,Female/Female,2001,Pop/European Pop/French Pop,Gritty/Sober / Determined,Medium Tempo/Medium Fast/90s
+408407908,a-ha,Objects In The Mirror,Cast In Steel,Male/Male Group,2015,Alternative a Punk/New Wave Pop/New Wave Pop,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/110s
+408407893,Muse,City Of Delusion,Black Holes And Revelations,Male/Male Group,2006,Alternative a Punk/Alternative/Alternative Rock,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/120s
+408407849,Muse,Stockholm Syndrome,Absolution,Male/Male Group,2003,Alternative a Punk/Alternative/Alternative Rock,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/120s
+407082834,She a Him,Why Do You Let Me Stay Here?,Volume One,Mixed/Mixed Duo,2008,Alternative a Punk/Indie Rock/Indie Pop,Upbeat/Soulful / Easygoing,Medium Tempo/Medium Fast/110s
+406209921,Kylie Minogue,Confide In Me,Kylie Minogue,Female/Female,1994,Pop/Western Pop/Dance Pop,Fiery/Fiery Groove,Medium Tempo/Medium Fast/100s
+402596312,Muse,Starlight,Black Holes And Revelations,Male/Male Group,2006,Alternative a Punk/Alternative/Alternative Rock,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/120s
+402592190,Muse,Bliss,Origin Of Symmetry,Male/Male Group,2001,Alternative a Punk/Alternative/Alternative Rock,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/120s
+399990386,Tim Minchin,Dark Side,Ready For This ?,Male/Male,2009,Other/Comedy/Comedy,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/120s
+399958221,Tim Minchin,The Good Book,Ready For This ?,Male/Male,2009,Other/Comedy/Comedy,Rowdy/Ramshackle / Rollicking,Medium Tempo/Medium Fast/120s
+397023478,Metronomy,Love Letters,Love Letters,Mixed/Mixed Group,2014,Alternative a Punk/Synth Pop/Synth Pop,Fiery/Passionate Rhythm,Medium Tempo/Medium Fast/120s
+396285169,Disturbed,Save Our Last Goodbye,Immortalized [Deluxe Edition],Male/Male Group,2015,Rock/Metal/Nu-Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+393698569,Mydy Rabycad,Drowning,Let Your Body Move,Mixed/Mixed Group,2013,Electronica/Electronica Fusion/Ethno-Lounge Electronica,Excited/Euphoric Energy,Medium Tempo/Medium Fast/120s
+393063159,Apocalyptica,How Far - (Vocals Marta Jandová),Apocalyptica - Special Edition,Male/Male Group,2005,Rock/Metal/Progressive Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/100s
+392277104,Dead Man's Bones,Lose Your Soul,Dead Man's Bones,Male/Male Duo,2009,Alternative a Punk/Indie Rock/Indie Pop,Brooding/Alienated / Brooding,Medium Tempo/Medium Fast/120s
+392069873,Disturbed,Never Wrong,Immortalized [Deluxe Edition],Male/Male Group,2015,Rock/Metal/Nu-Metal,Defiant/Hard Dark Excitement,Medium Tempo/Medium Fast/100s
+390637627,DRC Music,Lingala (feat. Bokatola System and Evala Litongo),Kinshasa One Two,Mixed/Mixed Group,2011,Pop/Western Pop/World Pop Fusion,Energizing/Heavy Beat,Medium Tempo/Medium Fast/120s
+390390135,Everything But The Girl,Missing (Todd Terry Mix),E.B.T.G. (Acoustic Collection),Mixed/Mixed Duo,0,Pop/Western Pop/Adult Contemporary,Energizing/Abstract Beat,Medium Tempo/Medium Fast/120s
+388554389,Florence + The Machine,Rabbit Heart (Raise It Up),Lungs,Mixed/Mixed Group,2009,Alternative a Punk/Alternative/Alternative Singer-Songwriter,Excited/Upbeat Pop Groove,Medium Tempo/Medium Fast/110s
+388013037,The Funk Junkeez,I Love It Loud (Injected Mix),Injected,Male/Male Group,1995,Alternative a Punk/Alternative/Funk Metal,Aggressive/Aggressive Power,Medium Tempo/Medium Fast/100s
+388004650,Muse,Exo-Politics,Black Holes And Revelations,Male/Male Group,2006,Alternative a Punk/Alternative/Alternative Rock,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/120s
+387566042,Revolver,Get Around Town,Music For A While,Male/Male Group,2009,Alternative a Punk/Indie Rock/Indie Pop,Gritty/Strumming Yearning,Medium Tempo/Medium Fast/90s
+387556732,Florence + The Machine,Queen Of Peace,How Big How Blue How Beautiful,Mixed/Mixed Group,2015,Alternative a Punk/Alternative/Alternative Singer-Songwriter,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/120s
+387544556,System Of A Down,This Cocaine Makes Me Feel Like I'm On This Song,Mezmerize,Male/Male Group,2005,Rock/Metal/Nu-Metal,Defiant/Hard Dark Excitement,Medium Tempo/Medium Fast/100s
+387440364,BarlowGirl,Never Alone,BarlowGirl,Female/Female Group,2005,Other/Religious/Christian Rock a Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+386970688,Robbie Williams,The Road To Mondalay,The Best Of,Male/Male,0,Pop/Western Pop/Adult Contemporary,Gritty/Strumming Yearning,Medium Tempo/Medium Fast/90s
+380743679,Belasco,Chloroform,61,Male/Male Group,2007,Alternative a Punk/Alternative/Alternative Rock,Brooding/Alienated / Brooding,Medium Tempo/Medium Fast/90s
+380287413,VAST,Turquoise,Nude,Male/Male Group,2006,Rock/70's Rock/Neo-Prog Rock,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/110s
+375137308,The Pretty Reckless,Make Me Wanna Die,Light Me Up,Mixed/Mixed Group,2010,Alternative a Punk/Alternative/Alternative Rock,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/90s
+373293053,Two Door Cinema Club,Sun,Beacon,Male/Male Group,2012,Alternative a Punk/Synth Pop/Synth Pop,Urgent/Dark Pop Intensity,Medium Tempo/Medium Fast/90s
+372863777,Eels,Fresh Blood,Hombre Lobo,Male/Male Group,2009,Alternative a Punk/Indie Rock/General Indie Rock,Brooding/Alienated / Brooding,Medium Tempo/Medium Fast/90s
+372576222,Yeah Yeah Yeahs,Dull Life,It's Blitz,Mixed/Mixed Group,2009,Alternative a Punk/Indie Rock/Post-Punk Revival,Urgent/Dark Pop Intensity,Medium Tempo/Medium Fast/100s
+369427667,Lorraine Hunt Drew Minter Etc. Nicholas McGegan: Philharmonia Baroque Orchestra UC Berkeley Chamber Chorus,Handel: Theodora HWV 68 - Act 1: Racks Gibbets Sword a Fire,Handel: Theodora [Disc 1],"",2006,Classical/Other Classical/General Classical,Stirring/Invigorating / Joyous,Medium Tempo/Medium Fast/120s
+368158745,Lorde,Tennis Court,Pure Heroine,Female/Female,2013,Alternative a Punk/Synth Pop/Synth Pop,Cool/Wary / Defiant,Medium Tempo/Medium Fast/90s
+366277867,The Vaccines,Dream Lover,English Graffiti,Male/Male Group,2015,Alternative a Punk/Indie Rock/General Indie Rock,Brooding/Alienated / Brooding,Medium Tempo/Medium Fast/90s
+366275979,Brandon Flowers,Can't Deny My Love,The Desired Effect,Male/Male,2015,Alternative a Punk/Alternative/Alternative Singer-Songwriter,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/110s
+363774712,Flowing Tears,Razorbliss,Razorbliss,Mixed/Mixed Group,2004,Rock/Metal/Gothic Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/100s
+362662244,Florence + The Machine,What Kind Of Man,How Big How Blue How Beautiful,Mixed/Mixed Group,2015,Alternative a Punk/Alternative/Alternative Singer-Songwriter,Yearning/Energetic Yearning,Medium Tempo/Medium Fast/110s
+360477706,Emilie Autumn,Liar (Machine Mix by Dope Stars Inc.),Liar/Dead Is The New Alive (Double Feature EP),Female/Female,2006,Alternative a Punk/Indie Rock/Indie Pop,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/120s
+360223754,Queens Of The Stone Age,Everybody Knows That You Are Insane,Lullabies To Paralyze,Male/Male Group,2005,Rock/Hard Rock/Stoner Rock,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+353453366,Kasabian,Goodbye Kiss,Velociraptor!,Male/Male Group,2011,Alternative a Punk/Brit Rock/Brit Rock,Yearning/Bittersweet Pop,Medium Tempo/Medium Fast/120s
+353252149,大黒摩季,Return To My Love,BACK BEATs #1,Female/Female,1995,Pop/Japanese Pop/J-Pop,Fiery/Fiery Groove,Medium Tempo/Medium Fast/110s
+353244057,Ramona Falls,I Say Fever,Intuit,Mixed/Mixed Group,2009,Alternative a Punk/Indie Rock/General Indie Rock,Brooding/Alienated / Brooding,Medium Tempo/Medium Fast/100s
+350908045,Depeche Mode,Broken,Delta Machine,Male/Male Group,2013,Alternative a Punk/Synth Pop/Synth Pop,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/120s
+347705824,Edward Sharpe a The Magnetic Zeros,Home,Up From Below,Mixed/Mixed Group,2009,Alternative a Punk/Alternative Folk/Alternative Folk,Empowering/Idealistic / Stirring,Medium Tempo/Medium Fast/110s
+347540406,Justice,D.A.N.C.E.,Cross,Male/Male Duo,2007,Electronica/House/General House,Energizing/Edgy / Sexy,Medium Tempo/Medium Fast/110s
+346761208,Ingrid Michaelson,Time Machine,Lights Out,Female/Female,2014,Pop/Western Pop/Adult Alternative Pop,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/90s
+344868698,Stereophonics,In A Moment,Graffiti On The Train,Male/Male Group,2013,Alternative a Punk/Brit Rock/Brit Rock,Rowdy/Confident / Tough,Medium Tempo/Medium Fast/90s
+344110144,Red,Falling Sky,of Beauty and Rage,Male/Male Group,2015,Other/Religious/Christian Alt-Rock,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/120s
+342128570,Roxette,Real Sugar,Room Service,Mixed/Mixed Duo,2001,Rock/70's Rock/Classic Pop-Rock,Excited/Upbeat Pop Groove,Medium Tempo/Medium Fast/120s
+340988548,Black Label Society,Mass Murder Machine,1919 Eternal,Male/Male Group,2002,Rock/Metal/Thrash Metal,Rowdy/Confident / Tough,Medium Tempo/Medium Fast/110s
+340808093,The Maneken,Magic Of The Moment,PORTRAIT,Male/Male,2014,Alternative a Punk/Indie Rock/Indie Pop,Fiery/Fiery Groove,Medium Tempo/Medium Fast/100s
+340635977,Lorde,Team,Pure Heroine,Female/Female,2013,Alternative a Punk/Synth Pop/Synth Pop,Excited/Euphoric Energy,Medium Tempo/Medium Fast/100s
+339194891,No Doubt,It's My Life,The Singles 1992-2003,Mixed/Mixed Group,1992,Alternative a Punk/Alternative/Alternative Pop,Urgent/Dark Pop,Medium Tempo/Medium Fast/120s
+339098499,Shunsuke Kida,Penetrator,Demon's Souls Soundtrack,"",2009,Soundtrack/Original Film/TV Music/General Film Music,Serious/Serious / Cerebral,Medium Tempo/Medium Fast/110s
+339095472,Shunsuke Kida,Phalanx,Demon's Souls Soundtrack,"",2009,Soundtrack/Original Film/TV Music/General Film Music,Serious/Thrilling,Medium Tempo/Medium Fast/120s
+338921982,Various Artists,Electricity,Nu Disco,Male/Male Duo,2013,Pop/Western Pop/Adult Alternative Pop,Energizing/Edgy / Sexy,Medium Tempo/Medium Fast/110s
+338221449,Madonna,Hung Up,Confessions On A Dance Floor,Female/Female,2005,Pop/Western Pop/Dance Pop,Excited/Euphoric Energy,Medium Tempo/Medium Fast/120s
+336253380,Ramona Falls,Melectric,Intuit,Mixed/Mixed Group,2009,Alternative a Punk/Indie Rock/General Indie Rock,Empowering/Idealistic / Stirring,Medium Tempo/Medium Fast/100s
+335732979,Superchick,Hey Hey,Rock What You Got,Mixed/Mixed Group,2008,Other/Religious/Christian Alt-Rock,Rowdy/Driving Dark Groove,Medium Tempo/Medium Fast/120s
+333409382,ProleteR,April Showers,Curses from Past Times EP,Male/Male Duo,2011,Electronica/Electronica Fusion/Ethno-Lounge Electronica,Cool/Dark Groovy,Medium Tempo/Medium Fast/90s
+332144513,Michael Kiske a Amanda Somerville,Silence,Silence,"",2010,Rock/Metal/Heavy Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/120s
+331669958,The Vamps,What About Love,Meet The Vamps [Bonus Tracks],Male/Male Group,2014,Pop/Western Pop/Teen Pop,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/100s
+331600288,Eicca Toppinen,Evil Ground,Music For The Movie Black Ice,"",2007,Pop/Western Pop/Pop Vocal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+331588406,Rave The Reqviem,The Svlphvry Void,Rave the Reqviem,"",2014,Alternative a Punk/Alternative/Alternative Rock,Aggressive/Chaotic / Intense,Medium Tempo/Medium Fast/110s
+331543654,KT Tunstall,Black Horse And The Cherry Tree,Eye To The Telescope,Female/Female,2004,Pop/Western Pop/Adult Alternative Pop,Rowdy/Driving Dark Groove,Medium Tempo/Medium Fast/100s
+331458126,Delain,Your Body Is A Battleground,The Human Contradiction (Deluxe Version),Mixed/Mixed Group,2014,Rock/Metal/Progressive Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/120s
+330547818,Reamonn,Sometimes,Wish,Male/Male Group,2006,Rock/Adult Alternative Rock/Adult Alternative Rock,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/90s
+327891786,Various Artists,Ми - Хлопці З Бандерштадту,Я Вернувся Домів,"",2011,Rock/Mainstream Rock/General Mainstream Rock,Aggressive/Dark Hard Beat,Medium Tempo/Medium Fast/120s
+326880140,Red Hot Chili Peppers,Coffee Shop,One Hot Minute,Male/Male Group,1995,Alternative a Punk/Alternative/Alternative Rock,Defiant/Hard Dark Excitement,Medium Tempo/Medium Fast/120s
+326822168,OK Go,Invincible,Oh No,Male/Male Group,2005,Alternative a Punk/Alternative/Alternative Pop,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+321641164,Saltatio Mortis,Gott würfelt nicht,Sturm Aufs Paradies,Mixed/Mixed Group,2011,Rock/Metal/Black Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+319741248,Three Days Grace,Let It Die,One X,Male/Male Group,2006,Alternative a Punk/Alternative/Alternative Rock,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+319734532,New Politics,Give Me Hope,A Bad Girl In Harlem,Male/Male Group,2013,Alternative a Punk/Alternative/Alternative Pop,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/90s
+319052285,Би-2,Вечная Призрачная Встречная,О Чем Говорят Мужчины,Male/Male Group,2010,"",Brooding/Alienated / Brooding,Medium Tempo/Medium Fast/90s
+318776106,Alice Cooper,Poison,Trash,Male/Male,1989,Rock/70's Rock/Classic Hard Rock,Rowdy/Confident / Tough,Medium Tempo/Medium Fast/120s
+318491447,Gasmac Gilmore,I Am God,Dead Donkey,"",2012,Rock/Mainstream Rock/General Mainstream Rock,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/120s
+318410068,L'Âme Immortelle,Fallen Angel,Gezeiten,Male/Male Group,2004,Rock/Metal/Gothic Metal,Yearning/Energetic Yearning,Medium Tempo/Medium Fast/90s
+317297207,Би-2,Блюз 16+,#16плюс,Male/Male Group,2014,Rock/Mainstream Rock/General Mainstream Rock,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+316870170,Iggy Pop,In The Death Car,Nude a Rude,Male/Male,1996,Alternative a Punk/Punk/Pre-Punk,Energizing/Arousing Groove,Medium Tempo/Medium Fast/120s
+315715656,Powerwolf,We Drink Your Blood,Blood of the Saints,Male/Male Group,2011,Rock/Metal/Power Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/110s
+315523752,Apocalyptica Feat. Marta Jandová,En Vie,Wie Weit,Mixed/Mixed Group,2005,Rock/Metal/Progressive Metal,Brooding/Alienated / Brooding,Medium Tempo/Medium Fast/100s
+315208844,Slash,Anastasia,Apocalyptic Love,Male/Male,2012,Rock/Hard Rock/General Hard Rock,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/100s
+314786449,AWOLNATION,Kill Your Heroes,Megalithic Symphony,Male/Male,2011,Alternative a Punk/Synth Pop/Synth Pop,Yearning/Sensitive / Exploring,Medium Tempo/Medium Fast/90s
+314706146,Slash,Beautiful Dangerous,Slash,Mixed/Mixed Duo,2010,Rock/Hard Rock/General Hard Rock,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/90s
+313579388,Shinedown,Her Name Is Alice,Somewhere In The Stratosphere [Live] [Disc 1],Male/Male Group,2011,Alternative a Punk/Alternative/Alternative Rock,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/90s
+313417512,Guns N' Roses,Sweet Child O' Mine,Appetite For Destruction,Male/Male Group,1987,Rock/Hard Rock/General Hard Rock,Empowering/Powerful / Heroic,Medium Tempo/Medium Fast/120s
+312729421,Reamonn,Sometimes,Wish,Male/Male Group,2006,Rock/Adult Alternative Rock/Adult Alternative Rock,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/90s
+312711606,Johnny Cash,Hurt,American IV: The Man Comes Around,Male/Male,2002,Traditional/Classic Country/Outlaw Country,Gritty/Sober / Determined,Medium Tempo/Medium Fast/90s
+311282958,Harley Poe,That Time Of The Month,Satan Sex and No Regrets,"",2012,Alternative a Punk/Alternative/Alternative Rock,Gritty/Strumming Yearning,Medium Tempo/Medium Fast/90s
+308598139,Epica,Our Destiny,Design Your Universe,Mixed/Mixed Group,2009,Rock/Metal/Progressive Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+308577865,Edguy,Dragonfly,Tinnitus Sanctus [Bonus Tracks] [Disc 1],Male/Male Group,2008,Rock/Metal/Power Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+307273352,Darren Korb,She Shines (Featuring Ashley Barrett),She Shines (Featuring Ashley Barrett) [Single],Male/Male,2016,Soundtrack/Game Music/Game Music,Brooding/Alienated / Brooding,Medium Tempo/Medium Fast/110s
+307256059,Akira Yamaoka,When You're Gone,Silent Hill: Shattered Memories,Male/Male,2012,Soundtrack/Game Music/Game Music,Urgent/Dark Pop,Medium Tempo/Medium Fast/120s
+306222322,Texas,Summer Son,The Hush,Mixed/Mixed Group,1999,Rock/Adult Alternative Rock/Adult Alternative Rock,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/120s
+305738524,Lindsey Stirling,Roundtable Rival,Shatter Me,Female/Female,2014,Classical/Classical Crossover/Classical Crossover Instrumental,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/120s
+305416401,Slash,Bad Rain,Apocalyptic Love,Male/Male,2012,Rock/Hard Rock/General Hard Rock,Rowdy/Driving Dark Groove,Medium Tempo/Medium Fast/100s
+305388928,Poets Of The Fall,Roses,Carnival Of Rust,Male/Male Group,2006,Alternative a Punk/Alternative/Alternative Rock,Yearning/Sensitive / Exploring,Medium Tempo/Medium Fast/100s
+304735817,Wolfgang Amadeus Mozart,Mozart: Requiem In D Minor K 626 - Lacrymosa,Requiem Ave Verum Choral Works,Male/Male,0,Classical/Classical Era/Classical Era Instrumental,Stirring/Invigorating / Joyous,Medium Tempo/Medium Fast/90s
+304093339,Weezer,Island In The Sun,Weezer (The Green Album),Male/Male Group,2001,Alternative a Punk/Alternative/Alternative Pop,Yearning/Energetic Yearning,Medium Tempo/Medium Fast/110s
+302848635,Sixx:A.M.,Life Is Beautiful,The Heroin Diaries,Male/Male Group,2007,Rock/Hard Rock/General Hard Rock,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+302748835,Jason Mraz,Geek In The Pink,Mr. A-Z,Male/Male,2005,Pop/Western Pop/Adult Alternative Pop,Energizing/Edgy / Sexy,Medium Tempo/Medium Fast/90s
+302602020,Kongos,I'm Only Joking,Lunatic,Male/Male Group,2014,Alternative a Punk/Alternative/Alternative Rock,Rowdy/Driving Dark Groove,Medium Tempo/Medium Fast/120s
+302600317,Kongos,Hey I Don't Know,Lunatic,Male/Male Group,2014,Alternative a Punk/Alternative/Alternative Rock,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/100s
+302594309,System Of A Down,Kill Rock 'n Roll,Hypnotize,Male/Male Group,2005,Rock/Metal/Nu-Metal,Defiant/Hard Positive Excitement,Medium Tempo/Medium Fast/90s
+302592216,System Of A Down,Chop Suey!,Toxicity,Male/Male Group,2001,Rock/Metal/Nu-Metal,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/120s
+302591624,System Of A Down,Atwa,Toxicity,Male/Male Group,2001,Rock/Metal/Nu-Metal,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/90s
+302589995,System Of A Down,Prison Song,Toxicity,Male/Male Group,2001,Rock/Metal/Nu-Metal,Aggressive/Aggressive Power,Medium Tempo/Medium Fast/90s
+302589676,System Of A Down,Toxicity,Toxicity,Male/Male Group,2001,Rock/Metal/Nu-Metal,Urgent/Dark Pop Intensity,Medium Tempo/Medium Fast/120s
+302160253,Radiohead,Reckoner,In Rainbows [Disc 1],Male/Male Group,2007,Alternative a Punk/Indie Rock/Post-Modern Art Music,Yearning/Energetic Yearning,Medium Tempo/Medium Fast/100s
+301497639,My Chemical Romance,Famous Last Words,The Black Parade,Male/Male Group,2006,Alternative a Punk/Emo a Hardcore/Emo,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/120s
+301758308,Semisonic,Closing Time,Feeling Strangely Fine,Male/Male Group,1998,Rock/Adult Alternative Rock/Adult Alternative Rock,Empowering/Powerful / Heroic,Medium Tempo/Medium Fast/90s
+301591237,Three Days Grace,On My Own,One X,Male/Male Group,2006,Alternative a Punk/Alternative/Alternative Rock,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/110s
+300194070,Glenn Morrison Feat. Islove,Goodbye [Radio Edit],Goodbye [Single],Male/Male Duo,2013,Electronica/Electronica Mainstream/Pop Electronica,Excited/Upbeat Pop Groove,Medium Tempo/Medium Fast/120s
+297171036,Volbeat,Still Counting,Guitar Gangsters a Cadillac Blood,Male/Male Group,2008,Rock/Metal/Nu-Metal,Brooding/Alienated / Brooding,Medium Tempo/Medium Fast/100s
+295909786,White Rabbits,Percussion Gun,It's Frightening,Male/Male Group,2010,Alternative a Punk/Indie Rock/General Indie Rock,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/100s
+295825044,Fuel,Cold Summer,Puppet Strings,Male/Male Group,2014,Alternative a Punk/Alternative/Alternative Rock,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/100s
+294492255,Miike Snow,Paddling Out,Happy To You,Male/Male Group,2012,Electronica/Electronica Mainstream/Pop Electronica,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/120s
+293965929,Andreas Johnson,Glorious,Liebling,Male/Male,2000,Rock/Adult Alternative Rock/Adult Alternative Rock,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/100s
+290577366,Portugal. The Man,Creep In A T-Shirt,Evil Friends,Male/Male Group,2013,Alternative a Punk/Indie Rock/General Indie Rock,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/120s
+289205801,Midnight Juggernauts,Ballad Of The War Machine,Uncanny Valley,Male/Male Duo,2013,Alternative a Punk/Indie Rock/Indie Pop,Fiery/Passionate Rhythm,Medium Tempo/Medium Fast/90s
+287726238,Xandria,Dreamkeeper,Sacrificium,Mixed/Mixed Group,2014,Rock/Metal/Progressive Metal,Aggressive/Heavy Triumphant,Medium Tempo/Medium Fast/120s
+287340554,SomethingALaMode,Losing Game,Endless Stairs,Male/Male Duo,2014,Electronica/House/General House,Urgent/Dark Pop Intensity,Medium Tempo/Medium Fast/110s
+286824735,Three Days Grace,Someone Who Cares,Life Starts Now,Male/Male Group,2009,Alternative a Punk/Alternative/Alternative Rock,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+280497182,Vanilla Sky,Too Late,Fragile,Male/Male Group,2010,Alternative a Punk/Punk/Pop Punk,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/90s
+278918898,Temples,The Golden Throne,Sun Structures,Male/Male Group,2014,Alternative a Punk/Indie Rock/Neo-Psychedelic,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/110s
+278807584,Hans Zimmer a The Magnificent Six,It's On Again,The Amazing Spider-Man 2 [Deluxe Edition] [Disc 2],Mixed/Mixed Duo,2014,Pop/Western Pop/Urban Crossover: Pop,Urgent/Dark Pop,Medium Tempo/Medium Fast/110s
+278101713,Sum 41,Blood In My Eyes,Screaming Bloody Murder,Male/Male Group,2011,Alternative a Punk/Punk/Pop Punk,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+277762738,Within Temptation,Faster,The Unforgiving,Mixed/Mixed Group,2011,Rock/Metal/Progressive Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/120s
+276110686,Hooverphonic,Norwegian Stars,The Night Before,Mixed/Mixed Group,2012,Electronica/Downtempo Lounge a Ambient/General Downtempo,Yearning/Energetic Yearning,Medium Tempo/Medium Fast/110s
+274940807,The Pretty Reckless,Fucked Up World,Going To Hell,Mixed/Mixed Group,2014,Alternative a Punk/Alternative/Alternative Rock,Aggressive/Chaotic / Intense,Medium Tempo/Medium Fast/120s
+274926360,The Pretty Reckless,Why'd You Bring A Shotgun To The Party,Going To Hell,Mixed/Mixed Group,2014,Alternative a Punk/Alternative/Alternative Rock,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/120s
+273990570,Arctic Monkeys,Why'd You Only Call Me When You're High?,AM,Male/Male Group,2013,Alternative a Punk/Indie Rock/Post-Punk Revival,Rowdy/Driving Dark Groove,Medium Tempo/Medium Fast/90s
+273856434,The 69 Eyes,Perfect Skin,Angels,Male/Male Group,2007,Alternative a Punk/Goth/Goth,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/120s
+273147923,The Pretty Reckless,Absolution,Going To Hell,Mixed/Mixed Group,2014,Alternative a Punk/Alternative/Alternative Rock,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+272763590,Kaiser Chiefs,Misery Company,Education Education Education a War,Male/Male Group,2014,Alternative a Punk/Indie Rock/General Indie Rock,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/110s
+271863540,Florence + The Machine,Bedroom Hymns,Ceremonials,Mixed/Mixed Group,2011,Alternative a Punk/Alternative/Alternative Singer-Songwriter,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/100s
+268965814,Action Bronson,Cirque Du Soleil,Well Done,Male/Male,2011,Urban/Western Hip-Hop/Rap/East Coast Rap,Defiant/Attitude / Defiant,Medium Tempo/Medium Fast/90s
+267306675,Digital Emotion,Get Up Action,Disco Collection,Mixed/Mixed Group,2001,"",Energizing/Arousing Groove,Medium Tempo/Medium Fast/120s
+265335739,Pnau,Embrace,Pnau,Male/Male Duo,2011,Electronica/Electronica Mainstream/Pop Electronica,Excited/Euphoric Energy,Medium Tempo/Medium Fast/120s
+265335520,Pnau,Solid Ground,Soft Universe,Male/Male Duo,2011,Electronica/Electronica Mainstream/Pop Electronica,Urgent/Dark Pop,Medium Tempo/Medium Fast/120s
+263536410,Hooverphonic,No More Sweet Music,More Sweet Music [Disc 2],Mixed/Mixed Group,2005,Electronica/Downtempo Lounge a Ambient/General Downtempo,Urgent/Dark Pop Intensity,Medium Tempo/Medium Fast/100s
+263220913,Hooverphonic,Radio Silence,Reflection,Mixed/Mixed Group,2013,Electronica/Downtempo Lounge a Ambient/General Downtempo,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/100s
+258753409,Reamonn,Supergirl,Tuesday,Male/Male Group,2000,Rock/Adult Alternative Rock/Adult Alternative Rock,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/110s
+258377923,Danny Feat.Therese,If Only You,If Only You,"",2007,Pop/Western Pop/Pop Vocal,Energizing/Edgy / Sexy,Medium Tempo/Medium Fast/120s
+256699681,Elbow,Grounds For Divorce,The Seldom Seen Kid,Male/Male Group,2008,Alternative a Punk/Indie Rock/General Indie Rock,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/90s
+254178749,Panic! At The Disco,Nicotine,Too Weird To Live Too Rare To Die!,Male/Male Group,2013,Alternative a Punk/Punk/Pop Punk,Excited/Euphoric Energy,Medium Tempo/Medium Fast/120s
+250317316,NONONO,Pumpin Blood,We Are Only What We Feel,Mixed/Mixed Group,2014,Alternative a Punk/Indie Rock/General Indie Rock,Excited/Euphoric Energy,Medium Tempo/Medium Fast/110s
+250310093,Neil Young a Crazy Horse,Love To Burn,Ragged Glory,Male/Male Group,1990,Rock/70's Rock/Classic Rock,Empowering/Powerful / Heroic,Medium Tempo/Medium Fast/110s
+249680894,Hans Zimmer,Dream Is Collapsing,Inception,Male/Male,2010,Soundtrack/Original Film/TV Music/General Film Music,Serious/Thrilling,Medium Tempo/Medium Fast/120s
+244557359,Hollywood Undead,Levitate [Rock Mix],Levitate [Rock Mix],Male/Male Group,2011,Rock/Metal/Rap Metal,Defiant/Hard Positive Excitement,Medium Tempo/Medium Fast/120s
+244523304,Avicii,Liar Liar,True,Male/Male,2013,Electronica/Dance a Club/Club Dance,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/120s
+242650171,Dierks Bentley,Trying To Stop Your Leaving,Long Trip Alone,Male/Male,2006,Traditional/Country/Contemporary Country,Upbeat/Happy / Soulful,Medium Tempo/Medium Fast/110s
+242143614,Nickelback,Never Gonna Be Alone,Dark Horse,Male/Male Group,2008,Alternative a Punk/Alternative/Alternative Rock,Upbeat/Happy / Soulful,Medium Tempo/Medium Fast/120s
+241532986,White Town,Your Woman,Women In Technology,Male/Male,1997,Alternative a Punk/Alternative/Alternative Dance,Cool/Dark Groovy,Medium Tempo/Medium Fast/100s
+240202925,Hypnogaja,Kill The Humans,Truth Decay,Male/Male Group,2009,Alternative a Punk/Alternative/Alternative Rock,Yearning/Sensitive / Exploring,Medium Tempo/Medium Fast/90s
+239997851,Empire Of The Sun,Old Flavours,Ice On The Dune,Male/Male Duo,2013,Electronica/Electronica Mainstream/Pop Electronica,Urgent/Dark Pop,Medium Tempo/Medium Fast/120s
+239997184,Empire Of The Sun,Celebrate,Ice On The Dune,Male/Male Duo,2013,Electronica/Electronica Mainstream/Pop Electronica,Urgent/Dark Pop,Medium Tempo/Medium Fast/110s
+238100512,Dikta,Breaking the Waves,Hunting for Happiness,Male/Male Group,2006,Alternative a Punk/Indie Rock/General Indie Rock,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/110s
+238097939,Johnny Cash,One,American III: Solitary Man,Male/Male,2000,Traditional/Classic Country/Outlaw Country,Gritty/Strumming Yearning,Medium Tempo/Medium Fast/90s
+237052166,Stone Sour,Through Glass,Come What(Ever) May,Male/Male Group,2006,Rock/Metal/Nu-Metal,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/100s
+235896576,Dr. John a The Lower 9-11,Change of Heart,Tribal,Male/Male Group,2010,Urban/Classic RaB/Soul/New Orleans RaB,Gritty/Strumming Yearning,Medium Tempo/Medium Fast/100s
+235328732,Scorpions,Humanity,Humanity: Hour 1,Male/Male Group,2007,Rock/Hard Rock/General Hard Rock,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+235317376,Louis Prima,Sing Sing Sing (With A Swing),At The Movies: Lights! Camera! Zooma! Zooma!,Male/Male,2010,Pop/Easy Listening/Lounge,Cool/Dark Groovy,Medium Tempo/Medium Fast/100s
+233288373,Геннадий Гладков,Алло дорогая (Из к/ф Очень синяя борода),Музыка из российских кинофильмов часть 2,Male/Male,2013,Soundtrack/Original Film/TV Music/General Film Music,Cool/Dark Groovy,Medium Tempo/Medium Fast/100s
+233286246,Pur:Pur,A Kiss,Pure,"",2015,Pop/Western Pop/Pop Vocal,Yearning/Energetic Yearning,Medium Tempo/Medium Fast/90s
+232923063,Hypnogaja,Kill The Humans,Truth Decay,Male/Male Group,2009,Alternative a Punk/Alternative/Alternative Rock,Yearning/Sensitive / Exploring,Medium Tempo/Medium Fast/90s
+230872882,Dead Man's Bones,Lose Your Soul,Dead Man's Bones,Male/Male Duo,2009,Alternative a Punk/Indie Rock/Indie Pop,Brooding/Alienated / Brooding,Medium Tempo/Medium Fast/120s
+229136996,Karl Jenkins: Adiemus Singers,Cantus - Song Of The Spirit,Adiemus a Karl Jenkins Complete Best,Mixed/Mixed Group,2006,Classical/Classical Crossover/Classical Crossover Vocal,Serious/Thrilling,Medium Tempo/Medium Fast/110s
+228931829,Мумий Тролль,Дельфины,Ikra,Male/Male Group,1997,"",Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/120s
+228929662,Arctic Monkeys,I Bet You Look Good On The Dancefloor,Whatever People Say I Am That's What I'm Not,Male/Male Group,2006,Alternative a Punk/Indie Rock/Post-Punk Revival,Defiant/Hard Dark Excitement,Medium Tempo/Medium Fast/100s
+228924865,The Wombats,Let's Dance To Joy Division,A Guide To Love Loss a Desperation,Male/Male Group,2007,Alternative a Punk/Indie Rock/Indie Pop,Rowdy/Driving Dark Groove,Medium Tempo/Medium Fast/120s
+228103905,Groove Armada,Easy,Lovebox,Male/Male Duo,2002,Electronica/Electronica Mainstream/Big Beat,Excited/Euphoric Energy,Medium Tempo/Medium Fast/120s
+226808404,Icona Pop,All Night,This Is... Icona Pop,Female/Female Duo,2013,Electronica/Electronica Mainstream/Pop Electronica,Excited/Euphoric Energy,Medium Tempo/Medium Fast/120s
+226764162,AWOLNATION,Wake Up,Megalithic Symphony,Male/Male,2011,Alternative a Punk/Synth Pop/Synth Pop,Urgent/Dark Pop Intensity,Medium Tempo/Medium Fast/90s
+226342175,Крихітка Цахес,На першому місці,На першому місці,Mixed/Mixed Group,2005,Alternative a Punk/Alternative/Alternative Pop,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/120s
+215311469,Armin Van Buuren Feat. Lauren Evans,Alone,Alone,Mixed/Mixed Duo,2010,Electronica/House/Progressive House,Excited/Euphoric Energy,Medium Tempo/Medium Fast/120s
+213419691,Guyz Nite,Die Hard,Guyz Nite Meanz Everything / Bachelor Party Campout,"",2007,Rock/Mainstream Rock/General Mainstream Rock,Defiant/Hard Positive Excitement,Medium Tempo/Medium Fast/90s
+213286557,Franz Ferdinand,Take Me Out,Franz Ferdinand,Male/Male Group,2004,Alternative a Punk/Indie Rock/Post-Punk Revival,Brooding/Alienated / Brooding,Medium Tempo/Medium Fast/100s
+213266962,Lyzanxia,Strength Core,Unsu,"",2006,Rock/Metal/Heavy Metal,Defiant/Hard Dark Excitement,Medium Tempo/Medium Fast/110s
+212632531,Florence + The Machine,Spectrum,Ceremonials,Mixed/Mixed Group,2011,Alternative a Punk/Alternative/Alternative Singer-Songwriter,Urgent/Dark Pop Intensity,Medium Tempo/Medium Fast/120s
+212604117,HIM,Join Me,And Love Said No: The Greatest Hits 1997-2004,Male/Male Group,2004,Alternative a Punk/Goth/Goth,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/110s
+212603870,HIM,Pretending,Deep Shadows And Brilliant Highlights,Male/Male Group,2004,Alternative a Punk/Goth/Goth,Brooding/Alienated / Brooding,Medium Tempo/Medium Fast/120s
+211079404,Something A La Mode,Gstring  ,Something A La Mode,"",2011,Electronica/Electronica Mainstream/Pop Electronica,Yearning/Energetic Yearning,Medium Tempo/Medium Fast/110s
+211077964,The BossHoss,Don't Gimme That,Liberty Of Action,Male/Male Group,2011,Alternative a Punk/Punk/General Punk,Cool/Dark Groovy,Medium Tempo/Medium Fast/90s
+209312950,The Who,Baba O'Riley,Who's Next,Male/Male Group,1971,Rock/70's Rock/Classic Hard Rock,Upbeat/Happy / Soulful,Medium Tempo/Medium Fast/110s
+208574972,FMLYBND,Electricity (Rush),Back to Life EP,Mixed/Mixed Group,2014,Electronica/Electronica Mainstream/Pop Electronica,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+206393786,Ms Mr,Hurricane,Secondhand Rapture,Mixed/Mixed Duo,2013,Alternative a Punk/Synth Pop/Synth Pop,Yearning/Energetic Yearning,Medium Tempo/Medium Fast/90s
+205411224,Black Stone Cherry,Blind Man,Folklore And Superstition,Male/Male Group,2008,Rock/Hard Rock/General Hard Rock,Defiant/Hard Dark Excitement,Medium Tempo/Medium Fast/110s
+202843841,Ms Mr,Bones,Secondhand Rapture,Mixed/Mixed Duo,2013,Alternative a Punk/Synth Pop/Synth Pop,Yearning/Energetic Yearning,Medium Tempo/Medium Fast/110s
+202830472,Yoav,Club Thing,Charmed a Strange,Male/Male,2008,Alternative a Punk/Indie Rock/Post-Modern Electronic Pop,Cool/Cool Confidence,Medium Tempo/Medium Fast/100s
+202145641,Robbie Williams,Tripping (Album Version),Tripping [Single],Male/Male,2005,Pop/Western Pop/Adult Contemporary,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/110s
+201883498,Various Artists,BACH IS BACK,JULIANA'S TOKYO VOL.3,"",1992,Electronica/Trance/Trance,Excited/Euphoric Energy,Medium Tempo/Medium Fast/120s
+201042416,5'Nizza,Стрела,Пятница,Male/Male Group,2003,Other/Reggae/Other Reggae,Sentimental/Cool Melancholy,Medium Tempo/Medium Fast/120s
+198585048,Finger Eleven,Paralyzer,Them vs. You vs. Me,Male/Male Group,2007,Alternative a Punk/Alternative/Alternative Rock,Rowdy/Driving Dark Groove,Medium Tempo/Medium Fast/100s
+198420587,Klaxons,Echoes,Surfing The Void,Male/Male Group,2010,Alternative a Punk/Indie Rock/Indie Pop,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/120s
+196434420,Good Charlotte,I Just Wanna Live,The Chronicles Of Life And Death (Life Version),Male/Male Group,2004,Alternative a Punk/Punk/Pop Punk,Urgent/Dark Pop,Medium Tempo/Medium Fast/110s
+195536399,Mother Mother,Chasing It Down,Eureka,Mixed/Mixed Group,2010,Alternative a Punk/Indie Rock/General Indie Rock,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/100s
+192471624,Lisa Miskovsky,Still Alive (The Theme From Mirror's Edge),Still Alive (The Theme From Mirror's Edge): The Remixes,Female/Female,2008,Pop/Western Pop/Adult Alternative Pop,Yearning/Energetic Yearning,Medium Tempo/Medium Fast/100s
+191603951,Joe Dassin,Les Champs-Elysées,Éternel,Male/Male,2005,Pop/European Pop/French Pop,Upbeat/Carefree Pop,Medium Tempo/Medium Fast/110s
+191599940,Joe Dassin,A Toi,Éternel,Male/Male,2005,Pop/European Pop/French Pop,Fiery/Passionate Rhythm,Medium Tempo/Medium Fast/120s
+188343905,Delphic,Baiya,Collections,Male/Male Group,2013,Alternative a Punk/Indie Rock/Indie Pop,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/110s
+186615962,Reamonn,Sometimes,Wish,Male/Male Group,2006,Rock/Adult Alternative Rock/Adult Alternative Rock,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/90s
+186309373,Sum 41,With Me,Underclass Hero,Male/Male Group,2007,Alternative a Punk/Punk/Pop Punk,Empowering/Powerful / Heroic,Medium Tempo/Medium Fast/110s
+186309371,Sum 41,Pieces,Chuck,Male/Male Group,2004,Alternative a Punk/Punk/Pop Punk,Empowering/Powerful / Heroic,Medium Tempo/Medium Fast/90s
+185078481,Chevelle,The Fad,Vena Sera,Male/Male Group,2007,Rock/Metal/Nu-Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+184702069,The Rasmus,Night After Night (Out Of The Shadows),Hide From The Sun,Male/Male Group,2005,Alternative a Punk/Alternative/Alternative Rock,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/100s
+184700122,Muse,Sober,Showbiz,Male/Male Group,1999,Alternative a Punk/Alternative/Alternative Rock,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/120s
+184695390,My Chemical Romance,The Jetset Life Is Gonna Kill You,Three Cheers For Sweet Revenge,Male/Male Group,2004,Alternative a Punk/Emo a Hardcore/Emo,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/120s
+184690853,Story Of The Year,Until The Day I Die,Page Avenue,Male/Male Group,2003,Alternative a Punk/Emo a Hardcore/Hardcore,Rowdy/Driving Dark Groove,Medium Tempo/Medium Fast/90s
+184543025,Ibiza Dance,Smoke Sign - Before The 3 Suns (Urban Shaman Remix) (Trance / Electro / Progressive),Ibiza 2010 Hits (Top 60 Electro Trance Dubstep Breaks Techno Acid House Goa Psytrance Hard Dance Electronic Dance Music),"",2011,Other/Data a Other/Data a Other,Energizing/Heavy Beat,Medium Tempo/Medium Fast/120s
+184540629,Sebastian Ingrosso Steve Angello Tiesto Marcel Woods John Dahlback Jean Elan Cosmo Klein B/B Noferini,Feel Alive (Arnaud Andrieu a Matt Venice Remix),St Tropez Fever [Disc 1],"",2011,Electronica/Electronica Mainstream/Pop Electronica,Energizing/Heavy Beat,Medium Tempo/Medium Fast/120s
+184328488,Florence + The Machine,Shake It Out,Ceremonials,Mixed/Mixed Group,2011,Alternative a Punk/Alternative/Alternative Singer-Songwriter,Empowering/Powerful / Heroic,Medium Tempo/Medium Fast/100s
+182588866,Green Day,Stray Heart,¡Dos!,Male/Male Group,2012,Alternative a Punk/Punk/Pop Punk,Defiant/Hard Dark Excitement,Medium Tempo/Medium Fast/100s
+180192346,Neon Trees,Everybody Talks,Picture Show,Male/Male Group,2012,Alternative a Punk/Alternative/Alternative Pop,Excited/Happy Excitement,Medium Tempo/Medium Fast/100s
+178777865,Kid Cudi,Erase Me,Man On The Moon II: The Legend Of Mr. Rager,Male/Male Duo,2010,Urban/Western Hip-Hop/Rap/Conscious Hip-Hop/Rap,Cool/Cool Confidence,Medium Tempo/Medium Fast/90s
+177387107,Jack Johnson,Sitting Waiting Wishing,In Between Dreams,Male/Male,2005,Pop/Western Pop/Adult Alternative Pop,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/100s
+177384709,Snow Patrol,Called Out In The Dark,Fallen Empires,Male/Male Group,2011,Alternative a Punk/Brit Rock/Brit Rock,Excited/Upbeat Pop Groove,Medium Tempo/Medium Fast/120s
+176323190,The Rapture,How Deep Is Your Love?,In The Grace Of Your Love,Male/Male Group,2011,Alternative a Punk/Indie Rock/Indie Pop,Urgent/Dark Pop Intensity,Medium Tempo/Medium Fast/120s
+173750418,Shinedown,Her Name Is Alice (Bonus Track),The Sound of Madness,Male/Male Group,2008,Alternative a Punk/Alternative/Alternative Rock,Yearning/Energetic Yearning,Medium Tempo/Medium Fast/90s
+172767460,Shocking Blue,Long And Lonesome Road,At Home,Mixed/Mixed Group,1969,Rock/60's Rock/Acid Rock,Urgent/Dark Urgent,Medium Tempo/Medium Fast/120s
+172013741,The Temper Trap,Sweet Disposition,Conditions,Male/Male Group,2009,Alternative a Punk/Indie Rock/Post-Punk Revival,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/120s
+170643732,God Help The Girl,Baby You're Blind,Baby You're Blind,Mixed/Mixed Group,2010,Alternative a Punk/Indie Rock/Twee Pop,Excited/Upbeat Pop Groove,Medium Tempo/Medium Fast/100s
+170642249,God Help The Girl,Funny Little Frog,God Help The Girl,Mixed/Mixed Group,2009,Alternative a Punk/Indie Rock/Twee Pop,Yearning/Bittersweet Pop,Medium Tempo/Medium Fast/90s
+170556929,Marina a The Diamonds,Girls,The Family Jewels,Female/Female,2010,Alternative a Punk/Synth Pop/Synth Pop,Urgent/Dark Pop Intensity,Medium Tempo/Medium Fast/110s
+169737377,Various Artists,NO bambino,Fresh Hits Summer 2007,"",2007,Traditional/Folk/Old Timey,Energizing/Heavy Beat,Medium Tempo/Medium Fast/90s
+167432779,I am waiting for you last summer,Solar Wind,Edge Party,Male/Male Group,2013,Rock/Mainstream Rock/General Mainstream Rock,Yearning/Energetic Dreamy,Medium Tempo/Medium Fast/90s
+166750668,Modjo,Lady (Hear Me Tonight),Modjo (UK CD Set),Male/Male Duo,2001,Electronica/House/Euro House,Stirring/Jubilant / Soulful,Medium Tempo/Medium Fast/120s
+165367496,DeeExpus,King of Number 33 (II - Accession),King of Number 33,"",2012,Rock/70's Rock/Classic Prog,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+163915119,Lynsey De Paul,Sugar Me,Sugar Me,Female/Female,2009,Pop/Western Pop/Singer-Songwriter,Brooding/Alienated / Brooding,Medium Tempo/Medium Fast/90s
+164039446,Florence + The Machine,Kiss With A Fist,Lungs,Mixed/Mixed Group,2009,Alternative a Punk/Alternative/Alternative Singer-Songwriter,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/100s
+164744359,Madonna,Love Profusion,American Life,Female/Female,2003,Pop/Western Pop/Dance Pop,Energizing/Edgy / Sexy,Medium Tempo/Medium Fast/120s
+164104179,Paula Seling a Ovi,Playing With Fire,Playing With Fire,"",2010,Pop/Western Pop/Pop Vocal,Energizing/Edgy / Sexy,Medium Tempo/Medium Fast/120s
+164103788,U2,With Or Without You,The Joshua Tree,Male/Male Group,1987,Rock/Adult Alternative Rock/Adult Alternative Rock,Empowering/Idealistic / Stirring,Medium Tempo/Medium Fast/110s
+163978176,Of Monsters And Men,Little Talks,My Head Is An Animal,Mixed/Mixed Group,2012,Alternative a Punk/Alternative Folk/Alternative Folk,Yearning/Energetic Yearning,Medium Tempo/Medium Fast/100s
+162523211,Plain White T's,1 2 3 4,Big Bad World,Male/Male Group,2008,Alternative a Punk/Alternative/Alternative Pop,Yearning/Bittersweet Pop,Medium Tempo/Medium Fast/90s
+161426900,McFly,Five Colours In Her Hair,Room On The 3rd Floor,Male/Male Group,2004,Alternative a Punk/Punk/Pop Punk,Defiant/Hard Positive Excitement,Medium Tempo/Medium Fast/90s
+161421677,The Cardigans,Say That You Love Me,Greatest Hits,Mixed/Mixed Group,2008,Alternative a Punk/Indie Rock/General Indie Rock,Cool/Dark Groovy,Medium Tempo/Medium Fast/110s
+150582783,Vanessa Paradis,La Seine,Love Songs Tour,Female/Female,2014,Pop/European Pop/French Pop,Urgent/Dark Pop Intensity,Medium Tempo/Medium Fast/110s
+150013000,I am waiting for you last summer,Unseen,Edge Party,Male/Male Group,2013,Rock/Mainstream Rock/General Mainstream Rock,Excited/Euphoric Energy,Medium Tempo/Medium Fast/120s
+149369218,Elbow,Grounds For Divorce,The Seldom Seen Kid,Male/Male Group,2008,Alternative a Punk/Indie Rock/General Indie Rock,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/90s
+149268278,Vanilla Sky,Just Dance,Fragile,Male/Male Group,2010,Alternative a Punk/Punk/Pop Punk,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/120s
+148177877,Slash,Promise,Slash,Male/Male,2010,Rock/Hard Rock/General Hard Rock,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+143569354,IAMX,My Secret Friend (Featuring Imogen Heap),Kingdom Of Welcome Addiction,Male/Male Group,2009,Alternative a Punk/Indie Rock/Post-Punk Revival,Yearning/Energetic Yearning,Medium Tempo/Medium Fast/110s
+139392117,Kasabian,Club Foot,Kasabian,Male/Male Group,2004,Alternative a Punk/Brit Rock/Brit Rock,Brooding/Alienated / Brooding,Medium Tempo/Medium Fast/100s
+139382359,The Kooks,Naive,Inside In/Inside Out,Male/Male Group,2006,Alternative a Punk/Indie Rock/Indie Pop,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/100s
+139241896,Neon Trees,In The Next Room,Habits,Male/Male Group,2010,Alternative a Punk/Alternative/Alternative Pop,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/90s
+136967729,The Kooks,Be Mine,Inside In/Inside Out,Male/Male Group,2006,Alternative a Punk/Indie Rock/Indie Pop,Defiant/Hard Positive Excitement,Medium Tempo/Medium Fast/90s
+133320940,The Hardkiss,Dance with Me,Stones and Honey,Mixed/Mixed Group,2014,Electronica/Electronica Mainstream/Pop Electronica,Urgent/Dark Pop Intensity,Medium Tempo/Medium Fast/120s
+132594269,Gossip,Heavy Cross,Music For Men,Mixed/Mixed Group,2009,Alternative a Punk/Indie Rock/Indie Pop,Rowdy/Driving Dark Groove,Medium Tempo/Medium Fast/120s
+132246909,Various Artists,"El Tango De Roxanne (Instr. From ""Moulin Rouge"")",Ballroom Emotions,"",2002,Pop/Western Pop/Other Pop,Sophisticated/Dark Playful,Medium Tempo/Medium Fast/120s
+129598648,Robbie Williams,The Road To Mandalay,Sing When You're Winning,Male/Male,2000,Pop/Western Pop/Adult Contemporary,Yearning/Energetic Dreamy,Medium Tempo/Medium Fast/90s
+128481708,Sophie Ellis-Bextor,Murder On The Dancefloor,Read My Lips,Female/Female,2001,Pop/Western Pop/Dance Pop,Excited/Euphoric Energy,Medium Tempo/Medium Fast/110s
+128194075,Sophie Ellis-Bextor,Off a On,Make a Scene,Female/Female,2011,Pop/Western Pop/Dance Pop,Energizing/Edgy / Sexy,Medium Tempo/Medium Fast/120s
+128182052,Sophie Ellis-Bextor,Me And My Imagination,Trip The Light Fantastic,Female/Female,2007,Pop/Western Pop/Dance Pop,Excited/Euphoric Energy,Medium Tempo/Medium Fast/120s
+128038651,Скрябін,Дочка Україна,Дочка Україна,Male/Male Group,2015,Rock/Mainstream Rock/General Mainstream Rock,Gritty/Strumming Yearning,Medium Tempo/Medium Fast/90s
+125417309,Kasabian,Underdog,West Ryder Pauper Lunatic Asylum,Male/Male Group,2009,Alternative a Punk/Brit Rock/Brit Rock,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/100s
+124128241,Selena Gomez a The Scene,Love You Like A Love Song,When The Sun Goes Down,Mixed/Mixed Group,2011,Pop/Western Pop/Teen Pop,Energizing/Edgy / Sexy,Medium Tempo/Medium Fast/110s
+122766486,Sia,Breathe Me,Colour The Small One [Deluxe Edition],Female/Female,2005,Alternative a Punk/Indie Rock/Post-Modern Electronic Pop,Yearning/Energetic Yearning,Medium Tempo/Medium Fast/110s
+121135638,009 Sound System,Trinity,009 Sound System,Male/Male,2009,Electronica/Trance/Trance,Excited/Euphoric Energy,Medium Tempo/Medium Fast/120s
+118760995,The Downtown Fiction,I Just Wanna Run,Let's Be Animals,Male/Male Group,2011,Alternative a Punk/Emo a Hardcore/Emo,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/120s
+118104013,Audio Bullys,Only Man,Higher Than The Eiffel,Male/Male Duo,2011,Electronica/Electronica Mainstream/Big Beat,Energizing/Edgy / Sexy,Medium Tempo/Medium Fast/100s
+118103715,Ida Corr Vs. Fedde Le Grand,Let Me Think About It,Let Me Think About It [Single],Mixed/Mixed Duo,2007,Pop/Western Pop/Dance Pop,Energizing/Arousing Groove,Medium Tempo/Medium Fast/120s
+116189624,Texas,Summer Son,The Hush,Mixed/Mixed Group,1999,Rock/Adult Alternative Rock/Adult Alternative Rock,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/120s
+116125581,Kylie Minogue,In Your Eyes,Fever,Female/Female,2001,Pop/Western Pop/Dance Pop,Fiery/Fiery Groove,Medium Tempo/Medium Fast/120s
+110911153,Мотор'Ролла,Моя вода,Кольорові сни,"",2008,Pop/Western Pop/Pop Vocal,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/100s
+109283262,Alanis Morissette,Crazy,The Collection,Female/Female,2005,Rock/Adult Alternative Rock/Adult Alternative Rock,Urgent/Dark Pop Intensity,Medium Tempo/Medium Fast/100s
+109273990,The Pierces,Sticks And Stones,Thirteen Tales Of Love a Revenge,Female/Female Duo,2008,Pop/Western Pop/Adult Alternative Pop,Urgent/Dark Pop Intensity,Medium Tempo/Medium Fast/110s
+107515435,Take That,The Flood,Progress,Male/Male Group,2010,Pop/Western Pop/Teen Boy Band,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/100s
+106125128,Panic! At The Disco,Build God Then We'll Talk,A Fever You Can't Sweat Out,Male/Male Group,2005,Alternative a Punk/Punk/Pop Punk,Urgent/Dark Pop Intensity,Medium Tempo/Medium Fast/120s
+104900529,Carrie Underwood,Cowboy Casanova,Play On,Female/Female,2009,Traditional/Country/Contemporary Country,Urgent/Dark Pop Intensity,Medium Tempo/Medium Fast/120s
+104684463,Holly Brook,It's Raining Again (Smile),O'Dark:Thirty,Female/Female,2010,Pop/Western Pop/Adult Alternative Pop,Yearning/Energetic Yearning,Medium Tempo/Medium Fast/90s
+104038563,a-ha,Analogue,Analogue,Male/Male Group,2005,Alternative a Punk/New Wave Pop/New Wave Pop,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/110s
+101573598,Take That,Kidz,Progress,Male/Male Group,2010,Pop/Western Pop/Teen Boy Band,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/120s
+98935234,Различные Исполнители,Ты Далеко,Русская Дискотека Vol.1,"",2005,Pop/Western Pop/Pop Vocal,Fiery/Fiery Groove,Medium Tempo/Medium Fast/110s
+98932629,Уматурман,Я Так Ждала Тебя(Pop Version),Прасковья,Male/Male Group,2004,"",Fiery/Fiery Groove,Medium Tempo/Medium Fast/110s
+97973774,Mr Lab,Anyway,Post Industrial Ceremony,Male/Male,2008,Alternative a Punk/Alternative/Alternative Rock,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/90s
+96784096,Method Man,Mr. Sandman,Tical,Mixed/Mixed Group,1994,Urban/Western Hip-Hop/Rap/East Coast Rap,Defiant/Attitude / Defiant,Medium Tempo/Medium Fast/100s
+94677870,Muse,Can't Take My Eyes Off You,Dead Star / In Your World,Male/Male Group,2002,Alternative a Punk/Alternative/Alternative Rock,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/120s
+96795714,Flagrant Fowl,"Feist's ""Gatekeeper"" (Pocketknife's Faded Beach Towel Remix)",Tambourine Dream,"",2007,Electronica/Trance/Trance,Urgent/Dark Pop,Medium Tempo/Medium Fast/120s
+96791611,Pomplamoose,Telephone,Tribute To Famous People,Male/Male Duo,2012,Alternative a Punk/Indie Rock/Indie Pop,Cool/Dark Groovy,Medium Tempo/Medium Fast/120s
+93205233,Daniel Hope André De Ridder: Konzerthaus Kammerorchester Berlin,Richter: Vivaldi The Four Seasons - Autumn 1,Recomposed By Max Richter - Vivaldi: The Four Seasons,Mixed/Mixed Group,2012,Classical/Other Classical/General Classical,Tender/Awakening / Stately,Medium Tempo/Medium Fast/110s
+92216680,Валерий Меладзе,Спрячем Слёзы От Посторонних,Нега,Male/Male,2003,"",Fiery/Fiery Groove,Medium Tempo/Medium Fast/120s
+91793354,Валерий Меладзе,Самба Белого Мотылька,Океан,Male/Male,2005,Pop/European Pop/Eastern European Pop,Urgent/Dark Pop,Medium Tempo/Medium Fast/110s
+91792792,Валерий Меладзе,Се Ля Ви,Океан,Male/Male,2005,Pop/European Pop/Eastern European Pop,Urgent/Dark Pop Intensity,Medium Tempo/Medium Fast/110s
+89937019,ВИА Сливки,Реки И Мосты [Англ. Версия],Выше Облаков,"",2005,Pop/Western Pop/Pop Vocal,Energizing/Edgy / Sexy,Medium Tempo/Medium Fast/90s
+86448205,Скрябін,Квінти,Моя еволюція,Male/Male Group,2009,Rock/Mainstream Rock/General Mainstream Rock,Empowering/Powerful / Heroic,Medium Tempo/Medium Fast/110s
+82129240,Ryan Star,Brand New Day,11:59,Male/Male,2010,Rock/Adult Alternative Rock/Adult Alternative Rock,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/90s
+83871536,AC/DC,Let Me Put My Love Into You,Back In Black,Male/Male Group,1980,Rock/70's Rock/Classic Hard Rock,Rowdy/Confident / Tough,Medium Tempo/Medium Fast/100s
+83870021,Tool,10000 Days (Wings Part 2),10000 Days,Male/Male Group,2006,Rock/Metal/Nu-Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/110s
+83869910,Tool,10000 Days (Wings Part 2),10000 Days,Male/Male Group,2006,Rock/Metal/Nu-Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/110s
+77326564,Noize MC,Это Был Дождь,Розыгрыш,Male/Male,2009,Urban/Western Hip-Hop/Rap/European Hip-Hop/Rap,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/100s
+77081973,Shaun Baker Feat. Maloy,Give! (Sebastian Wolter Original Radio Version),Give! [Single],"",2009,Electronica/House/General House,Excited/Euphoric Energy,Medium Tempo/Medium Fast/120s
+76199649,Kings Of Convenience,Boat Behind,Declaration Of Dependence,Male/Male Duo,2009,Alternative a Punk/Alternative/Alternative Singer-Songwriter,Gritty/Sober / Determined,Medium Tempo/Medium Fast/90s
+75181512,Unkle Bob,Swans,Sugar and Spite,"",2006,Rock/Mainstream Rock/General Mainstream Rock,Empowering/Idealistic / Stirring,Medium Tempo/Medium Fast/110s
+73161083,Shakira,Don't Bother,Oral Fixation Vol. 2,Female/Female,2005,Other/Latin Pop/General Latin Pop,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/120s
+73088011,MIKA,Lollipop,Life In Cartoon Motion,Male/Male,2007,Alternative a Punk/Indie Rock/Neo-Glam,Energizing/Edgy / Sexy,Medium Tempo/Medium Fast/90s
+73039808,Lily Allen,Smile,Alright Still,Female/Female,2006,Alternative a Punk/Synth Pop/Synth Pop,Urgent/Dark Pop Intensity,Medium Tempo/Medium Fast/90s
+73019243,Lily Allen,Not Fair,It's Not Me It's You,Female/Female,2009,Alternative a Punk/Synth Pop/Synth Pop,Excited/Upbeat Pop Groove,Medium Tempo/Medium Fast/120s
+72975969,Robbie Williams,Bodies,Reality Killed The Video Star,Male/Male,2009,Pop/Western Pop/Adult Contemporary,Yearning/Energetic Yearning,Medium Tempo/Medium Fast/90s
+72866151,Shakira,Objection (Tango),Laundry Service,Female/Female,2001,Other/Latin Pop/General Latin Pop,Fiery/Fiery Groove,Medium Tempo/Medium Fast/90s
+72810311,Daft Punk,Harder Better Faster Stronger,Discovery,Male/Male Duo,2001,Electronica/House/Euro House,Urgent/Dark Pop,Medium Tempo/Medium Fast/120s
+72748837,Brainstorm,Выходные,The Best Of,Male/Male Group,2013,Rock/Metal/Power Metal,Urgent/Dark Urgent,Medium Tempo/Medium Fast/110s
+72702738,Земфира,Мачо,14 Недель Тишины,Female/Female,2002,"",Yearning/Energetic Yearning,Medium Tempo/Medium Fast/110s
+72366045,Snow Patrol,Chasing Cars,Eyes Open,Male/Male Group,2006,Alternative a Punk/Brit Rock/Brit Rock,Empowering/Powerful / Heroic,Medium Tempo/Medium Fast/100s
+72315647,Franz Ferdinand,Ulysses,Tonight: Franz Ferdinand,Male/Male Group,2009,Alternative a Punk/Indie Rock/Post-Punk Revival,Rowdy/Driving Dark Groove,Medium Tempo/Medium Fast/90s
+72255661,Kaiser Chiefs,Ruby,Yours Truly Angry Mob,Male/Male Group,2007,Alternative a Punk/Indie Rock/General Indie Rock,Empowering/Powerful / Heroic,Medium Tempo/Medium Fast/90s
+68751672,Dolphin,Весна,Звезда,Male/Male,2004,Rock/Mainstream Rock/General Mainstream Rock,Yearning/Energetic Yearning,Medium Tempo/Medium Fast/110s
+68392222,The Used,The Bird And The Worm,Lies For The Liars,Male/Male Group,2007,Alternative a Punk/Emo a Hardcore/Hardcore,Rowdy/Confident / Tough,Medium Tempo/Medium Fast/90s
+68289705,MIKA,Rain,The Boy Who Knew Too Much,Male/Male,2009,Alternative a Punk/Indie Rock/Neo-Glam,Excited/Euphoric Energy,Medium Tempo/Medium Fast/120s
+68284513,Dash Berlin Feat. Emma Hewitt,Waiting (Dabruck a Klein Remix Edit),Dash Berlin Top 15 - September 2011 (Including Classic Bonus Track),Mixed/Mixed Group,2011,Electronica/Trance/Trance,Excited/Euphoric Energy,Medium Tempo/Medium Fast/120s
+68261718,Павел Чехов,В порту,Поп музыка,"",2014,Pop/Western Pop/Pop Vocal,Fiery/Passionate Rhythm,Medium Tempo/Medium Fast/120s
+68187297,Jem,It's Amazing,Down To Earth,Female/Female,2008,Pop/Western Pop/Adult Alternative Pop,Urgent/Dark Pop Intensity,Medium Tempo/Medium Fast/90s
+68004765,Dido,Hunter,No Angel,Female/Female,1999,Pop/Western Pop/Adult Alternative Pop,Yearning/Energetic Yearning,Medium Tempo/Medium Fast/90s
+67416583,Yoav,Beautiful Lie,Charmed a Strange,Male/Male,2008,Alternative a Punk/Indie Rock/Post-Modern Electronic Pop,Sophisticated/Dark Playful,Medium Tempo/Medium Fast/120s
+67125093,Avril Lavigne,Nobody's Home,Under My Skin,Female/Female,2004,Pop/Western Pop/Adult Alternative Pop,Urgent/Dark Pop Intensity,Medium Tempo/Medium Fast/90s
+61303317,Serj Tankian,Sky Is Over,Elect The Dead,Male/Male,2007,Rock/Metal/Nu-Metal,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/100s
+47665259,Fall Out Boy,Dance Dance,From Under The Cork Tree,Male/Male Group,2005,Alternative a Punk/Emo a Hardcore/Emo,Defiant/Hard Dark Excitement,Medium Tempo/Medium Fast/110s
+45448333,Marilyn Manson,If I Was Your Vampire,Eat Me Drink Me,Male/Male Group,2007,Rock/Metal/Nu-Metal,Aggressive/Chaotic / Intense,Medium Tempo/Medium Fast/110s
+42830551,Nightwish,Cadence Of Her Last Breath,Dark Passion Play,Mixed/Mixed Group,2007,Rock/Metal/Progressive Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/100s
+42829425,Robbie Williams,Feel,Escapology,Male/Male,2002,Pop/Western Pop/Adult Contemporary,Gritty/Strumming Yearning,Medium Tempo/Medium Fast/90s
+42829258,System Of A Down,Dreaming,Hypnotize,Male/Male Group,2005,Rock/Metal/Nu-Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+42828703,Take That,Shine,Beautiful World,Male/Male Group,2006,Pop/Western Pop/Teen Boy Band,Defiant/Hard Positive Excitement,Medium Tempo/Medium Fast/90s
