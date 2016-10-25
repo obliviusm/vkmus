@@ -1,6 +1,6 @@
 require_relative '../require_all_helper'
 
-NAME = 'misha'
+NAME = 'sydorov'
 
 reader = Adapter::VkJsonReader.new(NAME)
 songs = reader.get_songs

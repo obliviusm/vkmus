@@ -24,7 +24,7 @@ module Adapter
     end
 
     def get_songs songs
-      songs.map {|song| get_song song }
+      songs.map {|song| get_song song }.compact
     end
 
     def get_song song
@@ -43,6 +43,19 @@ module Adapter
       }
       print grace_song.to_yaml
       grace_song
+    rescue
+      nil
+      # {
+      #   "id" => "",
+      #   "artist" =>  "",
+      #   "title" => "",
+      #   "album_title" => "",
+      #   "artist_type" => [],
+      #   "album_year" => "",
+      #   "genre" => [],
+      #   "mood" => [],
+      #   "tempo" => []
+      # }
     end
 
     def extract_text arr

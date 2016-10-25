@@ -1,0 +1,589 @@
+id,artist,title,album_title,artist_type,album_year,genre,mood,tempo
+456239531,Tool,Sober,Undertow,Male/Male Group,1993,Rock/Metal/Nu-Metal,Brooding/Alienated / Brooding,Medium Tempo/Medium/70s
+456239510,Blood Axis,Follow Me Up to Carlow,Ultimacy,Mixed/Mixed Group,2011,Rock/Metal/Black Metal,Gritty/Strumming Yearning,Medium Tempo/Medium Fast/90s
+456239509,Blood Axis,The March of Brian Boru,Ultimacy,Mixed/Mixed Group,2011,Rock/Metal/Black Metal,Brooding/Alienated / Brooding,Medium Tempo/Medium Fast/110s
+456239495,Space Chaser,Judgement Day,Dead Sun Rising,"",2016,Rock/Metal/Heavy Metal,Defiant/Hard Dark Excitement,Medium Tempo/Medium Fast/100s
+456239493,Space Chaser,Xenomorph,Dead Sun Rising,"",2016,Rock/Metal/Heavy Metal,Aggressive/Aggressive Power,Medium Tempo/Medium Fast/90s
+456239460,Kuolemanlaakso,The World's Intolerable Pain,M. Laakso Vol. 1: The Gothic Tapes,Male/Male Group,2016,Rock/Metal/Doom Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/100s
+456239459,Kuolemanlaakso,Roll The Dice With The Devil,M. Laakso Vol. 1: The Gothic Tapes,Male/Male Group,2016,Rock/Metal/Doom Metal,Aggressive/Heavy Triumphant,Fast Tempo/Very Fast/240s
+456239452,Kuolemanlaakso,Deeper Into The Unknown,M. Laakso Vol. 1: The Gothic Tapes,Male/Male Group,2016,Rock/Metal/Doom Metal,Yearning/Sensitive / Exploring,Medium Tempo/Medium Fast/110s
+456239451,Kuolemanlaakso,My Last Words,M. Laakso Vol. 1: The Gothic Tapes,Male/Male Group,2016,Rock/Metal/Doom Metal,Brooding/Dreamy Brooding,Medium Tempo/Medium Slow/60s
+456239450,Kuolemanlaakso,Glastonburyn Lehto,Tulijoutsen,Male/Male Group,2014,Rock/Metal/Doom Metal,Somber/Enigmatic / Mysterious,Medium Tempo/Medium Slow/50s
+456239449,Kuolemanlaakso,Where The River Runs Red,M. Laakso Vol. 1: The Gothic Tapes,Male/Male Group,2016,Rock/Metal/Doom Metal,Urgent/Energetic Anxious,Medium Tempo/Medium/80s
+456239448,Kuolemanlaakso,She Guides Me In My Dreams,M. Laakso Vol. 1: The Gothic Tapes,Male/Male Group,2016,Rock/Metal/Doom Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+456239441,Tiamat,The Temple Of The Crescent Moon,Amanethes,Male/Male Group,2008,Rock/Metal/Gothic Metal,Aggressive/Heavy Triumphant,Fast Tempo/Very Fast/240s
+456239445,Hypocrisy,Valley Of The Damned,A Taste Of Extreme Divinity,Male/Male Group,2009,Rock/Metal/Death Metal,Aggressive/Aggressive Power,Medium Tempo/Medium Fast/110s
+456239444,Tiamat,Katarraktis Apo Aima,Amanethes,Male/Male Group,2008,Rock/Metal/Gothic Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/60s
+456239443,Tiamat,Until The Hellhounds Sleep Again,Amanethes,Male/Male Group,2008,Rock/Metal/Gothic Metal,Brooding/Alienated / Brooding,Medium Tempo/Medium Slow/60s
+456239442,Tiamat,Equinox Of The Gods,Amanethes,Male/Male Group,2008,Rock/Metal/Gothic Metal,Brooding/Alienated / Brooding,Medium Tempo/Medium Fast/120s
+456239440,Kuolemanlaakso,Children Of The Night,M. Laakso Vol. 1: The Gothic Tapes,Male/Male Group,2016,Rock/Metal/Doom Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/120s
+456239434,Bloody Hammers,Infinite Gaze To The Sun,Lovely Sort of Death,"",2016,Rock/Metal/Heavy Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/110s
+456239433,Bloody Hammers,Messalina,Lovely Sort of Death,"",2016,Rock/Metal/Heavy Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/120s
+456239432,Bloody Hammers,The Reaper Comes,The Reaper Comes,"",2016,Rock/Metal/Heavy Metal,Brooding/Dreamy Brooding,Slow Tempo/Slow/40s
+456239431,Bloody Hammers,Lights Come Alive,Lovely Sort of Death,"",2016,Rock/Metal/Heavy Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/100s
+456239430,Bloody Hammers,Bloodletting On The Kiss,Bloodletting On The Kiss,"",2016,Rock/Metal/Heavy Metal,Aggressive/Dark Hard Beat,Medium Tempo/Medium Fast/90s
+456239408,Mantus,Wüste,Grenzland,Mixed/Mixed Group,2014,Rock/Metal/Gothic Metal,Aggressive/Dark Hard Beat,Medium Tempo/Medium Fast/110s
+456239407,Mantus,Nihil,Grenzland,Mixed/Mixed Group,2014,Rock/Metal/Gothic Metal,Aggressive/Dark Hard Beat,Medium Tempo/Medium Fast/100s
+456239406,Mantus,Konstrukt,Grenzland,Mixed/Mixed Group,2014,Rock/Metal/Gothic Metal,Brooding/Dreamy Brooding,Medium Tempo/Medium/60s
+456239405,Mantus,Genesis,Grenzland,Mixed/Mixed Group,2014,Rock/Metal/Gothic Metal,Somber/Enigmatic / Mysterious,Slow Tempo/Slow/40s
+456239401,Mantus,Weg ins Paradies,Weg ins Paradies,Mixed/Mixed Group,2004,Rock/Metal/Gothic Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/80s
+456239396,Eternal / Thy Grief Eternal / Lord of Putrefaction,Magickal Childe,Pre-Electric Wizard 1989-94,Mixed/Mixed Group,2013,Rock/Metal/Doom Metal,Excited/Euphoric Energy,Fast Tempo/Fast/150s
+456239382,Clutch,The Dragonfly,The Elephant Riders,Male/Male Group,1998,Rock/Metal/Nu-Metal,Urgent/Energetic Anxious,Fast Tempo/Fast/140s
+456239358,Crematory,Waiting,Act Seven,Mixed/Mixed Group,1999,Rock/Metal/Gothic Metal,Empowering/Powerful / Heroic,Medium Tempo/Medium/70s
+456239337,Samsas Traum,Im Ursprung der Schatten Featuring Vic Anselmo,Niemand niemand anderem als dir,Male/Male Group,2013,Rock/Metal/Industrial Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+456239332,Megadeth,Holy Wars...The Punishment Due,Rust In Peace,Male/Male Group,1990,Rock/Metal/Speed Metal,Defiant/Hard Dark Excitement,Fast Tempo/Fast/160s
+456239330,Therion,Schwarzalbenheim,Secret Of The Runes,Mixed/Mixed Group,2001,Rock/Metal/Progressive Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Slow/60s
+456239329,Therion,Muspelheim,Secret Of The Runes,Mixed/Mixed Group,2001,Rock/Metal/Progressive Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/80s
+456239328,Therion,Ginnungagap (Prologue),Live In Midgård [Disc 1],Mixed/Mixed Group,2002,Rock/Metal/Progressive Metal,Aggressive/Aggressive Power,Medium Tempo/Medium/80s
+456239325,Sólstafir,Djákninn,Svartir Sandar,Male/Male Group,2011,Rock/Metal/Black Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/80s
+456239320,Schwarzer Engel,Sonnenanbeterin,Träume Einer Nacht,"",2012,Rock/Metal/Heavy Metal,Aggressive/Heavy Triumphant,Fast Tempo/Fast/130s
+456239319,Schwarzer Engel,Der Sturm,Apokalypse,"",2012,Rock/Metal/Heavy Metal,Aggressive/Heavy Triumphant,Fast Tempo/Very Fast/200s
+456239321,Schwarzer Engel,Halb-Gott,Träume Einer Nacht,"",2012,Rock/Metal/Heavy Metal,Aggressive/Heavy Triumphant,Fast Tempo/Fast/150s
+456239315,Exodus,Good Day To Die,Force Of Habit,Male/Male Group,1992,Rock/Metal/Thrash Metal,Aggressive/Heavy Triumphant,Fast Tempo/Very Fast/190s
+456239280,Megadeth,Back In The Day,The System Has Failed,Male/Male Group,2004,Rock/Metal/Speed Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/110s
+456239279,Sepultura,Refuse/Resist,Chaos A.D.,Male/Male Group,1993,Rock/Metal/Thrash Metal,Aggressive/Aggressive Power,Medium Tempo/Medium Fast/110s
+456239277,Ewigheim,Wir Der Teufel Und Ich,24/7,Male/Male Group,2014,Rock/Metal/Gothic Metal,Brooding/Alienated / Brooding,Medium Tempo/Medium Fast/120s
+456239276,Ewigheim,Gloria,24/7,Male/Male Group,2014,Rock/Metal/Gothic Metal,Empowering/Powerful / Heroic,Medium Tempo/Medium Slow/60s
+456239275,Soilwork,Antidotes In Passing,The Living Infinite [Disc 2],Male/Male Group,2013,Rock/Metal/Death Metal,Defiant/Heavy Brooding,Fast Tempo/Fast/150s
+456239271,Theatre Of Tragedy,Aoede,Aegis,Mixed/Mixed Group,1998,Rock/Metal/Gothic Metal,Defiant/Heavy Brooding,Fast Tempo/Fast/130s
+456239270,Therion,Summernight City,Secret Of The Runes,Mixed/Mixed Group,2001,Rock/Metal/Progressive Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/100s
+456239268,Tiamat,The Sleeping Beauty,Clouds,Male/Male Group,1992,Rock/Metal/Gothic Metal,Rowdy/Confident / Tough,Medium Tempo/Medium/80s
+456239253,Mantus,Welt in Flammen,Refugium,Mixed/Mixed Group,2016,Rock/Metal/Gothic Metal,Brooding/Dreamy Brooding,Medium Tempo/Medium Slow/50s
+456239252,Mantus,In die Wirklichkeit,Refugium,Mixed/Mixed Group,2016,Rock/Metal/Gothic Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+456239251,Mantus,Schande,Refugium,Mixed/Mixed Group,2016,Rock/Metal/Gothic Metal,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/120s
+456239250,Shadow Gallery,Ghostship: i) The Gathering The Night Before,Carved In Stone,Male/Male Group,2007,Rock/Metal/Progressive Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/110s
+456239247,Shadow Gallery,Floydian Memories,Room V [Bonus Disc],Male/Male Group,2005,Rock/Metal/Progressive Metal,Empowering/Dramatic Emotion,Slow Tempo/Very Slow/30s
+456239246,Dawn Of Ashes,Tribe of Chemosh,Theophany,Male/Male Group,2016,Rock/Metal/Industrial Metal,Aggressive/Chaotic / Intense,Fast Tempo/Very Fast/180s
+456239245,Katatonia,Shifts,The Fall Of Hearts,Male/Male Group,2016,Rock/Metal/Gothic Metal,Brooding/Dreamy Brooding,Medium Tempo/Medium Slow/60s
+456239244,Katatonia,Serac,The Fall Of Hearts,Male/Male Group,2016,Rock/Metal/Gothic Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+456239240,Mantus,Traurig bin ich sowieso,Refugium,Mixed/Mixed Group,2016,Rock/Metal/Gothic Metal,Gritty/Strumming Yearning,Medium Tempo/Medium/80s
+456239239,Mantus,Das Wunder des Lebens,Refugium,Mixed/Mixed Group,2016,Rock/Metal/Gothic Metal,Brooding/Dreamy Brooding,Medium Tempo/Medium/70s
+456239238,Mantus,Niemals genug,Refugium,Mixed/Mixed Group,2016,Rock/Metal/Gothic Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/70s
+456239237,Mantus,Zwischen den Nächten,Refugium,Mixed/Mixed Group,2016,Rock/Metal/Gothic Metal,Brooding/Dreamy Brooding,Slow Tempo/Slow/40s
+456239236,System Of A Down,Science,Toxicity,Male/Male Group,2001,Rock/Metal/Nu-Metal,Rowdy/Wild / Rowdy,Fast Tempo/Very Fast/180s
+456239234,Stahlmann,Süchtig,Adamant,Male/Male Group,2013,Rock/Metal/Industrial Metal,Urgent/Dark Pop Intensity,Fast Tempo/Fast/150s
+456239235,Mantus,Kampf der Kulturen,Refugium,Mixed/Mixed Group,2016,Rock/Metal/Gothic Metal,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/90s
+456239233,Sündenklang,Mach mich glücklich,Tränenreich,"",2014,Rock/Metal/Gothic Metal,Energizing/Arousing Groove,Medium Tempo/Medium Fast/100s
+456239231,Mantus,Niemals genug,Refugium,Mixed/Mixed Group,2016,Rock/Metal/Gothic Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/70s
+456239227,Mygrain,Xenomorphic,Mygrain,"",2011,Rock/Metal/Heavy Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/120s
+456239212,Sólstafir,Ótta,Ótta,Male/Male Group,2014,Rock/Metal/Black Metal,Brooding/Dreamy Brooding,Slow Tempo/Slow/40s
+456239178,Rotting Christ,Χ Ξ Σ [666],Κατα Τον Δαιμονα Εαυτου,Male/Male Group,2013,Rock/Metal/Black Metal,Yearning/Energetic Dreamy,Medium Tempo/Medium/80s
+456239179,Rotting Christ,Iwa Voodoo,Κατα Τον Δαιμονα Εαυτου,Male/Male Group,2013,Rock/Metal/Black Metal,Aggressive/Heavy Triumphant,Fast Tempo/Very Fast/250s
+456239151,Dawn Of Ashes,Naildriven,In The Acts Of Violence,Male/Male Group,2006,Rock/Metal/Industrial Metal,Energizing/Edgy / Sexy,Medium Tempo/Medium Fast/120s
+456239150,Dawn Of Ashes,Diagnosis,In The Acts Of Violence,Male/Male Group,2006,Rock/Metal/Industrial Metal,Fiery/Fiery Groove,Fast Tempo/Fast/130s
+456239149,Dawn Of Ashes,Flat-Line,In The Acts Of Violence,Male/Male Group,2006,Rock/Metal/Industrial Metal,Energizing/Edgy / Sexy,Fast Tempo/Fast/130s
+456239129,Otep,Possession,Sevas Tra,Mixed/Mixed Group,2002,Rock/Metal/Nu-Metal,Aggressive/Aggressive Power,Medium Tempo/Medium Fast/110s
+456239125,Summoning,Bauglir,Oath Bound,Male/Male Group,2006,Rock/Metal/Black Metal,Sophisticated/Dark Playful,Medium Tempo/Medium/80s
+456239124,Heidevolk,Deemstering,Uit Oude Grond,Male/Male Group,2012,Rock/Metal/Black Metal,Somber/Enigmatic / Mysterious,Medium Tempo/Medium/60s
+456239119,Samael,Diamond Drops,Era One,Male/Male Group,2012,Rock/Metal/Doom Metal,Urgent/Energetic Anxious,Medium Tempo/Medium/80s
+456239102,The Eden House,To Believe In Something,Smoke And Mirrors,"",2009,Rock/Metal/Gothic Metal,Brooding/Alienated / Brooding,Medium Tempo/Medium Fast/120s
+456239101,The Eden House,Reach Out,Smoke And Mirrors,"",2009,Rock/Metal/Gothic Metal,Brooding/Dreamy Brooding,Medium Tempo/Medium/70s
+456239100,Stahlmann,Der Schmied,Adamant,Male/Male Group,2013,Rock/Metal/Industrial Metal,Aggressive/Aggressive Power,Medium Tempo/Medium Slow/60s
+456239099,Stahlmann,Süchtig,Adamant,Male/Male Group,2013,Rock/Metal/Industrial Metal,Urgent/Dark Pop Intensity,Fast Tempo/Fast/150s
+456239098,Sündenklang,Krieger,Tränenreich,"",2014,Rock/Metal/Gothic Metal,Excited/Upbeat Pop Groove,Fast Tempo/Fast/130s
+456239093,Hämatom,Offline,Wir sind Gott,Male/Male Group,2016,Rock/Metal/Industrial Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+456239092,Hämatom,Tanz aus der Reihe,Wir sind Gott,Male/Male Group,2016,Rock/Metal/Industrial Metal,Defiant/Hard Positive Excitement,Fast Tempo/Fast/160s
+456239071,Opeth,Credence,My Arms Your Hearse [Bonus Tracks],Male/Male Group,1998,Rock/Metal/Progressive Metal,Somber/Enigmatic / Mysterious,Medium Tempo/Medium/60s
+456239062,Tiamat,Dust Is Our Fare,Skeleton Skeletron,Male/Male Group,1999,Rock/Metal/Gothic Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Slow/60s
+456239061,Tiamat,Divided,Prey,Male/Male Group,2003,Rock/Metal/Gothic Metal,Brooding/Dreamy Brooding,Medium Tempo/Medium/60s
+456239060,Tiamat,Winter Dawn,The Scarred People,Male/Male Group,2012,Rock/Metal/Gothic Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/80s
+456239059,Tiamat,Sympathy For The Devil (Rolling Stones Cover),Skeleton Skeletron,Male/Male Group,1999,Rock/Metal/Gothic Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/80s
+456239068,Enemy Soil,"Self Gratification (Fractured Theology 3"" CD version)",Smashes The State! [Disc 2],Male/Male Group,2009,Rock/Metal/Grindcore,Aggressive/Aggressive Power,Medium Tempo/Medium/80s
+456239038,Metallica,Sweet Amber,St. Anger,Male/Male Group,2003,Rock/Metal/Thrash Metal,Aggressive/Heavy Triumphant,Fast Tempo/Very Fast/180s
+456239037,System Of A Down,This Cocaine Makes Me Feel Like I'm On This Song,Mezmerize,Male/Male Group,2005,Rock/Metal/Nu-Metal,Defiant/Hard Dark Excitement,Medium Tempo/Medium Fast/100s
+456239017,Mountain Witch,The Dead Won't Sleep,Burning Village,"",2016,Rock/Metal/Heavy Metal,Defiant/Heavy Brooding,Fast Tempo/Fast/150s
+444411181,Ghost,Cirice,Meliora,Male/Male Group,2015,Rock/Metal/Nu-Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+442865734,Otep,Lords Of War,Generation Doom,Mixed/Mixed Group,2016,Rock/Metal/Nu-Metal,Aggressive/Dark Hard Beat,Medium Tempo/Medium Fast/110s
+442143336,Clutch,Earth Rocker,Earth Rocker,Male/Male Group,2013,Rock/Metal/Nu-Metal,Defiant/Hard Dark Excitement,Medium Tempo/Medium Fast/100s
+441379850,Iron Maiden,Out Of The Silent Planet,Brave New World,Male/Male Group,2000,Rock/Metal/Classic British Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/80s
+439579538,Ghost,Spirit,Meliora,Male/Male Group,2015,Rock/Metal/Nu-Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Slow/60s
+439467003,Tiamat,To Have And Have Not,Skeleton Skeletron,Male/Male Group,1999,Rock/Metal/Gothic Metal,Brooding/Dreamy Brooding,Medium Tempo/Medium Slow/60s
+439460187,Tiamat,Wings Of Heaven,Prey,Male/Male Group,2003,Rock/Metal/Gothic Metal,Yearning/Energetic Yearning,Medium Tempo/Medium/70s
+439405339,Tiamat,Atlantis As A Lover,A Deeper Kind Of Slumber,Male/Male Group,1997,Rock/Metal/Gothic Metal,Somber/Enigmatic / Mysterious,Medium Tempo/Medium Slow/60s
+439378966,Tiamat,As Long As You Are Mine,Skeleton Skeletron,Male/Male Group,1999,Rock/Metal/Gothic Metal,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/120s
+439375444,Tiamat,Brighter Than The Sun,Skeleton Skeletron,Male/Male Group,1999,Rock/Metal/Gothic Metal,Defiant/Heavy Brooding,Fast Tempo/Fast/130s
+437376462,Nawather,Succubus Romance,Wasted Years,"",2016,Rock/Metal/Gothic Metal,Urgent/Energetic Anxious,Fast Tempo/Fast/140s
+437366762,Nawather,Daret Layyem,Wasted Years,"",2016,Rock/Metal/Gothic Metal,Defiant/Hard Dark Excitement,Medium Tempo/Medium Fast/120s
+436532347,Luca Turilli's Rhapsody,Excalibur,Ascending To Infinity,"",2012,Rock/Metal/Heavy Metal,Urgent/Energetic Anxious,Medium Tempo/Medium/80s
+435146346,Nawather,Falling Down the Slope,Wasted Years,"",2016,Rock/Metal/Gothic Metal,Aggressive/Heavy Triumphant,Fast Tempo/Fast/150s
+433273366,Vicious Crusade,Messiah… Isn't It Me?,Forbidden Tunes,Mixed/Mixed Group,2002,Rock/Metal/Black Metal,Aggressive/Aggressive Power,Medium Tempo/Medium Fast/100s
+432362312,Faun,Andro,Licht,Mixed/Mixed Group,2003,Rock/Metal/Industrial Metal,Aggressive/Dark Hard Beat,Medium Tempo/Medium Fast/100s
+429889244,Heaven a Hell,Bible Black,The Devil You Know,Male/Male Group,2009,Rock/Metal/Classic British Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/80s
+429340529,Ulver,I Had Too Much to Dream Last Night,Childhood's End,Male/Male Group,2012,Rock/Metal/Black Metal,Urgent/Energetic Anxious,Medium Tempo/Medium/70s
+426196835,Ulver,Hallways Of Always,Perdition City,Male/Male Group,2002,Rock/Metal/Black Metal,Sensual/Dreamy Pulse,Slow Tempo/Slow/40s
+425552598,Kivimetsän Druidi,Tuoppein'nostelulaulu,Betrayal Justice Revenge,"",2010,Rock/Metal/Heavy Metal,"",""
+424407050,Machine Head,Imperium,Through The Ashes Of Empires,Male/Male Group,2003,Rock/Metal/Thrash Metal,Aggressive/Aggressive Power,Medium Tempo/Medium Fast/120s
+423903536,Evereve,Kolyma,Regret,Male/Male Group,1999,Rock/Metal/Gothic Metal,Defiant/Heavy Brooding,Fast Tempo/Fast/140s
+423900243,Lacrimas Profundere,The Nothingship,Fall I Will Follow,Male/Male Group,2006,Rock/Metal/Gothic Metal,Brooding/Dreamy Brooding,Medium Tempo/Medium/70s
+423897800,Gothminister,Freak,Happiness in Darkness,Male/Male Group,2008,Rock/Metal/Gothic Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/100s
+423889476,Samsas Traum,Stromausfall im Herzspital,Utopia,Male/Male Group,2009,Rock/Metal/Industrial Metal,Urgent/Dark Pop,Medium Tempo/Medium Fast/110s
+423838264,System Of A Down,Streamline,Steal This Album!,Male/Male Group,2002,Rock/Metal/Nu-Metal,Urgent/Energetic Anxious,Fast Tempo/Fast/130s
+422405073,Ewigheim,24/7,24/7,Male/Male Group,2014,Rock/Metal/Gothic Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/60s
+422278348,Ewigheim,Soko Friedhof - Die Augen Zu,24/7,Male/Male Group,2014,Rock/Metal/Gothic Metal,Urgent/Dark Pop,Medium Tempo/Medium/70s
+422404031,Ewigheim,Nicht Mehr,24/7,Male/Male Group,2014,Rock/Metal/Gothic Metal,Rowdy/Confident / Tough,Medium Tempo/Medium/70s
+422403226,Ewigheim,Tanz Um Dein Leben,24/7,Male/Male Group,2014,Rock/Metal/Gothic Metal,Rowdy/Confident / Tough,Medium Tempo/Medium/80s
+422139318,Übermensch,Weine Nicht Um Mich,Der Visionär,"",2013,Rock/Metal/Heavy Metal,"",""
+422139306,Tool,Parabol-Parabola,Lateralus,Male/Male Group,2001,Rock/Metal/Nu-Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/100s
+421895251,Redman Of Fire,Suffering Hapyness,Origén,"",2015,Rock/Metal/Heavy Metal,Brooding/Alienated / Brooding,Medium Tempo/Medium Fast/90s
+421870689,Kyuss,Green Machine,Blues For the Red Sun,Male/Male Group,1992,Rock/Metal/Doom Metal,Aggressive/Aggressive Power,Medium Tempo/Medium Fast/90s
+421866808,Kyuss,Whitewater,Welcome To Sky Valley,Male/Male Group,1994,Rock/Metal/Doom Metal,Brooding/Alienated / Brooding,Medium Tempo/Medium/80s
+421593854,Orange Goblin,Your World Will Hate This,Coup De Grace,Male/Male Group,2002,Rock/Metal/Doom Metal,Defiant/Hard Dark Excitement,Medium Tempo/Medium Fast/110s
+421590229,KMFDM,Quake,Kunst,Mixed/Mixed Group,2013,Rock/Metal/Industrial Metal,Aggressive/Aggressive Power,Fast Tempo/Fast/140s
+420828795,Megaherz,Jordan,Erdwärts,Male/Male Group,2015,Rock/Metal/Industrial Metal,Brooding/Alienated / Brooding,Fast Tempo/Fast/140s
+420821329,Megaherz,Wer hat Angst vorm schwarzen Mann,Erdwärts,Male/Male Group,2015,Rock/Metal/Industrial Metal,Rowdy/Confident / Tough,Fast Tempo/Fast/130s
+420484371,Conquered Mind,You Gave Me Fire,Conqueror,"",2015,Rock/Metal/Heavy Metal,"",""
+419963217,Julian Lehmann,Siegfrieds Song,Witchery,"",2015,Rock/Metal/Heavy Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/120s
+418300927,Julian Lehmann,Way To Victory,Witchery,"",2015,Rock/Metal/Heavy Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/100s
+418299696,Julian Lehmann,Storyteller,Witchery,"",2015,Rock/Metal/Heavy Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/100s
+418012194,Depressive Age,Weird Boy,Electric Scum,Male/Male Group,1996,Rock/Metal/Thrash Metal,Aggressive/Heavy Triumphant,Fast Tempo/Very Fast/230s
+418008436,Depressive Age,Toyland Hills,Electric Scum,Male/Male Group,1996,Rock/Metal/Thrash Metal,Aggressive/Aggressive Power,Medium Tempo/Medium/80s
+417987483,Depressive Age,Teenage Temples,Electric Scum,Male/Male Group,1996,Rock/Metal/Thrash Metal,Aggressive/Heavy Triumphant,Fast Tempo/Fast/170s
+417987136,Depressive Age,Cairo Crabat,Electric Scum,Male/Male Group,1996,Rock/Metal/Thrash Metal,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/90s
+417981804,Depressive Age,Electric Scum,Electric Scum,Male/Male Group,1996,Rock/Metal/Thrash Metal,Aggressive/Heavy Triumphant,Fast Tempo/Very Fast/210s
+417973890,Tengger Cavalry,金帐领主 / Golden Horde,Cavalry Folk (Sunesu Cavalry),"",2011,Rock/Metal/Heavy Metal,Aggressive/Heavy Triumphant,Fast Tempo/Very Fast/190s
+416650831,Wuthering Heights,Carpe Noctem - Seize The Night,The Shadow Cabinet,Male/Male Group,2009,Rock/Metal/Progressive Metal,Brooding/Alienated / Brooding,Medium Tempo/Medium/70s
+416573058,System Of A Down,Atwa,Toxicity,Male/Male Group,2001,Rock/Metal/Nu-Metal,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/90s
+416467479,Sabaton,Night Witches,Heroes,Male/Male Group,2014,Rock/Metal/Power Metal,Aggressive/Heavy Triumphant,Fast Tempo/Very Fast/190s
+415825949,Clutch,Immortal,Pure Rock Fury,Male/Male Group,2001,Rock/Metal/Nu-Metal,Rowdy/Wild / Rowdy,Medium Tempo/Medium Fast/100s
+415822934,Clutch,The Regulator,Blast Tyrant,Male/Male Group,2004,Rock/Metal/Nu-Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+415791134,Black Sabbath,Lady Evil,Heaven And Hell,Male/Male Group,1980,Rock/Metal/Heavy Metal,Rowdy/Confident / Tough,Medium Tempo/Medium Fast/120s
+414113770,Cradle Of Filth,A Gothic Romance (Red Roses For The Devil's Whore),Dusk... And Her Embrace,Mixed/Mixed Group,1996,Rock/Metal/Gothic Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/120s
+412130466,Buckethead,Padmasana,Electric Tears,Male/Male,2002,Rock/Metal/Progressive Metal,Melancholy/Light Melancholy,Slow Tempo/Slow/40s
+411810190,Sabaton,Attero Dominatus,Attero Dominatus,Male/Male Group,2006,Rock/Metal/Power Metal,Aggressive/Heavy Triumphant,Fast Tempo/Fast/170s
+410688359,Faun,Da Que Deus,Renaissance,Mixed/Mixed Group,2005,Rock/Metal/Industrial Metal,Sensual/Dreamy Pulse,Medium Tempo/Medium Slow/50s
+410404319,Vanden Plas,Vision 11even * in My Universe,Chronicles of the Immortals: Netherworld II,Male/Male Group,2015,Rock/Metal/Progressive Metal,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/90s
+410152346,Clutch,A Quick Death In Texas,Psychic Warfare,Male/Male Group,2015,Rock/Metal/Nu-Metal,Rowdy/Driving Dark Groove,Medium Tempo/Medium Fast/90s
+410147203,Clutch,Decapitation Blues,Psychic Warfare,Male/Male Group,2015,Rock/Metal/Nu-Metal,Rowdy/Driving Dark Groove,Medium Tempo/Medium/60s
+410145970,Clutch,Behold The Colossus,Psychic Warfare,Male/Male Group,2015,Rock/Metal/Nu-Metal,Defiant/Hard Dark Excitement,Medium Tempo/Medium Fast/100s
+410142467,Ulver,Waltz Of King Karl,Svidd Neger,Male/Male Group,2003,Rock/Metal/Black Metal,Melancholy/Light Melancholy,Medium Tempo/Medium Slow/50s
+408768751,Eindringling,Feuer,Die Welt Geht Unter,"",2015,Rock/Metal/Heavy Metal,"",""
+408716756,Human Jail,Lust Or Love ?,The Soul Allegory,"",2011,Rock/Metal/Heavy Metal,"",""
+408686766,Hateful Abandon,The Walker,Liars-Bastards,"",2015,Rock/Metal/Heavy Metal,Brooding/Alienated / Brooding,Medium Tempo/Medium Fast/120s
+408684287,Hateful Abandon,High Rise,Liars-Bastards,"",2015,Rock/Metal/Heavy Metal,Defiant/Hard Dark Excitement,Fast Tempo/Fast/130s
+408684280,Hateful Abandon,Culprit,Liars-Bastards,"",2015,Rock/Metal/Heavy Metal,Brooding/Alienated / Brooding,Medium Tempo/Medium/80s
+408424569,Térsivel,Those Days Are Gone,For One Pagan Brotherhood,"",2011,Rock/Metal/Heavy Metal,Yearning/Sensitive / Exploring,Medium Tempo/Medium/80s
+408213657,Sólstafir,Fjara,Svartir Sandar,Male/Male Group,2011,Rock/Metal/Black Metal,Brooding/Dreamy Brooding,Medium Tempo/Medium Slow/50s
+408216252,Uaral,Sounds Of Pain,Sounds Of Pain,"",2005,Rock/Metal/Heavy Metal,Melancholy/Wistful / Forlorn,Medium Tempo/Medium Slow/60s
+408152259,Atrocity,Calling The Rain (Video Edit),Calling The Rain,Male/Male Group,1995,Rock/Metal/Death Metal,Brooding/Evocative / Intriguing,Medium Tempo/Medium/70s
+408152251,Agalloch,A Desolation Song,The Mantle,Male/Male Group,2002,Rock/Metal/Progressive Metal,Brooding/Evocative / Intriguing,Medium Tempo/Medium Slow/60s
+408148650,Halgadom,Walkurenritt,Heimstatt,"",2010,Rock/Metal/Heavy Metal,Brooding/Dreamy Brooding,Medium Tempo/Medium Slow/60s
+408148569,Shroud Of Despondency,Something Of Nothing,For Eternity Brings No Hope,Male/Male Group,2002,Rock/Metal/Black Metal,"",""
+407695465,Mortiis,The Grudge (Gothminister Mix),Some Kind Of Heroin,Male/Male,2011,Rock/Metal/Gothic Metal,Aggressive/Dark Hard Beat,Medium Tempo/Medium Fast/120s
+407692677,Mortiis,Mental Maelstrom,The Smell Of Rain (Redux),Male/Male,2014,Rock/Metal/Gothic Metal,Aggressive/Dark Hard Beat,Medium Tempo/Medium Fast/120s
+407685095,Mortiis,Closer To The End,Perfectly Defect,Male/Male,2010,Rock/Metal/Gothic Metal,Aggressive/Dark Hard Beat,Medium Tempo/Medium/70s
+406854668,Inkubus Sukkubus,I Just Can’t Get You Out Of My Head,The Beast With Two Backs,Male/Male Group,2003,Rock/Metal/Gothic Metal,Brooding/Alienated / Brooding,Medium Tempo/Medium Fast/120s
+403294523,Clutch,Your Love Is Incarceration,Psychic Warfare,Male/Male Group,2015,Rock/Metal/Nu-Metal,Rowdy/Driving Dark Groove,Medium Tempo/Medium Fast/120s
+403292950,Clutch,Sucker For The Witch,Psychic Warfare,Male/Male Group,2015,Rock/Metal/Nu-Metal,Rowdy/Driving Dark Groove,Medium Tempo/Medium Fast/90s
+403290080,Clutch,Firebirds!,Psychic Warfare,Male/Male Group,2015,Rock/Metal/Nu-Metal,Defiant/Hard Dark Excitement,Fast Tempo/Fast/160s
+403244186,Clutch,Gravel Road,Robot Hive / Exodus,Male/Male Group,2005,Rock/Metal/Nu-Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/110s
+402666615,Samael,Further,Reign Of Light,Male/Male Group,2004,Rock/Metal/Doom Metal,Aggressive/Heavy Triumphant,Fast Tempo/Fast/160s
+402664080,Motörhead,"Young And Crazy [Bonus Track - Instrumental Version of ""Sex And Outrage""]",Iron Fist [Expanded Edition],Male/Male Group,2009,Rock/Metal/Speed Metal,Defiant/Hard Dark Excitement,Fast Tempo/Fast/130s
+402381032,DevilDriver,Head On To Heartache (Let Them Rot),The Last Kind Words,Male/Male Group,2007,Rock/Metal/Thrash Metal,Aggressive/Heavy Triumphant,Fast Tempo/Fast/150s
+401027668,Samael,Us,Eternal (Re-Issue),Male/Male Group,2012,Rock/Metal/Doom Metal,Aggressive/Heavy Triumphant,Fast Tempo/Very Fast/220s
+401026953,Samael,Promised Land,Solar Soul,Male/Male Group,2007,Rock/Metal/Doom Metal,Aggressive/Heavy Triumphant,Fast Tempo/Very Fast/200s
+400865920,Samael,Night Ride,Era One,Male/Male Group,2012,Rock/Metal/Doom Metal,Aggressive/Dark Hard Beat,Medium Tempo/Medium Fast/90s
+399172911,Mantus,Melancholia,Melancholia,Mixed/Mixed Group,2015,Rock/Metal/Gothic Metal,Brooding/Energetic Melancholy,Fast Tempo/Fast/140s
+397575550,Metallica,Wherever I May Roam,Metallica,Male/Male Group,1991,Rock/Metal/Thrash Metal,Rowdy/Confident / Tough,Medium Tempo/Medium/60s
+397353733,Sonata Arctica,Shy,Takatalvi,Male/Male Group,2003,Rock/Metal/Power Metal,Sentimental/Gentle Bittersweet,Medium Tempo/Medium/80s
+397127023,Lacrimas Profundere,My Velvet Little Darkness,Filthy Notes For Frozen Hearts,Male/Male Group,2006,Rock/Metal/Gothic Metal,Urgent/Energetic Anxious,Fast Tempo/Fast/140s
+391640058,Pentagram,Sufferin',Curious Volume,Male/Male Group,2015,Rock/Metal/Doom Metal,Aggressive/Aggressive Power,Medium Tempo/Medium Fast/110s
+389589953,Cruachan,Gae Bolga,Blood for the Blood God,Mixed/Mixed Group,2014,Rock/Metal/Black Metal,Defiant/Heavy Brooding,Fast Tempo/Fast/140s
+386277628,Lost In Tears,On The Way,To No Avail,"",2009,Rock/Metal/Heavy Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/100s
+379946834,Ozzy Osbourne,Ghost Behind My Eyes,Ozzmosis,Male/Male,1995,Rock/Metal/Classic British Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/70s
+379271428,Running Wild,Riding The Storm,20 Years In History [Disc 1],Male/Male Group,2003,Rock/Metal/Power Metal,Urgent/Energetic Anxious,Fast Tempo/Fast/150s
+379271350,My Dying Bride,Two Winters Only,The Angel a the Dark River,Male/Male Group,1995,Rock/Metal/Doom Metal,Brooding/Evocative / Intriguing,Medium Tempo/Medium/60s
+379265414,My Dying Bride,The Light At The End Of The World,The Light At The End Of The World,Male/Male Group,1999,Rock/Metal/Doom Metal,Defiant/Heavy Brooding,Fast Tempo/Fast/140s
+379265223,Running Wild,Born Bad Dying Worse,Rogues En Vogue,Male/Male Group,2005,Rock/Metal/Power Metal,Aggressive/Heavy Triumphant,Fast Tempo/Fast/140s
+379100344,Faun,Zeitgeist,Eden,Mixed/Mixed Group,2011,Rock/Metal/Industrial Metal,Somber/Enigmatic / Mysterious,Medium Tempo/Medium Slow/60s
+377546384,Mantus,Lied vom traurigen Sonntag,Melancholia,Mixed/Mixed Group,2015,Rock/Metal/Gothic Metal,Melancholy/Wistful / Forlorn,Medium Tempo/Medium Slow/50s
+376321942,13 Candles,The Prayer Of Eternal Damnation,Angels Of Mourning Silence,"",0,Rock/Metal/Gothic Metal,Serious/Thrilling,Medium Tempo/Medium Fast/100s
+374342714,Luciferian Light Orchestra,Dr. Faust on Capri,Luciferian Light Orchestra,"",2015,Rock/Metal/Heavy Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/80s
+374342057,Luciferian Light Orchestra,Church of Carmel,Luciferian Light Orchestra,"",2015,Rock/Metal/Heavy Metal,Brooding/Dreamy Brooding,Medium Tempo/Medium Slow/50s
+374177413,Rob Zombie,Sawdust In The Blood,Educated Horses,Male/Male,2006,Rock/Metal/Nu-Metal,Melancholy/Light Melancholy,Slow Tempo/Very Slow/30s
+374027674,FAKE IDOLS,My Favourite Game (The Cardigans Cover),Fake Idols,"",2014,Rock/Metal/Heavy Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/70s
+373721616,Lacuna Coil,Our Truth,Karmacode,Mixed/Mixed Group,2006,Rock/Metal/Gothic Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/100s
+373219383,Mantra,Kisa,Kisa,"",2013,Rock/Metal/Heavy Metal,"",""
+372579307,Die Verbannten Kinder Evas,Mistrust,Dusk And Void Became Alive,"",2013,Rock/Metal/Heavy Metal,Melancholy/Light Melancholy,Slow Tempo/Slow/40s
+371807466,Opeth,Windowpane,Damnation,Male/Male Group,2003,Rock/Metal/Progressive Metal,Brooding/Evocative / Intriguing,Medium Tempo/Medium/80s
+371731033,Soulfly,Umbabarauma,Soulfly,Male/Male Group,1998,Rock/Metal/Thrash Metal,Aggressive/Aggressive Power,Medium Tempo/Medium Fast/90s
+371731025,Soulfly,Back To The Primitive,Primitive,Male/Male Group,2000,Rock/Metal/Thrash Metal,Aggressive/Aggressive Power,Medium Tempo/Medium Fast/110s
+371555115,Paradise Lost,Cry Out,The Plague Within,Male/Male Group,2015,Rock/Metal/Gothic Metal,Defiant/Heavy Brooding,Fast Tempo/Fast/130s
+371548045,Paradise Lost,No Hope In Sight,The Plague Within,Male/Male Group,2015,Rock/Metal/Gothic Metal,Aggressive/Heavy Triumphant,Fast Tempo/Fast/160s
+175078230,Eluveitie,Isara,Everything Remains (As It Never Was),Mixed/Mixed Group,2010,Rock/Metal/Black Metal,Yearning/Bittersweet Pop,Medium Tempo/Medium/80s
+370824905,Leather Nun America,Emblem,Absence Of Light,Male/Male Group,2008,Rock/Metal/Doom Metal,"",""
+370251645,Oomph!,Geborn zu sterben,Monster!,Male/Male Group,2008,Rock/Metal/Industrial Metal,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/110s
+370239501,Iron Maiden,Fear Of The Dark [Live],Flight 666 -The Original Soundtrack- [Live] [Disc 2],Male/Male Group,2008,Rock/Metal/Classic British Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/100s
+368557010,Enditol,Huath,Enditol,"",2010,Rock/Metal/Heavy Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/120s
+367531410,S.E.T.,Заря над амбарами,Подъемъ!,"",2005,Rock/Metal/Heavy Metal,Aggressive/Aggressive Power,Fast Tempo/Fast/130s
+367522234,Ruoska,Airut,Riisu,Male/Male Group,2013,Rock/Metal/Industrial Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/120s
+367192014,Lost In Tears,Intro,Dialogue with Mirror and God,"",2002,Rock/Metal/Heavy Metal,Somber/Creepy / Ominous,Slow Tempo/Very Slow/30s
+366355431,Tanzwut,Meer,Ihr Wolltet Spass,Male/Male Group,2003,Rock/Metal/Industrial Metal,Brooding/Alienated / Brooding,Fast Tempo/Fast/130s
+366353210,Tanzwut,Augen zu,Tanzwut,Male/Male Group,1999,Rock/Metal/Industrial Metal,Defiant/Hard Dark Excitement,Fast Tempo/Fast/150s
+364700480,Korpiklaani,Pilli On Pajusta Tehty,Noita,Male/Male Group,2015,Rock/Metal/Black Metal,Aggressive/Heavy Triumphant,Fast Tempo/Very Fast/190s
+364700478,Korpiklaani,Viinamäen Mies,Noita,Male/Male Group,2015,Rock/Metal/Black Metal,Defiant/Hard Positive Excitement,Fast Tempo/Fast/150s
+364700469,Korpiklaani,Lempo,Noita,Male/Male Group,2015,Rock/Metal/Black Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+364700468,Korpiklaani,Sahti,Noita,Male/Male Group,2015,Rock/Metal/Black Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+364700462,Korpiklaani,Luontoni,Noita,Male/Male Group,2015,Rock/Metal/Black Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/100s
+364700457,Korpiklaani,Jouni Jouni,Noita,Male/Male Group,2015,Rock/Metal/Black Metal,Defiant/Heavy Brooding,Fast Tempo/Fast/130s
+364700452,Korpiklaani,Kylästä Keväinen Kehto,Noita,Male/Male Group,2015,Rock/Metal/Black Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+364700445,Korpiklaani,Ämmänhauta,Noita,Male/Male Group,2015,Rock/Metal/Black Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/80s
+364162480,Slayer,Seasons In The Abyss,Seasons In The Abyss,Male/Male Group,1990,Rock/Metal/Thrash Metal,Urgent/Energetic Anxious,Fast Tempo/Fast/150s
+364157912,Redman Of Fire,El Cant De La Sybila,Origén,"",2015,Rock/Metal/Heavy Metal,Defiant/Heavy Brooding,Fast Tempo/Fast/130s
+364157903,Redman Of Fire,Dark Kind,Origén,"",2015,Rock/Metal/Heavy Metal,Defiant/Heavy Brooding,Fast Tempo/Fast/140s
+364157425,Redman Of Fire,Coward God,Origén,"",2015,Rock/Metal/Heavy Metal,Aggressive/Dark Hard Beat,Medium Tempo/Medium Fast/100s
+363166021,Ugly Kid Joe,Suckerpath,Menace To Sobriety,Male/Male Group,1995,Rock/Metal/Pop Metal,Aggressive/Aggressive Power,Fast Tempo/Fast/140s
+363013092,Lacrimas Profundere,Again It's Over,Filthy Notes For Frozen Hearts,Male/Male Group,2006,Rock/Metal/Gothic Metal,Aggressive/Aggressive Power,Fast Tempo/Fast/140s
+336807550,ASP,In Sack und Asche,GeistErfahrer,Male/Male Group,2012,Rock/Metal/Industrial Metal,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/120s
+336632515,Teräsbetoni,Silmä Silmästä,Metallitotuus,Male/Male Group,2005,Rock/Metal/Power Metal,Aggressive/Heavy Triumphant,Fast Tempo/Fast/140s
+336554521,Ajattara,Massat,Noitumaa,Male/Male Group,2009,Rock/Metal/Black Metal,Aggressive/Chaotic / Intense,Fast Tempo/Very Fast/180s
+336210892,My Dying Bride,Le Figlie Della Tempesta,The Dreadful Hours,Male/Male Group,2005,Rock/Metal/Doom Metal,Brooding/Alienated / Brooding,Medium Tempo/Medium Fast/110s
+330915497,Mantus,Mantusalem,Chronik [Disc 1],Mixed/Mixed Group,2006,Rock/Metal/Gothic Metal,Brooding/Alienated / Brooding,Medium Tempo/Medium/80s
+329029780,Serj Tankian,Figure It Out,Harakiri,Male/Male,2012,Rock/Metal/Nu-Metal,Urgent/Energetic Anxious,Medium Tempo/Medium/80s
+320613267,Mantas,Legion of Doom (Death By Metal 1st Version Demo),Death By Metal,Mixed/Mixed Group,2012,Rock/Metal/Industrial Metal,Yearning/Sensitive / Exploring,Medium Tempo/Medium/60s
+315445455,Mortiis,You Put A Hex On Me,The Smell of Rain,Male/Male,2001,Rock/Metal/Gothic Metal,Brooding/Alienated / Brooding,Medium Tempo/Medium Fast/120s
+315379751,Samsas Traum,Sisyphos,A.ura und das Schnecken.Haus,Male/Male Group,2009,Rock/Metal/Industrial Metal,Defiant/Heavy Brooding,Fast Tempo/Fast/130s
+315327104,Ice Ages,The Fiend,This Killing Emptiness,"",2004,Rock/Metal/Heavy Metal,Aggressive/Dark Hard Beat,Medium Tempo/Medium Fast/100s
+315320452,Christian Dörge,Mystische Rosenmadonna,Lycia,"",0,Rock/Metal/Gothic Metal,Somber/Enigmatic / Mysterious,Slow Tempo/Slow/40s
+314890203,Nuclear Assault,Nuclear War,Game Over,Male/Male Group,2008,Rock/Metal/Thrash Metal,Rowdy/Wild / Rowdy,Fast Tempo/Fast/160s
+313490193,Mantus,Kleiner Engel flügellos,Abschied,Mixed/Mixed Group,2001,Rock/Metal/Gothic Metal,Excited/Happy Excitement,Fast Tempo/Fast/150s
+313265147,XIII. Století,Transylvanian Werewolf,Werewolf,Mixed/Mixed Group,2008,Rock/Metal/Gothic Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/70s
+312475818,Saltatio Mortis,Varulfen,10 Jahre Wild Und Frei,Mixed/Mixed Group,2011,Rock/Metal/Black Metal,Defiant/Heavy Brooding,Fast Tempo/Fast/130s
+311896603,XIII. Století,Fatherland,Metropolis,Mixed/Mixed Group,2008,Rock/Metal/Gothic Metal,Brooding/Alienated / Brooding,Medium Tempo/Medium Fast/120s
+311528253,LowCityRain,Nightshift,LowCityRain,"",2013,Rock/Metal/Gothic Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/120s
+310545917,Amorphis,The Way,Tuonela,Male/Male Group,1999,Rock/Metal/Progressive Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/120s
+295476344,Apocalyptica Feat. Marta Jandová,En Vie,Wie Weit,Mixed/Mixed Group,2005,Rock/Metal/Progressive Metal,Brooding/Alienated / Brooding,Medium Tempo/Medium Fast/100s
+294790486,Eisbrecher,Metall,Die Hölle muss warten - Miststück Edition,Male/Male Duo,2012,Rock/Metal/Industrial Metal,Aggressive/Aggressive Power,Medium Tempo/Medium/70s
+294225638,Haggard,Eppur si muove,Eppur si muove,Mixed/Mixed Group,2015,Rock/Metal/Progressive Metal,Brooding/Alienated / Brooding,Medium Tempo/Medium Fast/90s
+289928898,Megadeth,Duke Nukem Theme,Risk,Male/Male Group,1999,Rock/Metal/Speed Metal,Aggressive/Aggressive Power,Medium Tempo/Medium/80s
+287248076,Schöngeist,Böses Blut,Liebeskrieger,Mixed/Mixed Group,2009,Rock/Metal/Industrial Metal,Aggressive/Heavy Triumphant,Medium Tempo/Medium Fast/100s
+285475046,Opeth,Harvest,Blackwater Park,Male/Male Group,2001,Rock/Metal/Progressive Metal,Brooding/Dreamy Brooding,Medium Tempo/Medium Slow/60s
+283817149,Rage Against The Machine,Sleep Now In The Fire,The Battle Of Los Angeles,Male/Male Group,1999,Rock/Metal/Rap Metal,Defiant/Hard Dark Excitement,Medium Tempo/Medium Fast/120s
+283816866,Rage Against The Machine,Guerilla Radio,The Battle Of Los Angeles,Male/Male Group,1999,Rock/Metal/Rap Metal,Defiant/Hard Dark Excitement,Medium Tempo/Medium Fast/100s
+283589154,Opeth,To Rid The Disease,Damnation,Male/Male Group,2003,Rock/Metal/Progressive Metal,Brooding/Dreamy Brooding,Medium Tempo/Medium/60s
+283402691,Tristania,Lotus,Illumination,Mixed/Mixed Group,2007,Rock/Metal/Gothic Metal,Brooding/Alienated / Brooding,Medium Tempo/Medium Fast/100s
+283328944,Rage Against The Machine,Bulls On Parade,Evil Empire,Male/Male Group,1996,Rock/Metal/Rap Metal,Rowdy/Driving Dark Groove,Medium Tempo/Medium/80s
+272097136,KMFDM,Professional Killer,Hau Ruck,Mixed/Mixed Group,2005,Rock/Metal/Industrial Metal,Aggressive/Dark Hard Beat,Medium Tempo/Medium Fast/120s
+272086379,Various Artists,Terrible Lie (Made Famous by Nine Inch Nails),Recovered In Nails - A Tribute To Nine Inch Nails 2.001,"",2010,Rock/Metal/Heavy Metal,Aggressive/Dark Hard Beat,Medium Tempo/Medium/80s
+271818127,Chevelle,Hunter Eats Hunter,La Gárgola,Male/Male Group,2014,Rock/Metal/Nu-Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/70s
+270432875,Secret Discovery,One Good Reason,The Final Chapter,Male/Male Group,1999,Rock/Metal/Gothic Metal,Brooding/Alienated / Brooding,Medium Tempo/Medium Fast/120s
+270430779,Dawn Of Ashes,Insidious (Of The Judas Breed),Anathema,Male/Male Group,2013,Rock/Metal/Industrial Metal,"",""
+270194488,Samsas Traum,Süßer Schlamm,Niemand niemand anderem als dir,Male/Male Group,2013,Rock/Metal/Industrial Metal,Somber/Enigmatic / Mysterious,Medium Tempo/Medium Slow/50s
+269695882,Where Angels Fall,Mothmother,Redemption,"",2014,Rock/Metal/Heavy Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/120s
+269338042,Tiamat,Visionaire,Wildhoney,Male/Male Group,1994,Rock/Metal/Gothic Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/80s
+268539328,Mantus,Egoman,Portrait aus Wut und Trauer,Mixed/Mixed Group,2014,Rock/Metal/Gothic Metal,Aggressive/Aggressive Power,Fast Tempo/Fast/150s
+268536443,Mantus,Tränenpalast,Portrait aus Wut und Trauer,Mixed/Mixed Group,2014,Rock/Metal/Gothic Metal,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/120s
+267733713,Powerwolf,Kreuzfeuer,Preachers Of The Night,Male/Male Group,2013,Rock/Metal/Power Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/80s
+266429542,Goatmoon,Abomination Of Winter,Varjot,"",2011,Rock/Metal/Heavy Metal,Urgent/Dark Urgent,Medium Tempo/Medium Fast/90s
+265731479,Crematory,Temple Of Love,Awake,Mixed/Mixed Group,1997,Rock/Metal/Gothic Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/80s
+263889205,Quiet Riot,Metal Health,Metal Health,Male/Male Group,1983,Rock/Metal/Pop Metal,Rowdy/Confident / Tough,Medium Tempo/Medium Fast/120s
+261176466,Whispered,Intro - Hajimari,Thousand Swords,Male/Male Group,2010,Rock/Metal/Death Metal,Serious/Thrilling,Medium Tempo/Medium Fast/120s
+261175935,Testament,Return To Serenity,The Ritual,Male/Male Group,1992,Rock/Metal/Thrash Metal,Brooding/Evocative / Intriguing,Medium Tempo/Medium/70s
+261142482,Omega Lithium,Andromeda,Dreams in Formaline,"",2015,Rock/Metal/Gothic Metal,Aggressive/Heavy Triumphant,Fast Tempo/Very Fast/240s
+259786913,Stam1na,Lääke,Raja,Male/Male Group,2011,Rock/Metal/Progressive Metal,Aggressive/Aggressive Power,Medium Tempo/Medium Fast/90s
+258886741,Otep,Rise Rebel Resist,Smash The Control Machine,Mixed/Mixed Group,2009,Rock/Metal/Nu-Metal,Defiant/Hard Dark Excitement,Fast Tempo/Fast/130s
+257609514,Debauchery,Kings of Carnage,Kings of Carnage,Male/Male,2013,Rock/Metal/Death Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+255382909,Mantus,Wir warten auf den Tod,Zeit muss enden,Mixed/Mixed Group,2008,Rock/Metal/Gothic Metal,Melancholy/Light Melancholy,Medium Tempo/Medium Slow/60s
+255380729,Mantus,Herr der Welt,Zeit muss enden,Mixed/Mixed Group,2008,Rock/Metal/Gothic Metal,Somber/Enigmatic / Mysterious,Slow Tempo/Slow/40s
+253971062,Moonspell,A Walk On The Darkside,The Antidote,Male/Male Group,2003,Rock/Metal/Gothic Metal,Brooding/Alienated / Brooding,Medium Tempo/Medium Fast/100s
+253886806,Mantus,Dunkler Engel,Ein Hauch von Wirklichkeit,Mixed/Mixed Group,2008,Rock/Metal/Gothic Metal,Yearning/Energetic Dreamy,Medium Tempo/Medium/60s
+254844430,Mantus,Schuld,Demut,Mixed/Mixed Group,2010,Rock/Metal/Gothic Metal,Brooding/Dreamy Brooding,Slow Tempo/Slow/40s
+255193442,Mantus,Monster,Wölfe,Mixed/Mixed Group,2012,Rock/Metal/Gothic Metal,Aggressive/Aggressive Power,Fast Tempo/Fast/150s
+254842968,Mantus,Loki,Wölfe,Mixed/Mixed Group,2012,Rock/Metal/Gothic Metal,Somber/Enigmatic / Mysterious,Slow Tempo/Slow/40s
+253014957,Э.С.Т.,Как мне быть,13,"",0,Rock/Metal/Heavy Metal,Empowering/Powerful / Heroic,Medium Tempo/Medium/70s
+250927779,Shadow Gallery,New World Order,Prime Cuts,Male/Male Group,2007,Rock/Metal/Progressive Metal,Urgent/Energetic Anxious,Fast Tempo/Fast/140s
+250491779,Metallica,For Whom The Bell Tolls,Ride The Lightning,Male/Male Group,1984,Rock/Metal/Thrash Metal,Rowdy/Confident / Tough,Medium Tempo/Medium Fast/110s
+250401822,Morgenstern,Ach so bald,Heute ist die Rache mein,Mixed/Mixed Group,2012,Rock/Metal/Black Metal,Aggressive/Aggressive Power,Medium Tempo/Medium Fast/90s
+250391055,Apocalyptica,Farewell,Apocalyptica,Male/Male Group,2005,Rock/Metal/Progressive Metal,Serious/Melodramatic,Slow Tempo/Slow/40s
+250338037,Cruachan,Wolfe Tone,The Morrigan's Call,Mixed/Mixed Group,2006,Rock/Metal/Black Metal,Aggressive/Chaotic / Intense,Fast Tempo/Fast/140s
+250161333,Korpiklaani,Tuli Kokko,Tales Along This Road,Male/Male Group,2012,Rock/Metal/Black Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+247288957,Type O Negative,My Girlfriend's Girlfriend,October Rust,Male/Male Group,1996,Rock/Metal/Gothic Metal,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/110s
+247260076,Type O Negative,I Don't Wanna Be Me,Life Is Killing Me,Male/Male Group,2003,Rock/Metal/Gothic Metal,Rowdy/Driving Dark Groove,Medium Tempo/Medium Fast/100s
+242434180,KMFDM,Amnesia,Wtf?!,Mixed/Mixed Group,2011,Rock/Metal/Industrial Metal,Energizing/Abstract Beat,Medium Tempo/Medium Fast/120s
+242425998,Black Light Burns,Kill The Queen,Cruel Melody,Male/Male Group,2009,Rock/Metal/Nu-Metal,Fiery/Passionate Rhythm,Medium Tempo/Medium Fast/110s
+242052986,Tiamat,Cain,Prey,Male/Male Group,2003,Rock/Metal/Gothic Metal,Brooding/Alienated / Brooding,Fast Tempo/Fast/130s
+241400461,Tristania,Equilibrium,Ashes,Mixed/Mixed Group,2005,Rock/Metal/Gothic Metal,Defiant/Heavy Brooding,Fast Tempo/Fast/150s
+240949664,Tiamat,Summertime Is Gone,Amanethes,Male/Male Group,2008,Rock/Metal/Gothic Metal,Brooding/Alienated / Brooding,Medium Tempo/Medium/60s
+240944769,Tiamat,Carry Your Cross And I'll Carry Mine,Prey,Male/Male Group,2003,Rock/Metal/Gothic Metal,Brooding/Dreamy Brooding,Medium Tempo/Medium/80s
+237880804,Ayreon,Comatose,01011001 (Y),Male/Male Group,2008,Rock/Metal/Progressive Metal,Somber/Creepy / Ominous,Medium Tempo/Medium/70s
+237702512,Tiamat,I Am In Love With Myself,Judas Christ,Male/Male Group,2002,Rock/Metal/Gothic Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/60s
+237701890,Ayreon,Day Sixteen: Loser,Timeline,Male/Male Group,2008,Rock/Metal/Progressive Metal,Brooding/Evocative / Intriguing,Medium Tempo/Medium Fast/90s
+237697742,Subway To Sally,Meine Seele brennt,Bastard,Mixed/Mixed Group,2007,Rock/Metal/Black Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/80s
+237570929,Running Wild,Port Royal,Port Royal,Male/Male Group,2012,Rock/Metal/Power Metal,Brooding/Alienated / Brooding,Medium Tempo/Medium Fast/90s
+237466769,Genitorturers,Kabangin' All Night,Blackheart Revolution,Mixed/Mixed Group,2009,Rock/Metal/Industrial Metal,Aggressive/Dark Hard Beat,Medium Tempo/Medium/80s
+237414086,Subway To Sally,Eisblumen,Nord Nord Ost,Mixed/Mixed Group,2005,Rock/Metal/Black Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/70s
+237412181,Eisheilig,Lucifer,Elysium,Male/Male Group,2015,Rock/Metal/Gothic Metal,Brooding/Alienated / Brooding,Medium Tempo/Medium Fast/120s
+237411868,Eisheilig,Die Kraft,Die Gärten des Herrn,Male/Male Group,2012,Rock/Metal/Gothic Metal,Brooding/Alienated / Brooding,Medium Tempo/Medium/70s
+234616914,Saltatio Mortis,Das kalte Herz,Wer Wind Sät,Mixed/Mixed Group,2009,Rock/Metal/Black Metal,Defiant/Hard Positive Excitement,Medium Tempo/Medium Fast/100s
+234553276,Saltatio Mortis,La Jument de Michao,Wer Wind Sät,Mixed/Mixed Group,2009,Rock/Metal/Black Metal,Defiant/Hard Positive Excitement,Medium Tempo/Medium Fast/100s
+233512065,Theatre Of Tragedy,Fragment,Musique,Mixed/Mixed Group,2000,Rock/Metal/Gothic Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+230293899,Oddland,In Endless Endeavour,The Treachery Of Senses,"",2012,Rock/Metal/Heavy Metal,Yearning/Sensitive / Exploring,Medium Tempo/Medium Fast/110s
+228742268,Saltatio Mortis,Tote Augen,Des Königs Henker,Mixed/Mixed Group,2010,Rock/Metal/Black Metal,Sophisticated/Smoky / Romantic,Medium Tempo/Medium/60s
+227885176,Machine Men,Man In Chains,Scars And Wounds,Male/Male Group,2004,Rock/Metal/Power Metal,Aggressive/Heavy Triumphant,Fast Tempo/Fast/150s
+227573061,Saltatio Mortis,Nichts bleibt mehr,Aus der Asche,Mixed/Mixed Group,2010,Rock/Metal/Black Metal,Sophisticated/Smoky / Romantic,Medium Tempo/Medium/70s
+226841778,Гевал,Умрем живыми,Гевал,"",2009,Rock/Metal/Nu-Metal,"",""
+219227170,Djerv,Ladder To The Moon,Djerv,"",2011,Rock/Metal/Heavy Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/120s
+218316490,Samsas Traum,Zwei Gelsen und ein Strick,A.ura und das Schnecken.Haus,Male/Male Group,2009,Rock/Metal/Industrial Metal,Defiant/Hard Positive Excitement,Fast Tempo/Fast/150s
+218114094,Schwarzer Engel,Der Schwarze Engel (Herr der Krähen),Apokalypse,"",2010,Rock/Metal/Gothic Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/120s
+217674215,Vicious Crusade,Requiem to Innocence,Forbidden Tunes,Mixed/Mixed Group,2002,Rock/Metal/Black Metal,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/100s
+217670716,Vicious Crusade,Forbidden Tunes,Forbidden Tunes,Mixed/Mixed Group,2002,Rock/Metal/Black Metal,Aggressive/Heavy Triumphant,Fast Tempo/Fast/170s
+217668522,Vicious Crusade,My Cruel Mirror,Freedom Comes,Mixed/Mixed Group,2009,Rock/Metal/Black Metal,"",""
+216961693,Raubtier,Dragunov Bonus,Det Finns Bara Krig,Male/Male Group,2012,Rock/Metal/Industrial Metal,Defiant/Hard Dark Excitement,Fast Tempo/Very Fast/180s
+216957926,Raubtier,Världsherravälde,Skriet från vildmarken,Male/Male Group,2010,Rock/Metal/Industrial Metal,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/90s
+215008733,Disturbed,Down With The Sickness,The Sickness,Male/Male Group,2000,Rock/Metal/Nu-Metal,Aggressive/Aggressive Power,Medium Tempo/Medium Fast/90s
+214185679,My Dying Bride,A Kiss To Remember,Like Gods Of The Sun,Male/Male Group,1996,Rock/Metal/Doom Metal,Aggressive/Aggressive Power,Medium Tempo/Medium Fast/90s
+212110491,Godsmack,Serenity,Faceless,Male/Male Group,2003,Rock/Metal/Nu-Metal,Yearning/Sensitive / Exploring,Medium Tempo/Medium Fast/110s
+210101534,Running Wild,Ballad Of William Kidd,The Rivalry/Limited Edition,Male/Male Group,1998,Rock/Metal/Power Metal,Excited/Happy Excitement,Fast Tempo/Fast/130s
+210100707,Samael,High Above,Reign Of Light,Male/Male Group,2004,Rock/Metal/Doom Metal,Aggressive/Heavy Triumphant,Fast Tempo/Fast/150s
+210099499,Samael,Quasar Waves,Solar Soul,Male/Male Group,2007,Rock/Metal/Doom Metal,Aggressive/Heavy Triumphant,Fast Tempo/Very Fast/180s
+210021034,Samael,Inch'Allah,Reign Of Light,Male/Male Group,2004,Rock/Metal/Doom Metal,Aggressive/Aggressive Power,Fast Tempo/Fast/140s
+208850132,Stahlhammer,Eisbär,Eisenherz,Male/Male Group,2002,Rock/Metal/Industrial Metal,Rowdy/Driving Dark Groove,Medium Tempo/Medium Fast/120s
+207260484,Eluveitie,Uis Elveti,Spirit,Mixed/Mixed Group,2006,Rock/Metal/Black Metal,Aggressive/Heavy Triumphant,Fast Tempo/Very Fast/190s
+206707727,Vicious Crusade,Dress Me Black,Freedom Comes,Mixed/Mixed Group,2009,Rock/Metal/Black Metal,"",""
+206706655,My Dying Bride,The Whore The Cook And The Mother,34.788%... Complete,Male/Male Group,1998,Rock/Metal/Doom Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Slow/60s
+206699613,Tiamat,The Sun Also Rises,The Scarred People,Male/Male Group,2012,Rock/Metal/Gothic Metal,Yearning/Energetic Yearning,Medium Tempo/Medium/60s
+204018519,Transilvanian Beat Club,Schwarze Katze,Das Leben Soll Doch Schön Sein,Mixed/Mixed Group,2007,Rock/Metal/Gothic Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/60s
+203281212,Schwarzer Engel,Geister Und Dämonen,Träume Einer Nacht,"",2012,Rock/Metal/Heavy Metal,Aggressive/Heavy Triumphant,Fast Tempo/Very Fast/190s
+403241769,Clutch,Ghost,Blast Tyrant,Male/Male Group,2004,Rock/Metal/Nu-Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/80s
+199084271,Chrome Division,Fight,3rd Round Knockout,Male/Male Group,2011,Rock/Metal/Speed Metal,"",""
+199083381,Therion,En Alabama,Les Fleurs du Mal,Mixed/Mixed Group,2012,Rock/Metal/Progressive Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/100s
+199007902,Kreator,Your Heaven My Hell,Phantom Antichrist,Male/Male Group,2012,Rock/Metal/Thrash Metal,Aggressive/Heavy Triumphant,Fast Tempo/Fast/140s
+198817656,Lordi,The Riff,To Beast Or Not To Beast,Male/Male Group,2013,Rock/Metal/Power Metal,Aggressive/Heavy Triumphant,Fast Tempo/Fast/160s
+196429120,Paradise Lost,Forever Failure,Draconian Times,Male/Male Group,1995,Rock/Metal/Gothic Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/100s
+196429111,Paradise Lost,Honesty In Death,Tragic Idol,Male/Male Group,2012,Rock/Metal/Gothic Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/110s
+195831617,After Forever,Emphasis,Decipher,Mixed/Mixed Group,2001,Rock/Metal/Progressive Metal,Urgent/Dark Pop Intensity,Medium Tempo/Medium Fast/120s
+195805378,Kreator,Pandemonium,Endorama,Male/Male Group,2015,Rock/Metal/Thrash Metal,Aggressive/Heavy Triumphant,Fast Tempo/Very Fast/190s
+195719890,Korpiklaani,Spring Dance,Tales Along This Road,Male/Male Group,2012,Rock/Metal/Black Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+195719868,Moonspell,Spring Of Rage,Night Eternal,Male/Male Group,2008,Rock/Metal/Gothic Metal,Brooding/Alienated / Brooding,Fast Tempo/Fast/140s
+195408727,Dope,Die Motherfucker Die,Life,Male/Male Group,0,Rock/Metal/Nu-Metal,"",""
+195109178,Rammstein,Mehr,Liebe Ist Für Alle Da,Male/Male Group,2009,Rock/Metal/Industrial Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/100s
+195100102,Ensiferum,Token Of Time,Ensiferum,Mixed/Mixed Group,2001,Rock/Metal/Black Metal,Aggressive/Heavy Triumphant,Fast Tempo/Very Fast/240s
+194787552,Rammstein,Spieluhr,Mutter,Male/Male Group,2001,Rock/Metal/Industrial Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/120s
+193699042,Djerv,Headstone,Djerv,"",2011,Rock/Metal/Heavy Metal,Aggressive/Aggressive Power,Fast Tempo/Fast/140s
+193698547,Black Ingvars,Livin' La Vida Loca,Black-Ingvars - Kids Superhits,Male/Male Group,2006,Rock/Metal/Pop Metal,Brooding/Alienated / Brooding,Medium Tempo/Medium Fast/90s
+193610817,Mantus,Utopia,Fremde Welten,Mixed/Mixed Group,2004,Rock/Metal/Gothic Metal,Brooding/Dreamy Brooding,Medium Tempo/Medium/70s
+193609199,Mantus,Küss mich wach,Ein Hauch von Wirklichkeit,Mixed/Mixed Group,2008,Rock/Metal/Gothic Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/70s
+193513500,Mantus,Ein letztes Mal,Requiem,Mixed/Mixed Group,2005,Rock/Metal/Gothic Metal,Brooding/Evocative / Intriguing,Medium Tempo/Medium Fast/90s
+193513291,Mantus,Untergang,Requiem,Mixed/Mixed Group,2005,Rock/Metal/Gothic Metal,Brooding/Dreamy Brooding,Medium Tempo/Medium Slow/60s
+193275082,Vicious Crusade,Dancing On the Ledge,Forbidden Tunes,Mixed/Mixed Group,2002,Rock/Metal/Black Metal,Gritty/Strumming Yearning,Medium Tempo/Medium Fast/110s
+193206462,Vicious Crusade,Let It Burn,Forbidden Tunes,Mixed/Mixed Group,2002,Rock/Metal/Black Metal,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/110s
+193140053,Saxon,Terminal Velocity,Unleash The Beast,Male/Male Group,1997,Rock/Metal/Classic British Metal,Rowdy/Confident / Tough,Fast Tempo/Fast/140s
+192762605,Powerwolf,Living On A Nightmare,Amen a Attack,Male/Male Group,2013,Rock/Metal/Power Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/80s
+192469714,Conquest,Be My Light,IV,"",2011,Rock/Metal/Thrash Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/70s
+192162439,Rammstein,Das Modell,Das Modell [Single],Male/Male Group,1997,Rock/Metal/Industrial Metal,Aggressive/Chaotic / Intense,Medium Tempo/Medium Fast/120s
+191318888,Tyr,Hold The Heathen Hammer High,By The Light Of The Northern Star,Male/Male Group,2012,Rock/Metal/Black Metal,Aggressive/Heavy Triumphant,Fast Tempo/Very Fast/200s
+191305553,Tool,Right In Two,10000 Days,Male/Male Group,2006,Rock/Metal/Nu-Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/110s
+191143851,Electric Eel Shock,I Wanna Be a Black Sabbath Guy But I Should Be a Black Bass,Go USA!,Male/Male Group,2005,Rock/Metal/Heavy Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Slow/60s
+191143658,Mindless Self Indulgence,Never Wanted To Dance,If,Male/Male Group,2014,Rock/Metal/Nu-Metal,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/90s
+191143527,Rage,Straight To Hell,Welcome To The Other Side,Male/Male Group,2001,Rock/Metal/Power Metal,Aggressive/Aggressive Power,Medium Tempo/Medium Fast/100s
+191061982,Delain,Sleepwalker's Dream,Lucidity,Mixed/Mixed Group,2006,Rock/Metal/Progressive Metal,Brooding/Dreamy Brooding,Medium Tempo/Medium Slow/60s
+190575224,Motörhead,Love Me Forever,1916,Male/Male Group,1991,Rock/Metal/Speed Metal,Brooding/Alienated / Brooding,Fast Tempo/Fast/130s
+189944328,Feuerschwanz,Ich will tanzen,Metvernichter,Mixed/Mixed Group,2009,Rock/Metal/Industrial Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/80s
+189860052,Schwarzer Engel,Königin Der Nacht,Träume Einer Nacht,"",2012,Rock/Metal/Heavy Metal,Defiant/Heavy Brooding,Fast Tempo/Fast/150s
+189703929,L'Âme Immortelle,Dein Herz,Auf deinen Schwingen,Male/Male Group,2006,Rock/Metal/Gothic Metal,Yearning/Energetic Yearning,Medium Tempo/Medium/80s
+189703908,L'Âme Immortelle,Nur Du,Auf deinen Schwingen,Male/Male Group,2006,Rock/Metal/Gothic Metal,Urgent/Dark Pop Intensity,Fast Tempo/Fast/140s
+189703904,L'Âme Immortelle,5 Jahre,Gezeiten,Male/Male Group,2004,Rock/Metal/Gothic Metal,Urgent/Dark Pop Intensity,Medium Tempo/Medium Fast/120s
+189584713,Rammstein,Moskau,Reise Reise,Male/Male Group,2004,Rock/Metal/Industrial Metal,Aggressive/Heavy Triumphant,Fast Tempo/Fast/140s
+189070093,ASP,De Profundis,Der Schwarze Schmetterling V - Requiembryo [Disc 1],Male/Male Group,2007,Rock/Metal/Industrial Metal,Cool/Cool Confidence,Medium Tempo/Medium Fast/90s
+188866984,My Dying Bride,Thy Raven Wings,A Line Of Deathless Kings,Male/Male Group,2011,Rock/Metal/Doom Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/100s
+188862954,Moonspell,Opium,Irreligious,Male/Male Group,1996,Rock/Metal/Gothic Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/70s
+188858912,Epica,The Last Crusade,The Classical Conspiracy,Mixed/Mixed Group,2009,Rock/Metal/Progressive Metal,Aggressive/Heavy Triumphant,Fast Tempo/Very Fast/240s
+188635061,ASP,Ich Will Brennen,Weltunter,Male/Male Group,2012,Rock/Metal/Industrial Metal,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/90s
+188630078,Eisbrecher,This is Deutsch,Eiskalt,Male/Male Duo,2011,Rock/Metal/Industrial Metal,Aggressive/Dark Hard Beat,Medium Tempo/Medium Fast/110s
+188288063,Otep,Numb And Dumb,Smash The Control Machine,Mixed/Mixed Group,2009,Rock/Metal/Nu-Metal,Aggressive/Chaotic / Intense,Medium Tempo/Medium Fast/110s
+187125807,Die Apokalyptischen Reiter,Roll my heart,Samurai,Male/Male Group,2004,Rock/Metal/Nu-Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/100s
+185071301,In Extremo,Erdbeermund,7,Male/Male Group,2003,Rock/Metal/Black Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/70s
+185068935,Haggard,Herr Mannelig,Eppur si muove,Mixed/Mixed Group,2015,Rock/Metal/Progressive Metal,Sophisticated/Smoky / Romantic,Slow Tempo/Very Slow/30s
+185065326,In Extremo,Poc Vecem,Mein Rasend Herz,Male/Male Group,2005,Rock/Metal/Black Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/80s
+184993252,Iced Earth,Watching Over Me,Something Wicked This Way Comes,Male/Male Group,1998,Rock/Metal/Power Metal,Excited/Happy Excitement,Medium Tempo/Medium Fast/120s
+184685654,Ensiferum,Tumman virran taa,From Afar,Mixed/Mixed Group,2009,Rock/Metal/Black Metal,Lively/Showy / Rousing,Medium Tempo/Medium Fast/120s
+184282661,Delain,Control The Storm,April Rain,Mixed/Mixed Group,2009,Rock/Metal/Progressive Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/80s
+184016052,Eisbrecher,In Meinem Raum,Die Hölle Muss Warten,Male/Male Duo,2012,Rock/Metal/Industrial Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+183441115,Tiamat,Misantropolis,Amanethes,Male/Male Group,2008,Rock/Metal/Gothic Metal,Brooding/Alienated / Brooding,Medium Tempo/Medium/70s
+183518818,Stahlmann,Spring nicht,Quecksilber,Male/Male Group,2012,Rock/Metal/Industrial Metal,Defiant/Heavy Brooding,Fast Tempo/Fast/140s
+183289020,Iron Maiden,Kill Me Ce Soir,Best Of The B'Sides [Disc 2],Male/Male Group,2002,Rock/Metal/Classic British Metal,Rowdy/Confident / Tough,Medium Tempo/Medium Fast/120s
+183041916,Eluveitie,Thousandfold,Everything Remains (As It Never Was),Mixed/Mixed Group,2010,Rock/Metal/Black Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/120s
+182953851,Godsmack,The Awakening,Faceless,Male/Male Group,2003,Rock/Metal/Nu-Metal,Fiery/Passionate Rhythm,Medium Tempo/Medium Fast/110s
+182953845,Metallica,The Unnamed Feeling,St. Anger,Male/Male Group,2003,Rock/Metal/Thrash Metal,Aggressive/Aggressive Power,Medium Tempo/Medium/70s
+182578496,Turisas,Rasputin,The Varangian Way,Male/Male Group,2007,Rock/Metal/Power Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/80s
+182320310,Die Krupps,To The Hilt,The Final Option,Male/Male Group,1993,Rock/Metal/Industrial Metal,Aggressive/Dark Hard Beat,Medium Tempo/Medium Fast/90s
+182050630,Darkwater,Why I Bleed,Where Stories End,"",2010,Rock/Metal/Heavy Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/110s
+181717708,Folk Stone,In Taberna (In Vino Veritas),Briganti Di Montagna,"",0,Rock/Metal/Gothic Metal,"",""
+181527877,Delain,Smalltown Boy,Interlude,Mixed/Mixed Group,2013,Rock/Metal/Progressive Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Slow/60s
+181294703,Rage Against The Machine,Bombtrack,Rage Against The Machine,Male/Male Group,1992,Rock/Metal/Rap Metal,Aggressive/Aggressive Power,Fast Tempo/Fast/150s
+181088742,Die Apokalyptischen Reiter,Der Weg,Licht,Male/Male Group,2008,Rock/Metal/Nu-Metal,Defiant/Heavy Brooding,Fast Tempo/Fast/150s
+180996317,Bso Resident Evil,Marilyn Manson - Resident Evil Main Tittle Theme,Music From And Inspired By The Original Motion Picture Resident Evil,"",2002,Rock/Metal/Nu-Metal,"",""
+180989659,Tiamat,Cold Seed,A Deeper Kind Of Slumber,Male/Male Group,1997,Rock/Metal/Gothic Metal,Brooding/Energetic Melancholy,Fast Tempo/Fast/140s
+180930266,Tiamat,Radiant Star,The Scarred People,Male/Male Group,2012,Rock/Metal/Gothic Metal,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/120s
+180930265,Tiamat,384 - Kteis,The Scarred People,Male/Male Group,0,Rock/Metal/Gothic Metal,Aggressive/Heavy Triumphant,Fast Tempo/Very Fast/220s
+180929973,Tiamat,The Scarred People,The Scarred People,Male/Male Group,2012,Rock/Metal/Gothic Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/60s
+180612298,Therion,Black Sun,Vovin,Mixed/Mixed Group,1998,Rock/Metal/Progressive Metal,Gritty/Strumming Yearning,Medium Tempo/Medium/60s
+180612241,In Extremo,Schau zum Mond,Sterneneisen,Male/Male Group,2011,Rock/Metal/Black Metal,Defiant/Heavy Brooding,Fast Tempo/Fast/140s
+180458607,Jackyl,She Loves My Cock,Jackyl,Male/Male Group,1992,Rock/Metal/Pop Metal,Rowdy/Confident / Tough,Fast Tempo/Fast/130s
+180166184,Samael,On Earth,Reign Of Light,Male/Male Group,2004,Rock/Metal/Doom Metal,Aggressive/Heavy Triumphant,Fast Tempo/Fast/170s
+180151458,Samael,Moongate,Reign Of Light,Male/Male Group,2004,Rock/Metal/Doom Metal,Aggressive/Heavy Triumphant,Fast Tempo/Very Fast/190s
+180056429,Rob Zombie,Living Dead Girl,Hellbilly Deluxe,Male/Male,1998,Rock/Metal/Nu-Metal,Aggressive/Aggressive Power,Medium Tempo/Medium Fast/100s
+180056324,Rob Zombie,Feel So Numb,The Sinister Urge,Male/Male,2001,Rock/Metal/Nu-Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/120s
+180055663,KMFDM,Megalomaniac,Symbols,Mixed/Mixed Group,1997,Rock/Metal/Industrial Metal,Aggressive/Dark Hard Beat,Medium Tempo/Medium Fast/120s
+179812948,Lacrimas Profundere,Again It's Over,Filthy Notes For Frozen Hearts,Male/Male Group,2006,Rock/Metal/Gothic Metal,Aggressive/Aggressive Power,Fast Tempo/Fast/140s
+179370059,KMFDM,Anarchy,Symbols,Mixed/Mixed Group,1997,Rock/Metal/Industrial Metal,Aggressive/Aggressive Power,Medium Tempo/Medium Fast/110s
+179250130,Lacrimas Profundere,A Pearl,Songs for the last view,Male/Male Group,2008,Rock/Metal/Gothic Metal,Aggressive/Aggressive Power,Fast Tempo/Fast/150s
+178226289,Die Krupps,5 Millionen,Too Much History,Male/Male Group,2008,Rock/Metal/Industrial Metal,Aggressive/Heavy Triumphant,Fast Tempo/Fast/130s
+178569009,Apocalyptica,Worlds Collide,Worlds Collide,Male/Male Group,2007,Rock/Metal/Progressive Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/80s
+178251416,Gravity Kills,Enough,Gravity Kills,Male/Male Group,1996,Rock/Metal/Industrial Metal,Aggressive/Aggressive Power,Fast Tempo/Fast/130s
+178019807,Tristania,Wormwood,World Of Glass,Mixed/Mixed Group,2001,Rock/Metal/Gothic Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/120s
+177789271,A Perfect Circle,Judith,Mer De Noms,Mixed/Mixed Group,2000,Rock/Metal/Nu-Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/80s
+177321215,SuidAkrA,Feats Of War,Crogacht,Mixed/Mixed Group,2009,Rock/Metal/Black Metal,Sophisticated/Smoky / Romantic,Medium Tempo/Medium Slow/60s
+177321208,SuidAkrA,Ár Nasc Fola,Crogacht,Mixed/Mixed Group,2009,Rock/Metal/Black Metal,Yearning/Sensitive / Exploring,Medium Tempo/Medium Fast/90s
+177318249,My Dying Bride,For My Fallen Angel,Like Gods Of The Sun,Male/Male Group,1996,Rock/Metal/Doom Metal,Romantic/Dramatic / Romantic,Slow Tempo/Very Slow/30s
+177301402,Ensiferum,Lai Lai Hei,Iron,Mixed/Mixed Group,2004,Rock/Metal/Black Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/80s
+176784707,Virgin Black,Midnight's Hymn,Requiem - Mezzo Forte,Mixed/Mixed Group,2014,Rock/Metal/Gothic Metal,Somber/Creepy / Ominous,Medium Tempo/Medium/70s
+176064349,Eluveitie,Brictom,Evocation I - The Arcane Dominion [Exclusive Bonus Version],Mixed/Mixed Group,2009,Rock/Metal/Black Metal,Yearning/Energetic Yearning,Medium Tempo/Medium Fast/90s
+175870290,Die Apokalyptischen Reiter,Wir hoffen,Licht,Male/Male Group,2008,Rock/Metal/Nu-Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/70s
+175866100,Eisbrecher,Augen Unter Null,Die Hölle Muss Warten,Male/Male Duo,2012,Rock/Metal/Industrial Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/80s
+175282164,ASP,Mein Herz erkennt dich immer,Zaubererbruder [Disc 1],Male/Male Group,2008,Rock/Metal/Industrial Metal,Sentimental/Tender / Sincere,Slow Tempo/Very Slow/30s
+175078137,Eisbrecher,Ohne Dich,Antikörper [Bonus Track],Male/Male Duo,2006,Rock/Metal/Industrial Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/110s
+175077634,In Extremo,Herr Mannelig,Verehrt Und Angespien,Male/Male Group,2000,Rock/Metal/Black Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/100s
+175077531,In Extremo,Frei Zu Sein,Sängerkrieg,Male/Male Group,2008,Rock/Metal/Black Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/80s
+175076499,In Extremo,Horizont,Mein Rasend Herz,Male/Male Group,2005,Rock/Metal/Black Metal,Urgent/Dark Pop Intensity,Fast Tempo/Fast/160s
+175076300,ASP,Krabat,Zaubererbruder [Disc 1],Male/Male Group,2008,Rock/Metal/Industrial Metal,Brooding/Alienated / Brooding,Medium Tempo/Medium/70s
+175076106,In Extremo,Liam,Mein Rasend Herz,Male/Male Group,2005,Rock/Metal/Black Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/120s
+175076083,In Extremo,Die Gier,Sünder Ohne Zügel,Male/Male Group,2001,Rock/Metal/Black Metal,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/120s
+175075621,Hanzel Und Gretyl,Ich Bin Uber Alles,Uber Alles,Mixed/Mixed Duo,2003,Rock/Metal/Industrial Metal,Aggressive/Heavy Triumphant,Fast Tempo/Fast/140s
+175075511,Eisbrecher,Herz Steht Still,Eisbrecher,Male/Male Duo,2004,Rock/Metal/Industrial Metal,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/90s
+174938775,Faun,Unicorne,Totem,Mixed/Mixed Group,2010,Rock/Metal/Industrial Metal,Melancholy/Wistful / Forlorn,Medium Tempo/Medium Slow/50s
+174354856,In Extremo,Gold,Sterneneisen,Male/Male Group,2011,Rock/Metal/Black Metal,Aggressive/Aggressive Power,Medium Tempo/Medium/80s
+174353812,In Extremo,Siehst du das Licht,Sterneneisen,Male/Male Group,2011,Rock/Metal/Black Metal,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/100s
+174310650,In Extremo,Sterneneisen,Sterneneisen,Male/Male Group,2011,Rock/Metal/Black Metal,Aggressive/Aggressive Power,Fast Tempo/Fast/150s
+174192362,Powerwolf,Sanctified with Dynamite,Blood of the Saints,Male/Male Group,2011,Rock/Metal/Power Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/80s
+174191933,Powerwolf,All We Need is Blood,Blood of the Saints,Male/Male Group,2011,Rock/Metal/Power Metal,Defiant/Heavy Brooding,Fast Tempo/Fast/140s
+174191848,Girlschool,C'mon Let's Go,Hit and Run - Revisited,Female/Female Group,2011,Rock/Metal/Classic British Metal,Aggressive/Heavy Triumphant,Fast Tempo/Very Fast/230s
+174191747,Eisbrecher,Vergissmeinnicht,Antikörper [Bonus Track],Male/Male Duo,2006,Rock/Metal/Industrial Metal,Urgent/Dark Pop,Medium Tempo/Medium Fast/120s
+174182962,Deathstars,Tongues,Termination Bliss,Male/Male Group,2006,Rock/Metal/Gothic Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+174112655,Deathstars,Damn Me,Synthetic Generation,Male/Male Group,2002,Rock/Metal/Gothic Metal,Defiant/Heavy Brooding,Fast Tempo/Fast/140s
+173267637,Hypocrisy,Living To Die,Virus,Male/Male Group,2006,Rock/Metal/Death Metal,Brooding/Alienated / Brooding,Medium Tempo/Medium/60s
+173265125,Hypocrisy,Edge Of Madness,Catch 22,Male/Male Group,2002,Rock/Metal/Death Metal,Aggressive/Heavy Triumphant,Fast Tempo/Very Fast/240s
+173010782,Hypocrisy,Paled Empty Sphere,Hypocrisy,Male/Male Group,1999,Rock/Metal/Death Metal,Yearning/Energetic Dreamy,Medium Tempo/Medium Fast/110s
+172608468,System Of A Down,Prison Song,Toxicity,Male/Male Group,2001,Rock/Metal/Nu-Metal,Aggressive/Aggressive Power,Medium Tempo/Medium Fast/90s
+172608428,System Of A Down,She's Like Heroin,Hypnotize,Male/Male Group,2005,Rock/Metal/Nu-Metal,Rowdy/Driving Dark Groove,Medium Tempo/Medium Fast/90s
+172608035,System Of A Down,Radio/Video,Mezmerize,Male/Male Group,2005,Rock/Metal/Nu-Metal,Urgent/Energetic Anxious,Fast Tempo/Fast/140s
+172608016,System Of A Down,Fuck The System,Steal This Album!,Male/Male Group,2002,Rock/Metal/Nu-Metal,Aggressive/Aggressive Power,Medium Tempo/Medium/80s
+172607997,System Of A Down,Chop Suey!,Toxicity,Male/Male Group,2001,Rock/Metal/Nu-Metal,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/120s
+172606752,Korpiklaani,Vodka,Karkelo [Bonus Track],Male/Male Group,2009,Rock/Metal/Black Metal,Aggressive/Heavy Triumphant,Fast Tempo/Very Fast/180s
+172606322,Megaherz,Herz Aus Stein,Zombieland (Deluxe Edition),Male/Male Group,2014,Rock/Metal/Industrial Metal,Brooding/Alienated / Brooding,Medium Tempo/Medium Fast/90s
+172022092,Knorkator,All that she wants (is another baby),Tribute to uns selbst,Male/Male Group,2010,Rock/Metal/Industrial Metal,Aggressive/Aggressive Power,Medium Tempo/Medium/80s
+172022065,Korpiklaani,Vakirauta,Tales Along This Road,Male/Male Group,2012,Rock/Metal/Black Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/80s
+172022022,Deathstars,Blood Stains Blondes,Night Electric Night,Male/Male Group,2009,Rock/Metal/Gothic Metal,Defiant/Heavy Brooding,Fast Tempo/Fast/130s
+172022018,Deathstars,Death Dies Hard,Night Electric Night,Male/Male Group,2009,Rock/Metal/Gothic Metal,Defiant/Heavy Brooding,Fast Tempo/Fast/130s
+171969178,Otep,My Confession,Sevas Tra,Mixed/Mixed Group,2002,Rock/Metal/Nu-Metal,Aggressive/Aggressive Power,Medium Tempo/Medium Fast/110s
+171967737,Knorkator,Kinderlied,Es werde Nicht,Male/Male Group,2011,Rock/Metal/Industrial Metal,Aggressive/Heavy Triumphant,Fast Tempo/Fast/160s
+171678394,Tiamat,Teonanacatl,A Deeper Kind Of Slumber,Male/Male Group,1997,Rock/Metal/Gothic Metal,Brooding/Alienated / Brooding,Medium Tempo/Medium/70s
+171589344,Samsas Traum,Dein schönster Augenblick,Wenn Schwarzer Regen,Male/Male Group,2009,Rock/Metal/Industrial Metal,Brooding/Dreamy Brooding,Medium Tempo/Medium Slow/50s
+171556371,Goethes Erben,Kopfstimme,Dazwischen,Mixed/Mixed Group,2005,Rock/Metal/Gothic Metal,Brooding/Alienated / Brooding,Medium Tempo/Medium Fast/90s
+171555613,Goethes Erben,Die Letzte Nacht,Das Sterben Ist Ästhetisch Bunt,Mixed/Mixed Group,1992,Rock/Metal/Gothic Metal,Somber/Enigmatic / Mysterious,Medium Tempo/Medium Slow/50s
+171555216,Goethes Erben,Himmelgrau,Nichts bleibt wie es war,Mixed/Mixed Group,2001,Rock/Metal/Gothic Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+171554894,Goethes Erben,Keine Farben,Schach ist nicht das Leben,Mixed/Mixed Group,1996,Rock/Metal/Gothic Metal,Sophisticated/Smoky / Romantic,Medium Tempo/Medium Slow/50s
+171554682,Goethes Erben,Lebend lohnt es,Dazwischen,Mixed/Mixed Group,2005,Rock/Metal/Gothic Metal,Sensual/Sensual Groove,Slow Tempo/Slow/40s
+171441110,Nightwish,She Is My Sin,Wishmaster,Mixed/Mixed Group,2000,Rock/Metal/Progressive Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/70s
+171440944,Samsas Traum Vs. Weena Morloch,Das ist Liebe (Noktis Remix),Käfer.Maden.Würmer.Spinnen [Disc 1],"",2011,Rock/Metal/Gothic Metal,Urgent/Energetic Anxious,Medium Tempo/Medium/70s
+171439399,Samsas Traum,Ein Name im Kristall,A.ura und das Schnecken.Haus,Male/Male Group,2009,Rock/Metal/Industrial Metal,Defiant/Hard Dark Excitement,Fast Tempo/Fast/150s
+171438266,Samsas Traum,Stromausfall im Herzspital,Utopia,Male/Male Group,2009,Rock/Metal/Industrial Metal,Urgent/Dark Pop,Medium Tempo/Medium Fast/110s
+171392889,Samsas Traum,Für Immer,Oh Luna Mein [Disc 1],Male/Male Group,2006,Rock/Metal/Industrial Metal,Aggressive/Aggressive Power,Fast Tempo/Fast/130s
+171388413,Samsas Traum,Der Spiegel sieht mich nicht,A.ura und das Schnecken.Haus,Male/Male Group,2009,Rock/Metal/Industrial Metal,Urgent/Energetic Anxious,Fast Tempo/Fast/130s
+171386563,Samsas Traum,Sterbende Liebe,Die Liebe Gottes,Male/Male Group,0,Rock/Metal/Industrial Metal,Brooding/Energetic Melancholy,Fast Tempo/Fast/150s
+171385424,Samsas Traum,Phantasai lieb' Phantasai! [Kellerkind Version],Utopia,Male/Male Group,2009,Rock/Metal/Industrial Metal,Defiant/Hard Dark Excitement,Medium Tempo/Medium Fast/120s
+171374134,Samsas Traum,Ich wünsch' mir dass das Zebra schweigt,A.ura und das Schnecken.Haus,Male/Male Group,2009,Rock/Metal/Industrial Metal,Empowering/Idealistic / Stirring,Medium Tempo/Medium Fast/90s
+171284489,Eisbrecher,Zu Sterben,Sünde,Male/Male Duo,2008,Rock/Metal/Industrial Metal,Brooding/Energetic Melancholy,Medium Tempo/Medium Fast/110s
+171284456,Deathstars,Cyanide,Termination Bliss,Male/Male Group,2006,Rock/Metal/Gothic Metal,Defiant/Hard Positive Excitement,Medium Tempo/Medium Fast/120s
+171282648,Deathstars,The Last Ammunition,Termination Bliss,Male/Male Group,2006,Rock/Metal/Gothic Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/120s
+171053926,Therion,Asgard,Secret Of The Runes,Mixed/Mixed Group,2001,Rock/Metal/Progressive Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/80s
+171053201,Otep,Head,Smash The Control Machine,Mixed/Mixed Group,2009,Rock/Metal/Nu-Metal,Aggressive/Aggressive Power,Medium Tempo/Medium Fast/120s
+171045141,Deathstars,The Rape,Synthetic Generation,Male/Male Group,2002,Rock/Metal/Gothic Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+171045140,Deathstars,Play God,Termination Bliss,Male/Male Group,2006,Rock/Metal/Gothic Metal,Defiant/Heavy Brooding,Fast Tempo/Fast/130s
+170920797,Finntroll,Eliytres,Nattfödd [International Version],Male/Male Group,2008,Rock/Metal/Black Metal,Aggressive/Heavy Triumphant,Fast Tempo/Very Fast/190s
+170885315,Eisbrecher,Eiszeit,Eiskalt,Male/Male Duo,2011,Rock/Metal/Industrial Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/80s
+170761954,Eisbrecher,Fanatica,Eisbrecher,Male/Male Duo,2004,Rock/Metal/Industrial Metal,Aggressive/Dark Hard Beat,Medium Tempo/Medium Fast/90s
+170700898,Megaherz,Es Tut Weh,5,Male/Male Group,2004,Rock/Metal/Industrial Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/100s
+170640647,Eisbrecher,Komm Süsser Tod,Sünde,Male/Male Duo,2008,Rock/Metal/Industrial Metal,Brooding/Alienated / Brooding,Medium Tempo/Medium Fast/100s
+170577392,Lacuna Coil,Falling Again,In A Reverie,Mixed/Mixed Group,1999,Rock/Metal/Gothic Metal,Somber/Enigmatic / Mysterious,Slow Tempo/Slow/40s
+170575256,Raubtier,Achtung Panzer,Det finns bara krig,Male/Male Group,2009,Rock/Metal/Industrial Metal,Urgent/Dark Pop Intensity,Medium Tempo/Medium Fast/90s
+170568718,ASP,Sing Child,Hast Du Mich Vermisst?,Male/Male Group,2004,Rock/Metal/Industrial Metal,Urgent/Energetic Anxious,Fast Tempo/Fast/130s
+170460721,Slayer,Hate Worldwide,World Painted Blood,Male/Male Group,2009,Rock/Metal/Thrash Metal,Aggressive/Aggressive Power,Medium Tempo/Medium Fast/100s
+170453938,System Of A Down,Violent Pornography,Mezmerize,Male/Male Group,2005,Rock/Metal/Nu-Metal,Rowdy/Driving Dark Groove,Medium Tempo/Medium/70s
+170453932,System Of A Down,Cigaro,Mezmerize,Male/Male Group,2005,Rock/Metal/Nu-Metal,Aggressive/Aggressive Power,Medium Tempo/Medium Fast/110s
+170441796,System Of A Down,Prison Song,Toxicity,Male/Male Group,2001,Rock/Metal/Nu-Metal,Aggressive/Aggressive Power,Medium Tempo/Medium Fast/90s
+170426685,Hanzel Und Gretyl,Let The Planets Burn,Uber Alles,Mixed/Mixed Duo,2003,Rock/Metal/Industrial Metal,Urgent/Energetic Anxious,Medium Tempo/Medium/80s
+170426660,Eluveitie,AnDro,Spirit,Mixed/Mixed Group,2006,Rock/Metal/Black Metal,Aggressive/Heavy Triumphant,Fast Tempo/Very Fast/240s
+170044518,Eisbrecher,Verrückt,Die Hölle Muss Warten,Male/Male Duo,2012,Rock/Metal/Industrial Metal,Defiant/Heavy Brooding,Fast Tempo/Fast/140s
+170044440,Xe-None,Slave On_Line,Dance Metal [Rave]olution,"",2011,Rock/Metal/Heavy Metal,Energizing/Edgy / Sexy,Medium Tempo/Medium/80s
+169976045,Die Apokalyptischen Reiter,Auf die Liebe,Licht,Male/Male Group,2008,Rock/Metal/Nu-Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/100s
+169836766,Equilibrium,Verbrannte Erde,Rekreatur,Male/Male Group,2010,Rock/Metal/Black Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+169836531,Equilibrium,Blut Im Auge,Sagas,Male/Male Group,2008,Rock/Metal/Black Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+169760099,In Extremo,Herr Mannelig,Verehrt Und Angespien,Male/Male Group,2000,Rock/Metal/Black Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/100s
+168766504,Deathstars,White Wedding,Synthetic Generation,Male/Male Group,2003,Rock/Metal/Gothic Metal,Defiant/Heavy Brooding,Fast Tempo/Fast/140s
+168476193,Iced Earth,Melancholy,Live in Ancient Kourion,Male/Male Group,2013,Rock/Metal/Power Metal,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/120s
+168056707,Deathstars,Little Angel,Synthetic Generation,Male/Male Group,2002,Rock/Metal/Gothic Metal,Aggressive/Aggressive Power,Medium Tempo/Medium Fast/100s
+167981414,Deathstars,New Dead Nation,Synthetic Generation,Male/Male Group,2002,Rock/Metal/Gothic Metal,Defiant/Heavy Brooding,Fast Tempo/Fast/140s
+167980824,Die Apokalyptischen Reiter,Eruption,Samurai,Male/Male Group,2004,Rock/Metal/Nu-Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/100s
+167980156,Subway To Sally,Tanz auf dem Vulkan,Bastard,Mixed/Mixed Group,2007,Rock/Metal/Black Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+167980124,Die Apokalyptischen Reiter,Ghostriders,Friede Sei Mit Dir,Male/Male Group,2006,Rock/Metal/Nu-Metal,Brooding/Alienated / Brooding,Fast Tempo/Fast/130s
+167971280,Equilibrium,Unbesiegt,Sagas,Male/Male Group,2008,Rock/Metal/Black Metal,Aggressive/Heavy Triumphant,Fast Tempo/Fast/130s
+167915943,Testament,Return To Serenity,The Ritual,Male/Male Group,1992,Rock/Metal/Thrash Metal,Brooding/Evocative / Intriguing,Medium Tempo/Medium/70s
+167901684,Blue Stahli,Anti You,Blue Stahli,Male/Male,2011,Rock/Metal/Nu-Metal,Aggressive/Dark Hard Beat,Fast Tempo/Fast/130s
+167900020,Hanzel Und Gretyl,Blut! Zex! Fire!,Scheissmessiah,Mixed/Mixed Duo,2004,Rock/Metal/Industrial Metal,Aggressive/Aggressive Power,Medium Tempo/Medium Fast/120s
+167899522,Mötley Crüe,T.n T. (Terror 'N Tinseltown),Dr. Feelgood,Male/Male Group,1989,Rock/Metal/Pop Metal,Aggressive/Aggressive Power,Fast Tempo/Fast/150s
+167665717,Deathstars,Blitzkrieg,Termination Bliss,Male/Male Group,2006,Rock/Metal/Gothic Metal,Defiant/Heavy Brooding,Fast Tempo/Fast/140s
+167665522,Stahlhammer,Eisenherz,Eisenherz,Male/Male Group,2002,Rock/Metal/Industrial Metal,Urgent/Energetic Anxious,Medium Tempo/Medium/80s
+167665521,Stahlhammer,Träum von mir,Eisenherz,Male/Male Group,2002,Rock/Metal/Industrial Metal,Aggressive/Aggressive Power,Medium Tempo/Medium Fast/120s
+167665285,Eisbrecher,Die Durch Die Hölle Gehen,Sünde,Male/Male Duo,2009,Rock/Metal/Industrial Metal,Aggressive/Aggressive Power,Medium Tempo/Medium/80s
+167665142,Hanzel Und Gretyl,Komm Zu Uns,Uber Alles,Mixed/Mixed Duo,2003,Rock/Metal/Industrial Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/90s
+167379387,Equilibrium,Der Ewige Sieg,Rekreatur,Male/Male Group,2010,Rock/Metal/Black Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/100s
+167226808,Knorkator,Alter Mann,Das nächste Album aller Zeiten,Male/Male Group,2007,Rock/Metal/Industrial Metal,Urgent/Energetic Anxious,Fast Tempo/Fast/130s
+167095641,Deathstars,Synthetic Generation,Synthetic Generation,Male/Male Group,2002,Rock/Metal/Gothic Metal,Aggressive/Aggressive Power,Fast Tempo/Fast/140s
+167081908,Die Apokalyptischen Reiter,Seemann,Riders On The Storm,Male/Male Group,2006,Rock/Metal/Nu-Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/60s
+167058086,Oomph!,Wer schön sein will muss leiden,Monster!,Male/Male Group,2008,Rock/Metal/Industrial Metal,Rowdy/Driving Dark Groove,Medium Tempo/Medium Fast/100s
+166822583,Stahlmann,Kokain,Stahlmann,Male/Male Group,2010,Rock/Metal/Industrial Metal,Rowdy/Driving Dark Groove,Fast Tempo/Fast/130s
+166821180,Stahlmann,Hass Mich..Lieb Mich,Stahlmann,Male/Male Group,2010,Rock/Metal/Industrial Metal,Aggressive/Dark Hard Beat,Medium Tempo/Medium Fast/120s
+166820708,Eisbrecher,Supermodel,Eiszeit,Male/Male Duo,2010,Rock/Metal/Industrial Metal,Aggressive/Aggressive Power,Medium Tempo/Medium Fast/120s
+166460084,Anthrax,Crush,Volume 8 - The Threat Is Real,Male/Male Group,1998,Rock/Metal/Thrash Metal,Aggressive/Aggressive Power,Fast Tempo/Fast/130s
+166457982,Manowar,Black List,The Lord Of Steel [Retail Edition],Male/Male Group,2012,Rock/Metal/Power Metal,Aggressive/Aggressive Power,Fast Tempo/Fast/140s
+166457056,Megaherz,Ja Genau,5,Male/Male Group,2004,Rock/Metal/Industrial Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/100s
+166456665,Hanzel Und Gretyl,Das Boot,2012: Zwanzig Zwolf,Mixed/Mixed Duo,2008,Rock/Metal/Industrial Metal,Defiant/Hard Positive Excitement,Medium Tempo/Medium Fast/120s
+166452735,Die Apokalyptischen Reiter,Die Sonne Scheint,Samurai,Male/Male Group,2004,Rock/Metal/Nu-Metal,Aggressive/Aggressive Power,Medium Tempo/Medium Fast/110s
+166451818,Hanzel Und Gretyl,Mein Kommandant,Uber Alles,Mixed/Mixed Duo,2003,Rock/Metal/Industrial Metal,Aggressive/Heavy Triumphant,Fast Tempo/Fast/160s
+166261107,Korpiklaani,Ievan Polkka,Manala [Bonus Track],Male/Male Group,2012,Rock/Metal/Black Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/120s
+166261042,Eluveitie,Setlon,Everything Remains (As It Never Was),Mixed/Mixed Group,2010,Rock/Metal/Black Metal,Yearning/Energetic Dreamy,Medium Tempo/Medium Fast/110s
+166261014,In Extremo,In Extremo,Verehrt Und Angespien,Male/Male Group,2000,Rock/Metal/Black Metal,Rowdy/Confident / Tough,Medium Tempo/Medium/80s
+166260370,Eluveitie,Havoc,Helvetios,Mixed/Mixed Group,2012,Rock/Metal/Black Metal,Aggressive/Heavy Triumphant,Fast Tempo/Fast/140s
+166257912,Knorkator,Der Ultimative Mann,Ich Hasse Musik,Male/Male Group,2003,Rock/Metal/Industrial Metal,Aggressive/Aggressive Power,Medium Tempo/Medium Fast/90s
+166253410,Church Of Misery,Born to Raise Hell (Richard Speck),Houses of the Unholy,Male/Male Group,2013,Rock/Metal/Doom Metal,Aggressive/Aggressive Power,Medium Tempo/Medium/70s
+166212961,Knorkator,Wir werden alle sterben,Zu Alt,Male/Male Group,2005,Rock/Metal/Industrial Metal,"",""
+166213245,Knorkator,Ma Baker,Ich Hasse Musik,Male/Male Group,2003,Rock/Metal/Industrial Metal,Aggressive/Aggressive Power,Fast Tempo/Fast/140s
+166213973,Knorkator,Warum,Es werde Nicht,Male/Male Group,2011,Rock/Metal/Industrial Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/70s
+166212895,Knorkator,Du nich,Es werde Nicht,Male/Male Group,2011,Rock/Metal/Industrial Metal,Aggressive/Aggressive Power,Medium Tempo/Medium Fast/110s
+165958172,Iron Maiden,Blood Brothers,Brave New World,Male/Male Group,2000,Rock/Metal/Classic British Metal,Yearning/Energetic Yearning,Medium Tempo/Medium Fast/90s
+165280849,Lake Of Tears,Raistlin And The Rose,A Crimson Cosmos,Male/Male Group,1997,Rock/Metal/Gothic Metal,Rowdy/Confident / Tough,Medium Tempo/Medium Fast/110s
+165044717,Machine Head,Desire To Fire,The Burning Red,Male/Male Group,1999,Rock/Metal/Thrash Metal,Aggressive/Aggressive Power,Medium Tempo/Medium Fast/100s
+165038584,Judas Priest,Out In The Cold,Turbo,Male/Male Group,1986,Rock/Metal/Classic British Metal,Brooding/Alienated / Brooding,Medium Tempo/Medium Fast/100s
+162939586,Subway To Sally,Sieben,Nord Nord Ost,Mixed/Mixed Group,2005,Rock/Metal/Black Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/80s
+162832517,Ruoska,Pure minua,Amortem,Male/Male Group,2006,Rock/Metal/Industrial Metal,Urgent/Energetic Anxious,Fast Tempo/Fast/140s
+162768439,Teräsbetoni,Orjatar,Metallitotuus,Male/Male Group,2005,Rock/Metal/Power Metal,Aggressive/Aggressive Power,Medium Tempo/Medium Fast/90s
+162667997,Oomph!,Unsere rettung,Unrein,Male/Male Group,1998,Rock/Metal/Industrial Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/100s
+162661727,Oomph!,In deinen Hüften,Monster!,Male/Male Group,2008,Rock/Metal/Industrial Metal,Urgent/Energetic Anxious,Medium Tempo/Medium Fast/120s
+162661107,Oomph!,Mein Schatz,Glaubeliebetod,Male/Male Group,1995,Rock/Metal/Industrial Metal,Aggressive/Aggressive Power,Medium Tempo/Medium/70s
+162656741,Oomph!,Sex Hat Keine Macht,Delikatessen,Male/Male Group,2006,Rock/Metal/Industrial Metal,Defiant/Hard Positive Excitement,Fast Tempo/Fast/150s
+162606976,Zero Hour,The Towers Of Avarice,The Towers Of Avarice,Male/Male Group,2001,Rock/Metal/Progressive Metal,Aggressive/Aggressive Power,Medium Tempo/Medium Fast/120s
+162606309,Kid Rock,Bawitdaba,Devil Without A Cause,Male/Male,1998,Rock/Metal/Rap Metal,Defiant/Hard Dark Excitement,Fast Tempo/Very Fast/180s
+162600624,Powerwolf,Resurrection By Erection,Bible of the Beast,Male/Male Group,2013,Rock/Metal/Power Metal,Defiant/Heavy Brooding,Medium Tempo/Medium/80s
+162595002,HammerFall,Heeding The Call,Legacy Of Kings,Male/Male Group,1998,Rock/Metal/Power Metal,Aggressive/Heavy Triumphant,Fast Tempo/Fast/130s
+162591569,Iron Maiden,Run Silent Run Deep,No Prayer For The Dying,Male/Male Group,1990,Rock/Metal/Classic British Metal,Rowdy/Confident / Tough,Medium Tempo/Medium Fast/110s
+162584879,Iron Maiden,Don't Look To The Eyes Of A Stranger,Virtual XI,Male/Male Group,1998,Rock/Metal/Classic British Metal,Urgent/Energetic Anxious,Fast Tempo/Fast/150s
+162583850,Iron Maiden,When Two Worlds Collide,Virtual XI,Male/Male Group,1998,Rock/Metal/Classic British Metal,Brooding/Energetic Melancholy,Fast Tempo/Fast/140s
+161928342,Mindless Self Indulgence,Evening Wear,If,Male/Male Group,2014,Rock/Metal/Nu-Metal,Rowdy/Driving Dark Groove,Medium Tempo/Medium/80s
+161822284,Stone Sour,Wicked Game,Come What (Ever) May,Male/Male Group,2007,Rock/Metal/Nu-Metal,Melancholy/Wistful / Forlorn,Medium Tempo/Medium/70s
+161030439,Saxon,Are We Travellers In Time,Metalhead,Male/Male Group,2004,Rock/Metal/Classic British Metal,Rowdy/Confident / Tough,Medium Tempo/Medium Fast/120s
+160912594,Baroness,Take My Bones Away,Yellow a Green [Disc 1],Male/Male Group,2012,Rock/Metal/Doom Metal,Defiant/Heavy Brooding,Fast Tempo/Fast/150s
+283544690,Opeth,In My Time Of Need,Damnation,Male/Male Group,2003,Rock/Metal/Progressive Metal,Brooding/Evocative / Intriguing,Medium Tempo/Medium/60s
+78852576,Iron Maiden,Sign Of The Cross,Rock In Rio [Disc 1],Male/Male Group,2002,Rock/Metal/Classic British Metal,Defiant/Heavy Brooding,Medium Tempo/Medium Fast/110s
+75353837,Genitorturers,Lecher Bitch,Flesh Is the Law,Mixed/Mixed Group,2003,Rock/Metal/Industrial Metal,Aggressive/Dark Hard Beat,Medium Tempo/Medium Fast/120s
+75353660,Lacuna Coil,Swamped,Comalies,Mixed/Mixed Group,2002,Rock/Metal/Gothic Metal,Defiant/Heavy Brooding,Fast Tempo/Fast/140s
+75353365,Diabolical Masquerade,Old People's Voodoo Seance,Death's Design,Male/Male,2007,Rock/Metal/Black Metal,Aggressive/Heavy Triumphant,Fast Tempo/Very Fast/190s

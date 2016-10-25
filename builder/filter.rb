@@ -1,6 +1,6 @@
 require_relative '../require_all_helper'
 
-NAME = 'misha'
+NAME = 'sydorov'
 SOURCE_NAME = "#{NAME}/grace"
 AGGR_PATH = "#{NAME}/aggregate/"
 

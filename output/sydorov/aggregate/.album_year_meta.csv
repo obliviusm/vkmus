@@ -1,0 +1,4 @@
+description,Aggragate by album_year
+source,output/sydorov/grace.csv
+column_names,album_year,count
+column_types,arr,int

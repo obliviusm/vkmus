@@ -1,0 +1,4 @@
+description,Aggragate by tempo
+source,output/sydorov/grace.csv
+column_names,tempo,count
+column_types,arr,int
