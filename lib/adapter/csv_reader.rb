@@ -4,7 +4,10 @@ module Adapter
 
     def initialize filename
       @filename = filename + ".csv"
-      @filename_meta  = filename + "_meta.csv"
+      # @filename_meta  = filename + "_meta.csv"
+      @filename_meta  = Common.modify_filpath(filename + "_meta.csv") do |filepath_arr|
+        filepath_arr[-1] = "." + filepath_arr[-1]
+      end
     end
 
     def get_lines

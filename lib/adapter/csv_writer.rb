@@ -2,7 +2,9 @@ module Adapter
   class CsvWriter
     def initialize params
       @filename = "output/#{params[:name]}.csv"
-      @filename_meta = "output/#{params[:name]}_meta.csv"
+      @filename_meta = Common.modify_filpath("output/#{params[:name]}_meta.csv") do |filepath_arr|
+        filepath_arr[-1] = "." + filepath_arr[-1]
+      end
       @source = params[:source]
       @columns = params[:columns]
       @description = params[:description]
@@ -11,7 +13,10 @@ module Adapter
     end
 
     def make_dir_if_needed filepath
-      dirname = filepath.split("/").tap{ |p| p.pop }.join("/")
+      dirname = Common.modify_filpath(filepath) do |filepath_arr|
+        filepath_arr.pop
+      end
+      # dirname = filepath.split("/").tap{ |p| p.pop }.join("/")
       unless File.directory?(dirname)
         FileUtils.mkdir_p(dirname)
       end

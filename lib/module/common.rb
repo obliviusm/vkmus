@@ -7,5 +7,11 @@ module Common
       # p obj
       obj
     end
+
+    def modify_filpath filepath
+      filepath.split("/").tap do |filepath_arr|
+        yield filepath_arr
+      end.join("/")
+    end
   end
 end
