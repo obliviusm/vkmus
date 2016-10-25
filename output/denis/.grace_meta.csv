@@ -1,0 +1,4 @@
+description,Get gracenote info for vk music
+source,output/denis/vk_parser.csv
+column_names,id,artist,title,album_title,artist_type,album_year,genre,mood,tempo
+column_types,int,str,str,str,arr,int,arr,arr,arr

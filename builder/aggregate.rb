@@ -1,6 +1,6 @@
 require_relative '../require_all_helper'
 
-NAME = 'sydorov'
+NAME = 'marina'
 SOURCE_NAME = "#{NAME}/grace"
 
 reader = Adapter::CsvReader.new(SOURCE_NAME)

@@ -1,0 +1,4 @@
+description,Aggragate by id
+source,output/denis/grace.csv
+column_names,id,count
+column_types,arr,int
