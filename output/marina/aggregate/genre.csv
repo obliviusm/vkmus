@@ -1,0 +1,441 @@
+genre,count
+Rock,696
+Alternative a Punk,636
+Pop,433
+Mainstream Rock,309
+Rock/Mainstream Rock/General Mainstream Rock,306
+General Mainstream Rock,306
+Western Pop,260
+Alternative,255
+Metal,230
+Alternative a Punk/Alternative/Alternative Rock,203
+Alternative Rock,203
+Indie Rock,145
+European Pop,125
+Other,111
+Pop/Western Pop/Pop Vocal,109
+Pop Vocal,109
+"",95
+Adult Alternative Rock,90
+Urban,90
+Goth,88
+Rap,84
+Pop/European Pop/Eastern European Pop,83
+Eastern European Pop,83
+Pop/Western Pop/Adult Alternative Pop,78
+Adult Alternative Pop,78
+Electronica,77
+Brit Rock,68
+Alternative a Punk/Indie Rock/Indie Pop,65
+Indie Pop,65
+Rock/Metal/Power Metal,56
+Power Metal,56
+Traditional,56
+Soul,51
+Data a Other,46
+Synth Pop,46
+Rock/Adult Alternative Rock/Adult Alternative Rock,45
+Alternative a Punk/Goth/Goth,44
+70's Rock,43
+Emo a Hardcore,41
+Classical,41
+Western Hip-Hop,40
+Alternative a Punk/Alternative/Alternative Singer-Songwriter,39
+Alternative Singer-Songwriter,39
+Rock/Metal/Progressive Metal,38
+Progressive Metal,38
+Rock/Metal/Gothic Metal,37
+Gothic Metal,37
+New Wave Pop,34
+Alternative a Punk/Brit Rock/Brit Rock,34
+Alternative Folk,34
+Contemporary RaB,33
+Punk,32
+Rock/Metal/Heavy Metal,28
+Heavy Metal,28
+Alternative a Punk/Emo a Hardcore/Emo,27
+Emo,27
+Electronica Mainstream,27
+Pop/Japanese Pop/J-Pop,27
+J-Pop,27
+Japanese Pop,27
+Hard Rock,26
+Other Classical,26
+Alternative a Punk/Punk/Pop Punk,25
+Pop Punk,25
+Pop/European Pop/French Pop,24
+French Pop,24
+Other/Data a Other/Data a Other,23
+Electronica/Electronica Mainstream/Pop Electronica,23
+Pop Electronica,23
+Alternative a Punk/Synth Pop/Synth Pop,23
+Religious,22
+Rock/Hard Rock/General Hard Rock,22
+General Hard Rock,22
+Alternative a Punk/Indie Rock/General Indie Rock,22
+General Indie Rock,22
+Soundtrack,21
+Rock/Metal/Nu-Metal,21
+Nu-Metal,21
+Pop/Western Pop/Adult Contemporary,21
+Adult Contemporary,21
+Folk,20
+Alternative a Punk/Indie Rock/Post-Punk Revival,20
+Post-Punk Revival,20
+Classical/Other Classical/General Classical,19
+General Classical,19
+Other/Meditative a Space/Meditative,17
+Meditative,17
+Meditative a Space,17
+Rock/70's Rock/Classic Pop-Rock,17
+Classic Pop-Rock,17
+Pop/Western Pop/Dance Pop,17
+Dance Pop,17
+Alternative a Punk/New Wave Pop/New Wave Pop,17
+Alternative a Punk/Alternative Folk/Alternative Folk,17
+Trance,16
+Electronica/Dance a Club/Club Dance,16
+Club Dance,16
+Dance a Club,16
+Traditional/Folk/Traditional U.S. Folk,16
+Traditional U.S. Folk,16
+TV Music,16
+Original Film,16
+60's Rock,16
+Rock/Metal/Rap Metal,16
+Rap Metal,16
+Urban/Western Hip-Hop/Rap/General Hip-Hop/Rap,15
+General Hip-Hop,15
+Urban/Western Hip-Hop/Rap/European Hip-Hop/Rap,15
+European Hip-Hop,15
+Folk Rock,15
+Soundtrack/Original Film/TV Music/General Film Music,15
+General Film Music,15
+Traditional/Other Traditions/General World,15
+General World,15
+Other Traditions,15
+Classic RaB,15
+Alternative a Punk/Emo a Hardcore/Hardcore,14
+Hardcore,14
+Rock/Folk Rock/General Folk Rock,13
+General Folk Rock,13
+House,13
+Other/Children's/General Children's Music,12
+General Children's Music,12
+Children's,12
+Industrial,12
+Alternative a Punk/Indie Rock/Post-Modern Electronic Pop,12
+Post-Modern Electronic Pop,12
+Classical Crossover,12
+Garage Rock Revival,12
+New Age,12
+Rock/70's Rock/Classic Rock,12
+Classic Rock,12
+Brit Pop,12
+Urban/Contemporary RaB/Soul/Urban Crossover,11
+Urban Crossover,11
+Comedy,10
+Rock/Metal/Pop Metal,10
+Pop Metal,10
+Rock/70's Rock/Classic Hard Rock,10
+Classic Hard Rock,10
+Pop/European Pop/Euro Pop,10
+Euro Pop,10
+Rock/Metal/Classic British Metal,9
+Classic British Metal,9
+Spoken Word,9
+Urban/Contemporary RaB/Soul/Pop Soul,9
+Pop Soul,9
+Pop/Western Pop/Teen Pop,9
+Teen Pop,9
+Electronica/Trance/Trance,8
+Classical/Classical Crossover/Classical Crossover Instrumental,8
+Classical Crossover Instrumental,8
+Easy Listening,8
+Pop/Western Pop/Teen Boy Band,8
+Teen Boy Band,8
+European Traditional,8
+Pop/Western Pop/Singer-Songwriter,8
+Singer-Songwriter,8
+Rock/60's Rock/British Invasion,8
+British Invasion,8
+Downtempo Lounge a Ambient,8
+New Romantic,8
+Other/New Age/New Acoustic,7
+New Acoustic,7
+Classic Pop Vocals,7
+Other/Religious/Christian Rock a Metal,7
+Christian Rock a Metal,7
+Alternative a Punk/Indie Rock/Neo-Glam,7
+Neo-Glam,7
+Jazz,7
+Traditional/European Traditional/Eastern European,7
+Eastern European,7
+Alternative a Punk/Alternative/Grunge,7
+Grunge,7
+Country,7
+Urban/Classic RaB/Soul/RaB/Soul,7
+RaB,7
+New Wave Rock,6
+Urban/Asian Hip-Hop/Rap/Japanese Hip-Hop/Rap,6
+Japanese Hip-Hop,6
+Asian Hip-Hop,6
+Other/Spoken Word/Audio Book,6
+Audio Book,6
+Alternative a Punk/Industrial/Industrial,6
+Pop/Easy Listening/Other Easy Listening,6
+Other Easy Listening,6
+Jazz Vocals,6
+Disco,6
+Stage Musicals,6
+Celtic,6
+Rock/Metal/Industrial Metal,6
+Industrial Metal,6
+Alternative a Punk/Garage Rock Revival/Garage Rock Revival,6
+Other/Religious/Christian Alt-Rock,6
+Christian Alt-Rock,6
+Rock/60's Rock/Acid Rock,6
+Acid Rock,6
+Alternative a Punk/Brit Pop/Brit Pop,6
+Rock/50's Rock/Early Rock a Roll,6
+Early Rock a Roll,6
+50's Rock,6
+Alternative a Punk/Indie Rock/Noise Pop,5
+Noise Pop,5
+Electronica/House/Euro House,5
+Euro House,5
+Urban/Classic RaB/Soul/Funk,5
+Funk,5
+Other/Latin Pop/General Latin Pop,5
+General Latin Pop,5
+Latin Pop,5
+Other/Comedy/Comedy,5
+Alternative a Punk/Alternative/Alternative Pop,5
+Alternative Pop,5
+Pop/Western Pop/Urban Crossover: Pop,5
+Urban Crossover: Pop,5
+Pop/Classic Pop Vocals/Classic Male Vocal Pop,4
+Classic Male Vocal Pop,4
+Swing Revival,4
+Game Music,4
+Electronica/House/Progressive House,4
+Progressive House,4
+Urban/Contemporary RaB/Soul/Contemporary RaB,4
+Classical/Classical Crossover/Classical Crossover Vocal,4
+Classical Crossover Vocal,4
+Classical/Other Classical/Classical Solo Instrumental,4
+Classical Solo Instrumental,4
+Japanese Rock,4
+Other/Religious/Christian Pop,4
+Christian Pop,4
+Alternative a Punk/New Romantic/New Romantic,4
+Alternative a Punk/New Wave Rock/New Wave Rock,3
+Electronica/Electronica Mainstream/Big Beat,3
+Big Beat,3
+Rock/Mainstream Rock/Instrumental Rock,3
+Instrumental Rock,3
+Urban/Western Hip-Hop/Rap/Gangsta Rap,3
+Gangsta Rap,3
+Alternative a Punk/Punk/Hardcore Punk,3
+Hardcore Punk,3
+Other/Spoken Word/General Spoken Word,3
+General Spoken Word,3
+Traditional/Folk/Contemporary U.S. Folk,3
+Contemporary U.S. Folk,3
+Traditional/Country/General Country,3
+General Country,3
+Rock/Metal/Black Metal,3
+Black Metal,3
+Electronica/Downtempo Lounge a Ambient/Trip Hop,3
+Trip Hop,3
+Other/Religious/Hymns a Spirituals,3
+Hymns a Spirituals,3
+Electronica/Downtempo Lounge a Ambient/General Downtempo,3
+General Downtempo,3
+Jazz/Jazz Vocals/Jazz Vocals,3
+Pop/Western Pop/Other Pop,3
+Other Pop,3
+Alternative a Punk/Punk/General Punk,3
+General Punk,3
+Electronica/Disco/Disco,3
+Rock/Metal/Thrash Metal,3
+Thrash Metal,3
+Alternative a Punk/Indie Rock/Post-Rock,3
+Post-Rock,3
+Bebop a Modern Jazz,3
+Soundtrack/Stage Musicals/Stage Musicals,3
+Traditional/Celtic/Celtic,3
+Reggae,3
+Alternative a Punk/Indie Rock/Dream Pop,3
+Dream Pop,3
+Urban/Contemporary RaB/Soul/Neo-Soul,3
+Neo-Soul,3
+Pop/European Pop/Chanson,3
+Chanson,3
+Traditional/Country/Contemporary Country,3
+Contemporary Country,3
+Other/New Age/General New Age,3
+General New Age,3
+Pop/European Pop/Mediterranean Pop,3
+Mediterranean Pop,3
+Classical/Baroque Era/Baroque Instrumental,2
+Baroque Instrumental,2
+Baroque Era,2
+Alternative a Punk/Swing Revival/Swing Revival,2
+Soundtrack/Game Music/Game Music,2
+Classical/Other Classical/Opera,2
+Opera,2
+Alternative a Punk/Indie Rock/Twee Pop,2
+Twee Pop,2
+Techno,2
+Rock/70's Rock/Art Rock,2
+Art Rock,2
+Urban/Contemporary RaB/Soul/Urban AC,2
+Urban AC,2
+Pop/Classic Pop Vocals/Classic Female Vocal Pop,2
+Classic Female Vocal Pop,2
+Alternative Roots,2
+Other/Latin Rock/Latin Alternative,2
+Latin Alternative,2
+Latin Rock,2
+Other/New Age/New Age World Music,2
+New Age World Music,2
+Rock/Hard Rock/Stoner Rock,2
+Stoner Rock,2
+Jazz/Bebop a Modern Jazz/Modern Jazz,2
+Modern Jazz,2
+Urban/Classic RaB/Soul/Classic Soul,2
+Classic Soul,2
+Rock/European Rock/Turkish Rock,2
+Turkish Rock,2
+European Rock,2
+Pops a Nostalgia,2
+Urban/Western Hip-Hop/Rap/Southern Rap,2
+Southern Rap,2
+Urban/Western Hip-Hop/Rap/Conscious Hip-Hop/Rap,2
+Conscious Hip-Hop,2
+Rock/Metal/Death Metal,2
+Death Metal,2
+Urban/Western Hip-Hop/Rap/Midwestern Rap,2
+Midwestern Rap,2
+Pop/Easy Listening/Lounge,2
+Lounge,2
+Pop/European Pop/German Pop,2
+German Pop,2
+Classic Country,2
+Rock/Hard Rock/Glam,2
+Glam,2
+Rock/Folk Rock/Classic Folk Rock,2
+Classic Folk Rock,2
+Other/Reggae/Other Reggae,2
+Other Reggae,2
+Rock/Japanese Rock/Japanese Rock,2
+Electronica/House/Deep House,2
+Deep House,2
+Electronica/Downtempo Lounge a Ambient/Acid Jazz,1
+Acid Jazz,1
+Rock/60's Rock/Psychedelic Rock,1
+Psychedelic Rock,1
+Jazz/Big Band a Swing/Big Band,1
+Big Band,1
+Big Band a Swing,1
+Traditional/Acoustic Blues/Piedmont Blues,1
+Piedmont Blues,1
+Acoustic Blues,1
+Alternative a Punk/Ska Revival/Ska Punk,1
+Ska Punk,1
+Ska Revival,1
+Alternative a Punk/Indie Rock/Madchester,1
+Madchester,1
+Electronica/Techno/Hardcore Techno,1
+Hardcore Techno,1
+Traditional/Country/Country Pop,1
+Country Pop,1
+Rock/Metal/Speed Metal,1
+Speed Metal,1
+Alternative a Punk/Punk/Pre-Punk,1
+Pre-Punk,1
+Electronica/Electronica Mainstream/Electroklash,1
+Electroklash,1
+Alternative a Punk/Indie Rock/Noise Rock,1
+Noise Rock,1
+Pop/Classic Pop Vocals/Show Tunes,1
+Show Tunes,1
+Traditional/Classic Country/Traditional Country,1
+Traditional Country,1
+Other/Reggae/Roots Reggae,1
+Roots Reggae,1
+Electronica/House/U.K. Garage,1
+U.K. Garage,1
+Rock/60's Rock/Garage Rock,1
+Garage Rock,1
+Pop/Chinese Pop/General Chinese Pop,1
+General Chinese Pop,1
+Chinese Pop,1
+Pop/African Pop/South African Pop,1
+South African Pop,1
+African Pop,1
+Electronica/Techno/Rave,1
+Rave,1
+Electronica/House/General House,1
+General House,1
+Pop/Pops a Nostalgia/Pops Polka,1
+Pops Polka,1
+Traditional/European Traditional/Klezmer a European Jewish,1
+Klezmer a European Jewish,1
+Rock/Alternative Roots/Alt Country,1
+Alt Country,1
+Rock/Alternative Roots/Roots Rock,1
+Roots Rock,1
+Other/Religious/Christian Inspirational,1
+Christian Inspirational,1
+Pop/Western Pop/World Pop Fusion,1
+World Pop Fusion,1
+Classical/Romantic Era/Romantic Era Instrumental,1
+Romantic Era Instrumental,1
+Romantic Era,1
+Classical/Other Classical/Classical Choral,1
+Classical Choral,1
+Other/Religious/Christian Rap,1
+Christian Rap,1
+Traditional/Folk/Old Timey,1
+Old Timey,1
+Pop/Western Pop/Karaoke,1
+Karaoke,1
+Rock/70's Rock/Country Rock,1
+Country Rock,1
+Pop/Pops a Nostalgia/Early Pop Vocals,1
+Early Pop Vocals,1
+Urban/Classic RaB/Soul/Deep Soul,1
+Deep Soul,1
+Alternative a Punk/Indie Rock/Jangle Pop,1
+Jangle Pop,1
+Urban/Western Hip-Hop/Rap/West Coast,1
+West Coast,1
+Alternative a Punk/Indie Rock/Neo-Psychedelic,1
+Neo-Psychedelic,1
+Soundtrack/Original Film/TV Music/General TV Music,1
+General TV Music,1
+Alternative a Punk/Indie Rock/Chamber Pop,1
+Chamber Pop,1
+Rock/70's Rock/Classic Prog,1
+Classic Prog,1
+Pop/Indian Subcontinent Pop/Indian Film Pop,1
+Indian Film Pop,1
+Indian Subcontinent Pop,1
+Jazz/Bebop a Modern Jazz/Post-Bop,1
+Post-Bop,1
+Traditional/Classic Country/Outlaw Country,1
+Outlaw Country,1
+Pop/Middle East Pop/Israeli Pop,1
+Israeli Pop,1
+Middle East Pop,1
+Other/Mexican/Norteño,1
+Norteño,1
+Mexican,1
+Alternative a Punk/Alternative/Alternative Dance,1
+Alternative Dance,1
+Electronica/Downtempo Lounge a Ambient/Ambient Electronica,1
+Ambient Electronica,1
+Alternative a Punk/Indie Rock/Original Post-Punk,1
+Original Post-Punk,1

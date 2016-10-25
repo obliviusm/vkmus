@@ -11,8 +11,8 @@ def album_create_or_get app, album_title
 end
 
 NAME = "misha"
-SOURCE_NAME = "#{NAME}/filter/genre/trance"
-ALBUM_TITLE = "Trance"
+SOURCE_NAME = "#{NAME}/filter/genre/garage_rock_revival"
+ALBUM_TITLE = "Garage Rock Revival"
 
 reader = Adapter::CsvReader.new(SOURCE_NAME)
 songs = reader.get_lines
