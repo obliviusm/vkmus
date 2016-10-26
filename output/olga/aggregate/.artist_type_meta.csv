@@ -1,0 +1,4 @@
+description,Aggragate by artist_type
+source,output/olga/grace.csv
+column_names,artist_type,count
+column_types,arr,int

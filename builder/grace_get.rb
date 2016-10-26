@@ -1,6 +1,6 @@
 require_relative '../require_all_helper'
 
-NAME = 'marina'
+NAME = 'olga'
 SOURCE_NAME = "#{NAME}/vk_parser"
 
 reader = Adapter::CsvReader.new(SOURCE_NAME)
