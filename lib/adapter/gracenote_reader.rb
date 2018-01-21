@@ -59,7 +59,6 @@ module Adapter
     end
 
     def extract_text arr
-      # binding.pry
       if arr.is_a? Array
         arr.map {|g|  g[:text]}
       else
