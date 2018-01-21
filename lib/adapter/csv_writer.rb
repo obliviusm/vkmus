@@ -37,8 +37,10 @@ module Adapter
     end
 
     def write_header
-      CSV.open(@filename, "w") do |csv|
-        csv.add_row @columns.keys
+      unless File.file? @filename
+        CSV.open(@filename, "w") do |csv|
+          csv.add_row @columns.keys
+        end
       end
     end
 
