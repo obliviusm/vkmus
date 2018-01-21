@@ -33,9 +33,9 @@ module Adapter
       end
     end
 
-    def columns
+    def self.columns
       {
-        "vk_id" => "int",
+        "id" => "int",
         "deezer_id" => "int",
         "title" => "str",
         "artist" => "str",

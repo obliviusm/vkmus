@@ -8,6 +8,7 @@ module Adapter
       @source = params[:source]
       @columns = params[:columns]
       @description = params[:description]
+      @write_mode = params[:write_mode] || "create"
 
       make_dir_if_needed @filename
     end
@@ -22,6 +23,14 @@ module Adapter
       end
     end
 
+    def write_flags
+      if @write_mode == "create"
+        "w"
+      else
+        "a"
+      end
+    end
+
     def write_meta
       CSV.open(@filename_meta, "wb") do |csv|
         csv.add_row ["description", @description]
@@ -33,8 +42,12 @@ module Adapter
 
     def write lines
       lines = Coercion.coerce_for_csv lines, @columns
-      CSV.open(@filename, "wb") do |csv|
-        csv.add_row @columns.keys
+      unless File.file?(@filename)
+        CSV.open(@filename, write_flags) do |csv|
+          csv.add_row @columns.keys
+        end
+      end
+      CSV.open(@filename, write_flags) do |csv|
         lines.each do |line|
           # p line.values_at(*@columns.keys)
           csv.add_row line.values_at(*@columns.keys)
