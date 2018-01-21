@@ -11,12 +11,12 @@ deezer_reader = Adapter::DeezerReader.new({
 
 deezer_reader.perform
 p deezer_reader.lines
-# writer = Adapter::CsvWriter.new({
-#   name: "#{NAME}/deezer",
-#   source: reader.filename,
-#   columns: deezer_reader.columns,
-#   description: "Aggragate by #{column_name}"
-# })
+writer = Adapter::CsvWriter.new({
+  name: "#{NAME}/deezer",
+  source: reader.filename,
+  columns: deezer_reader.columns,
+  description: "Deezer info about songs"
+})
 
-# writer.write_meta
-# writer.write deezer_reader.lines
+writer.write_meta
+writer.write deezer_reader.lines

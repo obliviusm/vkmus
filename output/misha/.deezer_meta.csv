@@ -1,0 +1,4 @@
+description,Deezer info about songs
+source,output/misha/grace.csv
+column_names,vk_id,deezer_id,title,artist
+column_types,int,int,str,str

@@ -15,7 +15,7 @@ module Adapter
         track = body["data"][0]
         if track
           p "+"
-          @deezer_songs.push track.tap { |track| track["vk_id"] = song["vk_id"] }
+          @deezer_songs.push track.tap { |track| track["id"] = song["id"] }
         else
           p "-"
         end
@@ -25,12 +25,21 @@ module Adapter
     def lines
       @deezer_songs.map do |deezer_song|
         {
-          "vk_id" => deezer_song["vk_id"],
+          "id" => deezer_song["id"],
           "deezer_id" => deezer_song["id"],
           "title" => deezer_song["title"],
           "artist" => deezer_song["artist"]["name"],
         }
       end
+    end
+
+    def columns
+      {
+        "vk_id" => "int",
+        "deezer_id" => "int",
+        "title" => "str",
+        "artist" => "str",
+      }
     end
   end
 end
