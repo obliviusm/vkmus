@@ -12,7 +12,8 @@ module Adapter
       @songs[@current_song..-1].each_with_index do |song, i|
         artist_title = song["artist"] + " " + song["title"]
         puts i, artist_title
-        response = HTTParty.get("https://api.deezer.com/search/track?q=#{artist_title}")
+        escape_artist_title = URI.escape artist_title
+        response = HTTParty.get("https://api.deezer.com/search/track?q=#{escape_artist_title}")
         if response.code == 200
           save_song(response: response, song: song)
         else

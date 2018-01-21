@@ -6,7 +6,7 @@ SOURCE_NAME = "#{NAME}/grace"
 reader = Adapter::CsvReader.new(SOURCE_NAME)
 
 deezer_reader = Adapter::DeezerReader.new({
-  songs: reader.get_lines
+  songs: reader.get_lines[32..35]
 })
 columns = Adapter::DeezerReader.columns
 writer = Adapter::CsvWriter.new({
